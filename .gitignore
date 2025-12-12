@@ -62,6 +62,7 @@ docs/_build/
 *.tex~
 
 data_collection/processed/learner_state/
+*.save
 
 # =====================
 # Windows
