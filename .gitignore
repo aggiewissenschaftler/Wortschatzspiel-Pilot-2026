@@ -52,9 +52,14 @@ build/
 dist/
 
 # =====================
-# Local documentation / drafts
+# Writing / manuscripts / exports
 # =====================
-Documents/
+Manuscripts/
+manuscripts/
+docs/_build/
+*.pdf
+*.docx
+*.tex~
 
 data_collection/processed/learner_state/
 
