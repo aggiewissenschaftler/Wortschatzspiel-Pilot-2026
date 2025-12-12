@@ -28,6 +28,17 @@ The three-week pilot (Spring 2026) investigates how adaptive, AI-driven instruct
 
 ---
 
+## Citation
+
+If you use this repository in academic work, please cite:
+
+Hallmark, T. F. (2026). *Wortschatzspiel-Pilot-2026: Reinforcement Learning–Enhanced Micro-Tutoring for German Vocabulary Acquisition*. GitHub.  
+https://github.com/aggiewissenschaftler/Wortschatzspiel-Pilot-2026
+
+A machine-readable citation is also provided in `CITATION.cff`.
+
+---
+
 ## Core Components
 
 ### YAML-Encoded Linguistic Rules
@@ -176,19 +187,6 @@ This study is expected to operate under Texas A&M University IRB oversight (**Pr
 ## License
 
 This repository is released under the **MIT License**, permitting free use, modification, and distribution with attribution. The complete license text is included in the `LICENSE` file in the repository root.
-
-> **Note:** If you truly intend dual licensing (MIT for code + CC BY-SA 4.0 for rule files), add a short “Dual licensing” paragraph here **and** include a `LICENSES/` folder with the full CC BY-SA 4.0 text. Otherwise, keep it simple: MIT only.
-
----
-
-## Citation
-
-If you use this repository in academic work, please cite:
-
-Hallmark, T. F. (2026). *Wortschatzspiel-Pilot-2026: Reinforcement Learning–Enhanced Micro-Tutoring for German Vocabulary Acquisition*. GitHub.  
-https://github.com/aggiewissenschaftler/Wortschatzspiel-Pilot-2026
-
-A machine-readable citation is also provided in `CITATION.cff`.
 
 ---
 
