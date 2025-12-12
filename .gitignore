@@ -1,0 +1,63 @@
+# =====================
+# macOS
+# =====================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+env/
+venv/
+
+# =====================
+# Jupyter / IPython
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Environment variables
+# =====================
+.env
+
+# =====================
+# Logs & runtime
+# =====================
+*.log
+logs/
+tmp/
+
+# =====================
+# Docker
+# =====================
+docker-data/
+
+# =====================
+# Editors / IDEs
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# Build artifacts
+# =====================
+build/
+dist/
+
+# =====================
+# Local documentation / drafts
+# =====================
+Documents/
+
+# =====================
+# Windows
+# =====================
+Thumbs.db
+desktop.ini
