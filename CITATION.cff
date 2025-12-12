@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Wortschatzspiel-Pilot-2026"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Hallmark"
+    given-names: "Thomas F."
+    orcid: "https://orcid.org/0009-0002-3124-8140"
+    affiliation: "Texas A&M University"
+
+version: "2026.1"
+date-released: "2026-01-01"
+
+url: "https://github.com/aggiewissenschaftler/Wortschatzspiel-Pilot-2026"
+
+license: "MIT"
