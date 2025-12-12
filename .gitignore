@@ -56,6 +56,8 @@ dist/
 # =====================
 Documents/
 
+data_collection/processed/learner_state/
+
 # =====================
 # Windows
 # =====================

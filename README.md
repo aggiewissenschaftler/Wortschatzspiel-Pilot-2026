@@ -1,5 +1,13 @@
 # Wortschatzspiel-Pilot-2026 — Repository Overview
 
+Wortschatzspiel is an RL-informed micro-tutoring system for CEFR A1 German vocabulary acquisition.
+
+## Overview
+Wortschatzspiel functions as a **dependent tutoring subsystem** within the PedagoReLearn research environment and is not intended to operate as a standalone agent. It produces structured linguistic rules, learner interaction logs, and learner state representations that are consumed by the parent PedagoReLearn agent for policy learning and evaluation.
+
+📄 **Integration:**  
+See the [Integration Contract](docs/INTEGRATION.md) for details on the Wortschatzspiel ↔ PedagoReLearn interface.
+
 **Author:** Thomas F. Hallmark  
 Department of Teaching, Learning, and Culture, Texas A&M University (College Station, TX, USA)  
 Email: thomas.hallmark@tamu.edu  
