@@ -1,0 +1,87 @@
+schema_version: 1.0
+cefr_level: A1
+language: de
+rule_set: word_order
+
+description: >
+  Core German A1 word order rules, focusing on verb-second (V2),
+  yes/no questions, negation placement, and basic adverbial ordering.
+  Rules are expressed as constraints usable by tutoring and RL systems.
+
+rules:
+
+  - rule_id: declarative_main_clause_v2
+    category: clause_structure
+    description: >
+      In German declarative main clauses, the finite verb must appear
+      in the second position (V2), regardless of what occupies the first position.
+    applies_to:
+      clause_type: declarative
+    constraints:
+      - finite_verb_position: 2
+    examples:
+      correct:
+        - "Ich lerne Deutsch."
+        - "Heute lerne ich Deutsch."
+        - "Zu Hause trinke ich Kaffee."
+      incorrect:
+        - "Ich Deutsch lerne."
+        - "Heute ich lerne Deutsch."
+
+  - rule_id: yes_no_question_verb_first
+    category: clause_structure
+    description: >
+      Yes/no questions place the finite verb in the first position (V1).
+    applies_to:
+      clause_type: yes_no_question
+    constraints:
+      - finite_verb_position: 1
+    examples:
+      correct:
+        - "Lernst du Deutsch?"
+        - "Trinkst du Kaffee?"
+      incorrect:
+        - "Du lernst Deutsch?"
+        - "Du trinkst Kaffee?"
+
+  - rule_id: negation_nicht_position
+    category: negation
+    description: >
+      The negation 'nicht' typically follows the verb or the element
+      being negated in simple A1 sentences.
+    applies_to:
+      negation_word: nicht
+    constraints:
+      - default_position: after_verb_or_object
+    examples:
+      correct:
+        - "Ich lerne nicht Deutsch."
+        - "Ich trinke heute nicht Kaffee."
+      incorrect:
+        - "Ich nicht lerne Deutsch."
+        - "Nicht ich trinke Kaffee."
+
+  - rule_id: adverbial_time_manner_place
+    category: adverbial_order
+    description: >
+      When multiple adverbials appear, the default A1 order is:
+      time → manner → place.
+    applies_to:
+      adverbials: multiple
+    constraints:
+      - order: [time, manner, place]
+    examples:
+      correct:
+        - "Ich lerne heute gern zu Hause."
+      incorrect:
+        - "Ich lerne zu Hause gern heute."
+
+metadata:
+  pedagogical_scope: >
+    Restricted to A1 instructional contexts. Subordinate clauses,
+    separable prefixes, modal stacking, and complex adverbials
+    are intentionally excluded.
+  designed_for:
+    - tutoring_feedback
+    - learner_error_detection
+    - reinforcement_learning_state_constraints
