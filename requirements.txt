@@ -17,3 +17,5 @@ matplotlib
 
 # (Optional) NLP
 # spacy
+
+typing_extensions>=4.10
