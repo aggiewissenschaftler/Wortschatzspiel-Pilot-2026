@@ -1,0 +1,181 @@
+schema_version: "0.1"
+cefr_level: "A1"
+language: "de"
+topic: "articles"
+description: "CEFR A1 German article rules for Wortschatzspiel pilot: nominative/accusative; definite/indefinite; plural (definite + no indefinite)."
+
+items:
+  # -----------------------------
+  # DEFINITE ARTICLES — NOMINATIVE
+  # -----------------------------
+  - item_id: "A1-ART-DEF-NOM-001"
+    type: "grammar_rule"
+    rule_name: "Definite articles (nominative)"
+    rule_text: "Nominative definite singular: der (masc), die (fem), das (neut). Plural: die."
+    tags: ["articles", "definite", "nominative", "a1"]
+    difficulty: 1
+    examples:
+      - de: "der Mann"
+        en: "the man"
+      - de: "die Frau"
+        en: "the woman"
+      - de: "das Kind"
+        en: "the child"
+      - de: "die Kinder"
+        en: "the children"
+    checks:
+      - check_id: "article_choice"
+        prompt_template: "Choose the correct article: __ {noun}"
+        expected: ["der", "die", "das"]
+        notes: "Expected depends on noun gender and number in vocab YAML."
+    feedback:
+      correct: "Richtig."
+      incorrect: "Fast. Check gender/number: der/die/das; plural → die."
+      hint_levels:
+        - "Is it plural? If yes → die."
+        - "Singular: masculine→der, feminine→die, neuter→das."
+        - "Correct article: {answer}"
+    notes: ""
+
+  # -----------------------------
+  # INDEFINITE ARTICLES — NOMINATIVE
+  # -----------------------------
+  - item_id: "A1-ART-INDEF-NOM-001"
+    type: "grammar_rule"
+    rule_name: "Indefinite articles (nominative)"
+    rule_text: "Nominative indefinite singular: ein (masc/neut), eine (fem). No indefinite article in plural."
+    tags: ["articles", "indefinite", "nominative", "a1"]
+    difficulty: 1
+    examples:
+      - de: "ein Mann"
+        en: "a man"
+      - de: "eine Frau"
+        en: "a woman"
+      - de: "ein Kind"
+        en: "a child"
+      - de: "Kinder"
+        en: "children (plural; no 'eine' plural)"
+    checks:
+      - check_id: "article_choice"
+        prompt_template: "Choose the correct article: __ {noun}"
+        expected: ["ein", "eine", "∅"]
+        notes: "Use ∅ for plural indefinite (no article)."
+    feedback:
+      correct: "Richtig."
+      incorrect: "Close. Feminine→eine; masc/neut→ein; plural indefinite→no article."
+      hint_levels:
+        - "Is it plural? If yes → ∅ (no article)."
+        - "If singular: feminine→eine; masc/neut→ein."
+        - "Correct article: {answer}"
+    notes: ""
+
+  # -----------------------------
+  # DEFINITE ARTICLES — ACCUSATIVE
+  # -----------------------------
+  - item_id: "A1-ART-DEF-AKK-001"
+    type: "grammar_rule"
+    rule_name: "Definite articles (accusative)"
+    rule_text: "Accusative definite: masculine der→den; feminine die→die; neuter das→das; plural die→die."
+    tags: ["articles", "definite", "accusative", "a1"]
+    difficulty: 2
+    examples:
+      - de: "Ich sehe den Mann."
+        en: "I see the man."
+      - de: "Ich sehe die Frau."
+        en: "I see the woman."
+      - de: "Ich sehe das Kind."
+        en: "I see the child."
+      - de: "Ich sehe die Kinder."
+        en: "I see the children."
+    checks:
+      - check_id: "article_choice"
+        prompt_template: "Choose the correct article (Akk.): Ich sehe __ {noun}."
+        expected: ["den", "die", "das"]
+        notes: "Masculine accusative uses den; others same as nominative."
+    feedback:
+      correct: "Richtig."
+      incorrect: "Accusative trick: only masculine changes (der→den)."
+      hint_levels:
+        - "Is the noun masculine singular? If yes → den."
+        - "Feminine/plural→die; neuter→das."
+        - "Correct article: {answer}"
+    notes: ""
+
+  # -----------------------------
+  # INDEFINITE ARTICLES — ACCUSATIVE
+  # -----------------------------
+  - item_id: "A1-ART-INDEF-AKK-001"
+    type: "grammar_rule"
+    rule_name: "Indefinite articles (accusative)"
+    rule_text: "Accusative indefinite: masculine ein→einen; feminine eine→eine; neuter ein→ein; plural indefinite→no article."
+    tags: ["articles", "indefinite", "accusative", "a1"]
+    difficulty: 2
+    examples:
+      - de: "Ich sehe einen Mann."
+        en: "I see a man."
+      - de: "Ich sehe eine Frau."
+        en: "I see a woman."
+      - de: "Ich sehe ein Kind."
+        en: "I see a child."
+      - de: "Ich sehe Kinder."
+        en: "I see children. (plural; no indefinite article)"
+    checks:
+      - check_id: "article_choice"
+        prompt_template: "Choose the correct article (Akk.): Ich sehe __ {noun}."
+        expected: ["einen", "eine", "ein", "∅"]
+        notes: "Masculine accusative uses einen; plural indefinite uses ∅."
+    feedback:
+      correct: "Richtig."
+      incorrect: "Two rules: masculine Akk. gets -en (einen); plural indefinite gets no article."
+      hint_levels:
+        - "Plural? → ∅."
+        - "Masculine singular? → einen."
+        - "Otherwise: feminine→eine; neuter→ein."
+    notes: ""
+
+  # -----------------------------
+  # PLURAL QUICK RULE (REINFORCEMENT)
+  # -----------------------------
+  - item_id: "A1-ART-PLUR-001"
+    type: "micro_rule"
+    rule_name: "Plural shortcut"
+    rule_text: "Plural definite = die. Plural indefinite = no article (∅)."
+    tags: ["articles", "plural", "a1"]
+    difficulty: 1
+    examples:
+      - de: "die Bücher"
+        en: "the books"
+      - de: "Bücher"
+        en: "books"
+    checks:
+      - check_id: "plural_article_choice"
+        prompt_template: "Plural: choose the article: __ {plural_noun}"
+        expected: ["die", "∅"]
+        notes: "Use die for definite plural; ∅ for indefinite plural."
+    feedback:
+      correct: "Richtig."
+      incorrect: "Plural is simple: definite→die; indefinite→no article."
+      hint_levels:
+        - "Are we talking about specific ones? If yes → die."
+        - "If not specific → ∅."
+        - "Correct: {answer}"
+    notes: ""
+
+extensions:
+  rl_hooks:
+    state_features:
+      - "noun_gender"
+      - "noun_number"
+      - "case_context"
+    action_targets:
+      - "prompt_article_choice"
+      - "give_hint"
+      - "give_rule_reminder"
+    reward_hints:
+      - "extra_reward_for_masc_accusative_correct"
+      - "penalize_repeated_gender_confusion"
+  rrt_tags:
+    constructs:
+      - "feedback_loop"
+      - "scaffolded_hinting"
+      - "learner_system_coadaptation"
