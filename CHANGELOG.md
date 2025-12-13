@@ -17,49 +17,31 @@ progress rather than production software releases.
 
 ---
 
-## [2025-12-12]
+## [v0.1] — 2025-12-13
+
 ### Added
-- Initial repository scaffolding
-- Core root files:
-  - `README.md`
-  - `LICENSE` (MIT)
-  - `CITATION.cff`
-  - `requirements.txt`
-  - `.env.example`
-  - `docker-compose.yml`
-  - `.gitignore`
-  - `pyproject.toml`
-  - `Makefile`
-  - `CHANGELOG.md`
-  - `CONTRIBUTING.md`
-- Pilot study structure and planning artifacts
+- Integration contract documenting the file-based interface between Wortschatzspiel (child) and PedagoReLearn (parent): `docs/INTEGRATION.md`.
+- Canonical YAML schema documentation for linguistic rules: `docs/yaml/SCHEMA.md`.
+- Initial linguistic rule set (Pilot baseline):
+  - Core CEFR A1 vocabulary: `linguistic_rules/vocab/cefr_a1_core.yaml`
+  - Article system (normalized; definite/indefinite; nominative/accusative; plural): `linguistic_rules/grammar/articles.yaml`
+  - Negation rules for *nicht*: `linguistic_rules/grammar/negation.yaml`
+  - Feedback scaffolding templates: `linguistic_rules/feedback/templates.yaml`
+
+### Changed
+- README updated to reflect repository purpose and to link to the integration contract.
+- Added `typing_extensions` dependency to stabilize Python 3.11 environments.
+- `.gitignore` updated to exclude manuscripts, writing artifacts, and local-only files.
+
+### Removed
+- Legacy scaffold PDF/DOC files removed from the repository root and replaced with standard markdown documentation.
+
+### Fixed
+- Cleaned up accidentally committed manuscript artifacts to keep the repository research-clean.
 
 ---
 
 ## Versioning Notes
-- Dates are used instead of semantic versioning during the research phase
-- Formal version numbers will be introduced at first public pilot release
-
-==========================================
-
-[v0.1] — 2025-12-13
-
-Added
-	•	Integration contract documenting the file-based interface between Wortschatzspiel (child) and PedagoReLearn (parent): docs/INTEGRATION.md.
-	•	Canonical YAML schema documentation for linguistic rules: docs/yaml/SCHEMA.md.
-	•	Initial linguistic rule set (Pilot baseline):
-	•	Core CEFR A1 vocabulary: linguistic_rules/vocab/cefr_a1_core.yaml
-	•	Article system (normalized; definite/indefinite; nominative/accusative; plural): linguistic_rules/grammar/articles.yaml
-	•	Negation rules for nicht: linguistic_rules/grammar/negation.yaml
-	•	Feedback scaffolding templates: linguistic_rules/feedback/templates.yaml
-
-Changed
-	•	README updated to reflect repository purpose and to link to the integration contract (docs/INTEGRATION.md).
-	•	Added typing_extensions dependency to stabilize Python 3.11 environments: requirements.txt.
-	•	.gitignore updated to exclude manuscripts/writing artifacts and other local-only files.
-
-Removed
-	•	Removed legacy “scaffold PDF/doc” files from the repository root (replaced by standard root files and markdown documentation).
-
-Fixed
-	•	Cleaned up accidentally-added manuscript artifacts (added then removed) to keep the repo root and Manuscripts directory tidy.
+- Tags (e.g., `v0.1`) mark research milestones, not production releases.
+- Dates indicate when milestones were finalized and tagged.
+- Semantic versioning may be introduced after the pilot phase.
