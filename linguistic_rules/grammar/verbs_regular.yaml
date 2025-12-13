@@ -1,0 +1,229 @@
+meta:
+  id: "de_grammar_verbs_present_v0_2"
+  title: "German Present Tense Verb Conjugation (CEFR A1)"
+  cefr_level: "A1"
+  language: "de"
+  version: "0.2-draft"
+  last_updated_utc: "2025-12-13T00:00:00Z"
+  notes:
+    - "Covers present tense conjugation patterns for pilot tutoring."
+    - "Includes regular verbs, key irregulars, separable-prefix verbs, and optionally modals."
+
+scope:
+  tense: "Präsens"
+  persons:
+    - ich
+    - du
+    - er_sie_es
+    - wir
+    - ihr
+    - sie_Sie
+  includes:
+    - regular_weak_verbs
+    - separable_prefix_verbs
+    - core_irregulars
+  optional_includes:
+    - modal_verbs
+
+conjugation_patterns:
+  regular_weak:
+    description: "Regular verbs: stem + ending"
+    endings:
+      ich: "e"
+      du: "st"
+      er_sie_es: "t"
+      wir: "en"
+      ihr: "t"
+      sie_Sie: "en"
+    rules:
+      - id: "spelling_sibilant_du"
+        when:
+          du_ending_conflict: true
+        explanation: "If stem ends in -s/-ß/-x/-z, du form takes -t (not -st)."
+        examples:
+          - infinitive: "heißen"
+            du: "heißt"
+          - infinitive: "tanzen"
+            du: "tanzt"
+
+  stem_d_ending_t:
+    description: "Stems ending in -d/-t (or some consonant clusters) add -e- before -st/-t"
+    endings:
+      ich: "e"
+      du: "est"
+      er_sie_es: "et"
+      wir: "en"
+      ihr: "et"
+      sie_Sie: "en"
+    examples:
+      - infinitive: "arbeiten"
+        ich: "arbeite"
+        du: "arbeitest"
+        er_sie_es: "arbeitet"
+        wir: "arbeiten"
+        ihr: "arbeitet"
+        sie_Sie: "arbeiten"
+
+  irregular_sein:
+    description: "Irregular verb: sein"
+    forms:
+      ich: "bin"
+      du: "bist"
+      er_sie_es: "ist"
+      wir: "sind"
+      ihr: "seid"
+      sie_Sie: "sind"
+
+  irregular_haben:
+    description: "Irregular verb: haben"
+    forms:
+      ich: "habe"
+      du: "hast"
+      er_sie_es: "hat"
+      wir: "haben"
+      ihr: "habt"
+      sie_Sie: "haben"
+
+  irregular_werden:
+    description: "Irregular verb: werden (optional in A1)"
+    forms:
+      ich: "werde"
+      du: "wirst"
+      er_sie_es: "wird"
+      wir: "werden"
+      ihr: "werdet"
+      sie_Sie: "werden"
+
+  modal_konnen:
+    description: "Modal: können (optional)"
+    forms:
+      ich: "kann"
+      du: "kannst"
+      er_sie_es: "kann"
+      wir: "können"
+      ihr: "könnt"
+      sie_Sie: "können"
+
+  modal_mussen:
+    description: "Modal: müssen (optional)"
+    forms:
+      ich: "muss"
+      du: "musst"
+      er_sie_es: "muss"
+      wir: "müssen"
+      ihr: "müsst"
+      sie_Sie: "müssen"
+
+  modal_wollen:
+    description: "Modal: wollen (optional)"
+    forms:
+      ich: "will"
+      du: "willst"
+      er_sie_es: "will"
+      wir: "wollen"
+      ihr: "wollt"
+      sie_Sie: "wollen"
+
+placement_rules:
+  - id: "main_clause_verb_second"
+    description: "In main clauses, the conjugated verb is in position 2 (V2)."
+    examples:
+      - "Ich lerne Deutsch."
+      - "Heute lerne ich Deutsch."
+
+  - id: "separable_prefix_split"
+    description: "Separable prefix goes to the end of the main clause (conjugated verb stays V2)."
+    examples:
+      - "Ich stehe um 7 Uhr auf."
+      - "Du machst die Tür zu."
+
+lexicon:
+  # Regular verbs (weak)
+  - verb_id: "lernen"
+    infinitive: "lernen"
+    pattern: "regular_weak"
+    english_gloss: "to learn"
+    tags: ["a1", "regular"]
+
+  - verb_id: "spielen"
+    infinitive: "spielen"
+    pattern: "regular_weak"
+    english_gloss: "to play"
+    tags: ["a1", "regular"]
+
+  - verb_id: "arbeiten"
+    infinitive: "arbeiten"
+    pattern: "stem_d_ending_t"
+    english_gloss: "to work"
+    tags: ["a1", "regular", "spelling"]
+
+  # Core irregulars
+  - verb_id: "sein"
+    infinitive: "sein"
+    pattern: "irregular_sein"
+    english_gloss: "to be"
+    tags: ["a1", "irregular", "core"]
+
+  - verb_id: "haben"
+    infinitive: "haben"
+    pattern: "irregular_haben"
+    english_gloss: "to have"
+    tags: ["a1", "irregular", "core"]
+
+  # Separable-prefix verbs
+  - verb_id: "aufstehen"
+    infinitive: "aufstehen"
+    pattern: "regular_weak"
+    prefix:
+      separable: true
+      value: "auf"
+    english_gloss: "to get up"
+    tags: ["a1", "separable"]
+
+  - verb_id: "zumachen"
+    infinitive: "zumachen"
+    pattern: "regular_weak"
+    prefix:
+      separable: true
+      value: "zu"
+    english_gloss: "to close (shut)"
+    tags: ["a1", "separable"]
+
+  # Optional modals
+  - verb_id: "koennen"
+    infinitive: "können"
+    pattern: "modal_konnen"
+    english_gloss: "can / to be able to"
+    tags: ["a1", "modal", "optional"]
+
+  - verb_id: "muessen"
+    infinitive: "müssen"
+    pattern: "modal_mussen"
+    english_gloss: "must / to have to"
+    tags: ["a1", "modal", "optional"]
+
+  - verb_id: "wollen"
+    infinitive: "wollen"
+    pattern: "modal_wollen"
+    english_gloss: "want"
+    tags: ["a1", "modal", "optional"]
+
+validation:
+  required_top_level_keys:
+    - meta
+    - scope
+    - conjugation_patterns
+    - lexicon
+  lexicon_required_fields:
+    - verb_id
+    - infinitive
+    - pattern
+  allowed_pattern_references:
+    - regular_weak
+    - stem_d_ending_t
+    - irregular_sein
+    - irregular_haben
+    - irregular_werden
+    - modal_konnen
+    - modal_mussen
+    - modal_wollen
