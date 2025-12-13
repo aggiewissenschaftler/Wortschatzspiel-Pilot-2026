@@ -315,7 +315,7 @@ tables:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 28
 - table_id: Modul 1.c - 1.A (Part 3).pptx__slide20
-  lemma_guess: sind
+  lemma_guess: sein
   pattern_guess: irregular
   forms:
     ich: bin
