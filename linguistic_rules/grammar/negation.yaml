@@ -1,0 +1,40 @@
+schema_version: "0.1"
+rule_type: "grammar"
+category: "negation"
+language: "de"
+cefr_level: "A1"
+
+description: "Placement and usage rules for the German negation word 'nicht'."
+
+rules:
+  - rule_id: "NEG-A1-001"
+    applies_to: "simple_present"
+    scope: "main_clause"
+    description: "Nicht typically negates verbs, adjectives, or clauses."
+    placement:
+      default: "after_verb_or_object"
+      examples:
+        - de: "Ich gehe nicht."
+          en: "I do not go."
+        - de: "Er ist nicht hier."
+          en: "He is not here."
+    notes: "Exact placement varies with object presence."
+
+  - rule_id: "NEG-A1-002"
+    applies_to: "predicate_adjective"
+    description: "Nicht precedes predicate adjectives."
+    examples:
+      - de: "Das ist nicht gut."
+        en: "That is not good."
+
+  - rule_id: "NEG-A1-003"
+    applies_to: "time_manner_place"
+    description: "Nicht usually precedes time/manner/place elements when negating them."
+    examples:
+      - de: "Ich komme nicht heute."
+        en: "I am not coming today."
+
+tags:
+  - negation
+  - syntax
+  - cefr_a1
