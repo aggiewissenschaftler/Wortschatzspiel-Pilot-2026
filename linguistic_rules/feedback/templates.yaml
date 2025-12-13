@@ -1,0 +1,69 @@
+schema_version: "0.1"
+description: "Feedback scaffolding templates for Wortschatzspiel (Pilot 2026)."
+
+hint_levels:
+  - level: 0
+    name: "minimal"
+    purpose: "No hint; just prompt retry."
+  - level: 1
+    name: "cue"
+    purpose: "Light cue (no answer)."
+  - level: 2
+    name: "rule_reminder"
+    purpose: "Short rule reminder or placement cue."
+  - level: 3
+    name: "example"
+    purpose: "Give a similar example (not the exact answer)."
+  - level: 4
+    name: "explicit_correction"
+    purpose: "Show correction + micro-explanation."
+
+templates:
+  default:
+    correct:
+      - "✅ Richtig."
+      - "✅ Gut gemacht."
+    incorrect_retry:
+      - "❌ Noch einmal."
+      - "❌ Versuch’s nochmal."
+    encouragement:
+      - "Du schaffst das."
+      - "Weiter so."
+
+  error_types:
+    spelling:
+      cue:
+        - "Achte auf die Rechtschreibung."
+      rule_reminder:
+        - "Groß-/Kleinschreibung prüfen. Umlaute?"
+      example:
+        - "Beispiel: ich heiße → du heißt"
+      explicit_correction:
+        - "Korrekt ist: {correct}. (Schreibung)"
+
+    negation_nicht:
+      cue:
+        - "Wo steht „nicht“ normalerweise?"
+      rule_reminder:
+        - "„nicht“ steht oft vor dem Teil, den es verneint (häufig am Satzende bei Verben/Prädikaten)."
+      example:
+        - "Beispiel: Ich komme heute nicht."
+      explicit_correction:
+        - "Korrekt ist: {correct}. (Negation mit „nicht“)"
+
+    verb_conjugation:
+      cue:
+        - "Achte auf die Verbendung."
+      rule_reminder:
+        - "Präsens: ich -e, du -st, er/sie/es -t (oft)."
+      example:
+        - "Beispiel: ich gehe, du gehst, er geht"
+      explicit_correction:
+        - "Korrekt ist: {correct}. (Verbform)"
+
+placeholders:
+  - "{correct}"
+  - "{expected}"
+  - "{got}"
+  - "{item_id}"
+  - "{hint_level}"
