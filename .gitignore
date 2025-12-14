@@ -71,6 +71,32 @@ data_collection/processed/learner_state/
 *.save
 
 # =====================
+# Generated PPT extraction artifacts
+# =====================
+docs/ppt_extracted/
+docs/ppt_text_dump.md
+
+# =====================
+# Raw instructional materials
+# =====================
+source_materials/
+
+# =====================
+# Auto-generated lexicon candidates
+# =====================
+linguistic_rules/lexicon/
+
+# =====================
+# Local schemas / drafts
+# =====================
+docs/yaml/*_schema.yaml
+
+# =====================
+# One-off extraction scripts (until frozen)
+# =====================
+tools/extract_*.py
+
+# =====================
 # Windows
 # =====================
 Thumbs.db
