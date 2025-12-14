@@ -1,0 +1,2675 @@
+schema_version: '0.2'
+rule_type: lexicon
+language: de
+description: Master lexicon index with stable lex_id keys for linking grammar/morphology
+  rules to lexical items.
+items:
+- lex_id: LEX-ADJ-A1-0001
+  category: adjective
+  text: langweilig
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 39
+- lex_id: LEX-ADJ-A1-0002
+  category: adjective
+  text: neunzehnhundertvierundneunzig
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-ADJ-A1-0003
+  category: adjective
+  text: nützlich
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 40
+- lex_id: LEX-ADJ-A1-0004
+  category: adjective
+  text: siebzehnhundertdreiundvierzig
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-ADJ-A1-0005
+  category: adjective
+  text: zweitausendzweiundzwanzig
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-N-A1-0001
+  category: noun
+  text: das Abschlusszeugnis
+  article: das
+  lemma: Abschlusszeugnis
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 4
+- lex_id: LEX-N-A1-0002
+  category: noun
+  text: das Auto
+  article: das
+  lemma: Auto
+  sources:
+  - ppt: First words.pptx
+    slide: 8
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0003
+  category: noun
+  text: das Bier
+  article: das
+  lemma: Bier
+  sources:
+  - ppt: First words.pptx
+    slide: 19
+- lex_id: LEX-N-A1-0004
+  category: noun
+  text: das Blatt Papier
+  article: das
+  lemma: Blatt Papier
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 25
+- lex_id: LEX-N-A1-0005
+  category: noun
+  text: das Brot
+  article: das
+  lemma: Brot
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: First words.pptx
+    slide: 10
+- lex_id: LEX-N-A1-0006
+  category: noun
+  text: das Buch
+  article: das
+  lemma: Buch
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 19
+  - ppt: First words.pptx
+    slide: 4
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 18
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0007
+  category: noun
+  text: Das Buch
+  article: das
+  lemma: Buch
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0008
+  category: noun
+  text: das Café
+  article: das
+  lemma: Café
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 31
+- lex_id: LEX-N-A1-0009
+  category: noun
+  text: das Diplom
+  article: das
+  lemma: Diplom
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 5
+- lex_id: LEX-N-A1-0010
+  category: noun
+  text: das Ergebnis
+  article: das
+  lemma: Ergebnis
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 10
+- lex_id: LEX-N-A1-0011
+  category: noun
+  text: das Fach (die Fächer)
+  article: das
+  lemma: Fach (die Fächer)
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 7
+- lex_id: LEX-N-A1-0012
+  category: noun
+  text: das Fahrrad
+  article: das
+  lemma: Fahrrad
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 7
+- lex_id: LEX-N-A1-0013
+  category: noun
+  text: das Fenster
+  article: das
+  lemma: Fenster
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: First words.pptx
+    slide: 38
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 36
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0014
+  category: noun
+  text: das Fenster– die Fenster
+  article: das
+  lemma: Fenster– die Fenster
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 14
+- lex_id: LEX-N-A1-0015
+  category: noun
+  text: das Fitnessstudio
+  article: das
+  lemma: Fitnessstudio
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 34
+- lex_id: LEX-N-A1-0016
+  category: noun
+  text: das Foto
+  article: das
+  lemma: Foto
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 8
+- lex_id: LEX-N-A1-0017
+  category: noun
+  text: das Geld
+  article: das
+  lemma: Geld
+  sources:
+  - ppt: First words.pptx
+    slide: 1
+- lex_id: LEX-N-A1-0018
+  category: noun
+  text: das Handy
+  article: das
+  lemma: Handy
+  sources:
+  - ppt: First words.pptx
+    slide: 43
+- lex_id: LEX-N-A1-0019
+  category: noun
+  text: das Haus
+  article: das
+  lemma: Haus
+  sources:
+  - ppt: First words.pptx
+    slide: 9
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0020
+  category: noun
+  text: Das Haus
+  article: das
+  lemma: Haus
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0021
+  category: noun
+  text: das Heft
+  article: das
+  lemma: Heft
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 27
+- lex_id: LEX-N-A1-0022
+  category: noun
+  text: das Hemd
+  article: das
+  lemma: Hemd
+  sources:
+  - ppt: First words.pptx
+    slide: 48
+- lex_id: LEX-N-A1-0023
+  category: noun
+  text: das Hotel
+  article: das
+  lemma: Hotel
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0024
+  category: noun
+  text: Das ist kein Fahrrad
+  article: das
+  lemma: ist kein Fahrrad
+  sources:
+  - ppt: Module 4.d - Negations.pptx
+    slide: 6
+- lex_id: LEX-N-A1-0025
+  category: noun
+  text: Das ist keine Tafel
+  article: das
+  lemma: ist keine Tafel
+  sources:
+  - ppt: Module 4.d - Negations.pptx
+    slide: 8
+- lex_id: LEX-N-A1-0026
+  category: noun
+  text: das Kind
+  article: das
+  lemma: Kind
+  sources:
+  - ppt: First words.pptx
+    slide: 27
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0027
+  category: noun
+  text: das Klassenzimmer
+  article: das
+  lemma: Klassenzimmer
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 5
+- lex_id: LEX-N-A1-0028
+  category: noun
+  text: das Lehrbuch
+  article: das
+  lemma: Lehrbuch
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 19
+- lex_id: LEX-N-A1-0029
+  category: noun
+  text: das Meer
+  article: das
+  lemma: Meer
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 12
+- lex_id: LEX-N-A1-0030
+  category: noun
+  text: das Mädchen
+  article: das
+  lemma: Mädchen
+  sources:
+  - ppt: First words.pptx
+    slide: 17
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 10
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0031
+  category: noun
+  text: das Problem
+  article: das
+  lemma: Problem
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 15
+- lex_id: LEX-N-A1-0032
+  category: noun
+  text: das Schulbuch
+  article: das
+  lemma: Schulbuch
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 20
+- lex_id: LEX-N-A1-0033
+  category: noun
+  text: das Schwimmbad
+  article: das
+  lemma: Schwimmbad
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 11
+- lex_id: LEX-N-A1-0034
+  category: noun
+  text: das Seminar
+  article: das
+  lemma: Seminar
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 21
+- lex_id: LEX-N-A1-0035
+  category: noun
+  text: das Spiel
+  article: das
+  lemma: Spiel
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 33
+- lex_id: LEX-N-A1-0036
+  category: noun
+  text: das Spielfeld
+  article: das
+  lemma: Spielfeld
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 5
+- lex_id: LEX-N-A1-0037
+  category: noun
+  text: das Stadion
+  article: das
+  lemma: Stadion
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 4
+- lex_id: LEX-N-A1-0038
+  category: noun
+  text: das Stipendium
+  article: das
+  lemma: Stipendium
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0039
+  category: noun
+  text: das Tischchen
+  article: das
+  lemma: Tischchen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 10
+- lex_id: LEX-N-A1-0040
+  category: noun
+  text: das Wasser
+  article: das
+  lemma: Wasser
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: First words.pptx
+    slide: 22
+- lex_id: LEX-N-A1-0041
+  category: noun
+  text: das Wörterbuch
+  article: das
+  lemma: Wörterbuch
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 21
+- lex_id: LEX-N-A1-0042
+  category: noun
+  text: das Zeugnis
+  article: das
+  lemma: Zeugnis
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 14
+- lex_id: LEX-N-A1-0043
+  category: noun
+  text: das Zimmer
+  article: das
+  lemma: Zimmer
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: First words.pptx
+    slide: 34
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0044
+  category: noun
+  text: der Abschluss
+  article: der
+  lemma: Abschluss
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 2
+- lex_id: LEX-N-A1-0045
+  category: noun
+  text: der Apfel
+  article: der
+  lemma: Apfel
+  sources:
+  - ppt: First words.pptx
+    slide: 11
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0046
+  category: noun
+  text: der Basketball
+  article: der
+  lemma: Basketball
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 3
+- lex_id: LEX-N-A1-0047
+  category: noun
+  text: der Berg (die Berge)
+  article: der
+  lemma: Berg (die Berge)
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 22
+- lex_id: LEX-N-A1-0048
+  category: noun
+  text: der Bleistift
+  article: der
+  lemma: Bleistift
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 23
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 5
+- lex_id: LEX-N-A1-0049
+  category: noun
+  text: der Bruder
+  article: der
+  lemma: Bruder
+  sources:
+  - ppt: First words.pptx
+    slide: 14
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0050
+  category: noun
+  text: der Computer
+  article: der
+  lemma: Computer
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 6
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0051
+  category: noun
+  text: der Dozent
+  article: der
+  lemma: Dozent
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 6
+- lex_id: LEX-N-A1-0052
+  category: noun
+  text: der Flughafen
+  article: der
+  lemma: Flughafen
+  sources:
+  - ppt: First words.pptx
+    slide: 44
+- lex_id: LEX-N-A1-0053
+  category: noun
+  text: der Freund
+  article: der
+  lemma: Freund
+  sources:
+  - ppt: First words.pptx
+    slide: 18
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0054
+  category: noun
+  text: der Frühling
+  article: der
+  lemma: Frühling
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 12
+- lex_id: LEX-N-A1-0055
+  category: noun
+  text: der Herbst
+  article: der
+  lemma: Herbst
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 10
+- lex_id: LEX-N-A1-0056
+  category: noun
+  text: der Hund
+  article: der
+  lemma: Hund
+  sources:
+  - ppt: First words.pptx
+    slide: 46
+- lex_id: LEX-N-A1-0057
+  category: noun
+  text: der Hörsaal
+  article: der
+  lemma: Hörsaal
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 32
+- lex_id: LEX-N-A1-0058
+  category: noun
+  text: der Junge
+  article: der
+  lemma: Junge
+  sources:
+  - ppt: First words.pptx
+    slide: 16
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0059
+  category: noun
+  text: der Kalender
+  article: der
+  lemma: Kalender
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 7
+- lex_id: LEX-N-A1-0060
+  category: noun
+  text: der Klassenkamerad
+  article: der
+  lemma: Klassenkamerad
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 43
+- lex_id: LEX-N-A1-0061
+  category: noun
+  text: der Kommilitone
+  article: der
+  lemma: Kommilitone
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 45
+- lex_id: LEX-N-A1-0062
+  category: noun
+  text: der Kopf
+  article: der
+  lemma: Kopf
+  sources:
+  - ppt: First words.pptx
+    slide: 31
+- lex_id: LEX-N-A1-0063
+  category: noun
+  text: der Kuli
+  article: der
+  lemma: Kuli
+  sources:
+  - ppt: First words.pptx
+    slide: 2
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0064
+  category: noun
+  text: der Lehrer
+  article: der
+  lemma: Lehrer
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 53
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0065
+  category: noun
+  text: der Lehrer (die Lehrerin)
+  article: der
+  lemma: Lehrer (die Lehrerin)
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 4
+- lex_id: LEX-N-A1-0066
+  category: noun
+  text: der Mann
+  article: der
+  lemma: Mann
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0067
+  category: noun
+  text: der Papierkorb
+  article: der
+  lemma: Papierkorb
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 26
+- lex_id: LEX-N-A1-0068
+  category: noun
+  text: der Park
+  article: der
+  lemma: Park
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 19
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0069
+  category: noun
+  text: der Platz
+  article: der
+  lemma: Platz
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 5
+- lex_id: LEX-N-A1-0070
+  category: noun
+  text: der Professor
+  article: der
+  lemma: Professor
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 47
+- lex_id: LEX-N-A1-0071
+  category: noun
+  text: der Radiergummi
+  article: der
+  lemma: Radiergummi
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0072
+  category: noun
+  text: der Regen
+  article: der
+  lemma: Regen
+  sources:
+  - ppt: First words.pptx
+    slide: 40
+- lex_id: LEX-N-A1-0073
+  category: noun
+  text: der Rucksack
+  article: der
+  lemma: Rucksack
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 31
+- lex_id: LEX-N-A1-0074
+  category: noun
+  text: der Saft
+  article: der
+  lemma: Saft
+  sources:
+  - ppt: First words.pptx
+    slide: 21
+- lex_id: LEX-N-A1-0075
+  category: noun
+  text: der Schlüssel
+  article: der
+  lemma: Schlüssel
+  sources:
+  - ppt: First words.pptx
+    slide: 37
+- lex_id: LEX-N-A1-0076
+  category: noun
+  text: der Schreibtisch
+  article: der
+  lemma: Schreibtisch
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 34
+- lex_id: LEX-N-A1-0077
+  category: noun
+  text: der Schüler
+  article: der
+  lemma: Schüler
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 51
+- lex_id: LEX-N-A1-0078
+  category: noun
+  text: der Seminarraum
+  article: der
+  lemma: Seminarraum
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 33
+- lex_id: LEX-N-A1-0079
+  category: noun
+  text: der Sohn
+  article: der
+  lemma: Sohn
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 2
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0080
+  category: noun
+  text: der Sommer
+  article: der
+  lemma: Sommer
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 9
+- lex_id: LEX-N-A1-0081
+  category: noun
+  text: der Student
+  article: der
+  lemma: Student
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 49
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0082
+  category: noun
+  text: der Stuhl
+  article: der
+  lemma: Stuhl
+  sources:
+  - ppt: First words.pptx
+    slide: 33
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 32
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0083
+  category: noun
+  text: der Taschenrechner
+  article: der
+  lemma: Taschenrechner
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 28
+- lex_id: LEX-N-A1-0084
+  category: noun
+  text: der Tee
+  article: der
+  lemma: Tee
+  sources:
+  - ppt: First words.pptx
+    slide: 23
+- lex_id: LEX-N-A1-0085
+  category: noun
+  text: der Tisch
+  article: der
+  lemma: Tisch
+  sources:
+  - ppt: First words.pptx
+    slide: 32
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 33
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0086
+  category: noun
+  text: der Unterricht
+  article: der
+  lemma: Unterricht
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 2
+- lex_id: LEX-N-A1-0087
+  category: noun
+  text: der Vater
+  article: der
+  lemma: Vater
+  sources:
+  - ppt: First words.pptx
+    slide: 13
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0088
+  category: noun
+  text: der Vogel
+  article: der
+  lemma: Vogel
+  sources:
+  - ppt: First words.pptx
+    slide: 45
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0089
+  category: noun
+  text: der Wald
+  article: der
+  lemma: Wald
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 20
+- lex_id: LEX-N-A1-0090
+  category: noun
+  text: der Winter
+  article: der
+  lemma: Winter
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 11
+- lex_id: LEX-N-A1-0091
+  category: noun
+  text: die Arbeit
+  article: die
+  lemma: Arbeit
+  sources:
+  - ppt: First words.pptx
+    slide: 39
+- lex_id: LEX-N-A1-0092
+  category: noun
+  text: die Architektur
+  article: die
+  lemma: Architektur
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 9
+- lex_id: LEX-N-A1-0093
+  category: noun
+  text: die Autos
+  article: die
+  lemma: Autos
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0094
+  category: noun
+  text: die Bibliothek
+  article: die
+  lemma: Bibliothek
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 40
+- lex_id: LEX-N-A1-0095
+  category: noun
+  text: die Biologie
+  article: die
+  lemma: Biologie
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 8
+- lex_id: LEX-N-A1-0096
+  category: noun
+  text: die Blume
+  article: die
+  lemma: Blume
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0097
+  category: noun
+  text: die Blumen
+  article: die
+  lemma: Blumen
+  sources:
+  - ppt: First words.pptx
+    slide: 26
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0098
+  category: noun
+  text: die Brüder
+  article: die
+  lemma: Brüder
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0099
+  category: noun
+  text: die Bücher
+  article: die
+  lemma: Bücher
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0100
+  category: noun
+  text: die Chemie
+  article: die
+  lemma: Chemie
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 20
+- lex_id: LEX-N-A1-0101
+  category: noun
+  text: die Computer
+  article: die
+  lemma: Computer
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0102
+  category: noun
+  text: die Dozentin
+  article: die
+  lemma: Dozentin
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 6
+- lex_id: LEX-N-A1-0103
+  category: noun
+  text: die Fenster
+  article: die
+  lemma: Fenster
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0104
+  category: noun
+  text: die Frage
+  article: die
+  lemma: Frage
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 9
+- lex_id: LEX-N-A1-0105
+  category: noun
+  text: die Frau
+  article: die
+  lemma: Frau
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0106
+  category: noun
+  text: die Frauen
+  article: die
+  lemma: Frauen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0107
+  category: noun
+  text: die Freizeit
+  article: die
+  lemma: Freizeit
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 37
+- lex_id: LEX-N-A1-0108
+  category: noun
+  text: die Fremdsprachen
+  article: die
+  lemma: Fremdsprachen
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 15
+- lex_id: LEX-N-A1-0109
+  category: noun
+  text: die Freunde
+  article: die
+  lemma: Freunde
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0110
+  category: noun
+  text: die Freundin
+  article: die
+  lemma: Freundin
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0111
+  category: noun
+  text: die Freundinnen
+  article: die
+  lemma: Freundinnen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0112
+  category: noun
+  text: die Geschichte
+  article: die
+  lemma: Geschichte
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 17
+- lex_id: LEX-N-A1-0113
+  category: noun
+  text: die Hausaufgabe
+  article: die
+  lemma: Hausaufgabe
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: First words.pptx
+    slide: 5
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 11
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0114
+  category: noun
+  text: Die Hausaufgabe
+  article: die
+  lemma: Hausaufgabe
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0115
+  category: noun
+  text: die Hausaufgabe machen
+  article: die
+  lemma: Hausaufgabe machen
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 57
+- lex_id: LEX-N-A1-0116
+  category: noun
+  text: die Hausaufgaben
+  article: die
+  lemma: Hausaufgaben
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0117
+  category: noun
+  text: die Hotels
+  article: die
+  lemma: Hotels
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0118
+  category: noun
+  text: die Häuser
+  article: die
+  lemma: Häuser
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0119
+  category: noun
+  text: die Informatik
+  article: die
+  lemma: Informatik
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 13
+- lex_id: LEX-N-A1-0120
+  category: noun
+  text: die Jahre
+  article: die
+  lemma: Jahre
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0121
+  category: noun
+  text: die Jungen
+  article: die
+  lemma: Jungen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0122
+  category: noun
+  text: die Karte
+  article: die
+  lemma: Karte
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 30
+- lex_id: LEX-N-A1-0123
+  category: noun
+  text: die Karte (die Karten)
+  article: die
+  lemma: Karte (die Karten)
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 36
+- lex_id: LEX-N-A1-0124
+  category: noun
+  text: die Katze
+  article: die
+  lemma: Katze
+  sources:
+  - ppt: First words.pptx
+    slide: 47
+- lex_id: LEX-N-A1-0125
+  category: noun
+  text: die Kinder
+  article: die
+  lemma: Kinder
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 3
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0126
+  category: noun
+  text: die Klasse
+  article: die
+  lemma: Klasse
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 3
+- lex_id: LEX-N-A1-0127
+  category: noun
+  text: die Klassenkameradin
+  article: die
+  lemma: Klassenkameradin
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 44
+- lex_id: LEX-N-A1-0128
+  category: noun
+  text: die Kommilitonin
+  article: die
+  lemma: Kommilitonin
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 46
+- lex_id: LEX-N-A1-0129
+  category: noun
+  text: die Kulis
+  article: die
+  lemma: Kulis
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0130
+  category: noun
+  text: die Kunst
+  article: die
+  lemma: Kunst
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 11
+- lex_id: LEX-N-A1-0131
+  category: noun
+  text: die Lehrer
+  article: die
+  lemma: Lehrer
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0132
+  category: noun
+  text: die Lehrerin
+  article: die
+  lemma: Lehrerin
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 54
+- lex_id: LEX-N-A1-0133
+  category: noun
+  text: die Leute
+  article: die
+  lemma: Leute
+  sources:
+  - ppt: First words.pptx
+    slide: 50
+- lex_id: LEX-N-A1-0134
+  category: noun
+  text: die Literatur
+  article: die
+  lemma: Literatur
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 10
+- lex_id: LEX-N-A1-0135
+  category: noun
+  text: die Mathematik
+  article: die
+  lemma: Mathematik
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 12
+- lex_id: LEX-N-A1-0136
+  category: noun
+  text: die Mensa
+  article: die
+  lemma: Mensa
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 41
+- lex_id: LEX-N-A1-0137
+  category: noun
+  text: die Milch
+  article: die
+  lemma: Milch
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: First words.pptx
+    slide: 20
+- lex_id: LEX-N-A1-0138
+  category: noun
+  text: die Mutter
+  article: die
+  lemma: Mutter
+  sources:
+  - ppt: First words.pptx
+    slide: 12
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0139
+  category: noun
+  text: die Mädchen
+  article: die
+  lemma: Mädchen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0140
+  category: noun
+  text: die Männer
+  article: die
+  lemma: Männer
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0141
+  category: noun
+  text: die Mütter
+  article: die
+  lemma: Mütter
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0142
+  category: noun
+  text: die Naturwissenschaften
+  article: die
+  lemma: Naturwissenschaften
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 18
+- lex_id: LEX-N-A1-0143
+  category: noun
+  text: die Note
+  article: die
+  lemma: Note
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 13
+- lex_id: LEX-N-A1-0144
+  category: noun
+  text: die Notiz (die Notizen)
+  article: die
+  lemma: Notiz (die Notizen)
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 12
+- lex_id: LEX-N-A1-0145
+  category: noun
+  text: die Parks
+  article: die
+  lemma: Parks
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0146
+  category: noun
+  text: die Person
+  article: die
+  lemma: Person
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 42
+- lex_id: LEX-N-A1-0147
+  category: noun
+  text: die Physik
+  article: die
+  lemma: Physik
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 19
+- lex_id: LEX-N-A1-0148
+  category: noun
+  text: die Professorin
+  article: die
+  lemma: Professorin
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 48
+- lex_id: LEX-N-A1-0149
+  category: noun
+  text: die Prüfung
+  article: die
+  lemma: Prüfung
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 16
+- lex_id: LEX-N-A1-0150
+  category: noun
+  text: Die Prüfung
+  article: die
+  lemma: Prüfung
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0151
+  category: noun
+  text: die Psychologie
+  article: die
+  lemma: Psychologie
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 14
+- lex_id: LEX-N-A1-0152
+  category: noun
+  text: die Sache
+  article: die
+  lemma: Sache
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 17
+- lex_id: LEX-N-A1-0153
+  category: noun
+  text: die Schuhe
+  article: die
+  lemma: Schuhe
+  sources:
+  - ppt: First words.pptx
+    slide: 49
+- lex_id: LEX-N-A1-0154
+  category: noun
+  text: die Schule
+  article: die
+  lemma: Schule
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 39
+- lex_id: LEX-N-A1-0155
+  category: noun
+  text: die Schwester
+  article: die
+  lemma: Schwester
+  sources:
+  - ppt: First words.pptx
+    slide: 15
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0156
+  category: noun
+  text: die Schwestern
+  article: die
+  lemma: Schwestern
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0157
+  category: noun
+  text: die Schülerin
+  article: die
+  lemma: Schülerin
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 52
+- lex_id: LEX-N-A1-0158
+  category: noun
+  text: die Sonne
+  article: die
+  lemma: Sonne
+  sources:
+  - ppt: First words.pptx
+    slide: 41
+- lex_id: LEX-N-A1-0159
+  category: noun
+  text: die Sporthalle
+  article: die
+  lemma: Sporthalle
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 35
+- lex_id: LEX-N-A1-0160
+  category: noun
+  text: die Stadt
+  article: die
+  lemma: Stadt
+  sources:
+  - ppt: First words.pptx
+    slide: 29
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0161
+  category: noun
+  text: die Straße
+  article: die
+  lemma: Straße
+  sources:
+  - ppt: First words.pptx
+    slide: 28
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0162
+  category: noun
+  text: die Straßen
+  article: die
+  lemma: Straßen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0163
+  category: noun
+  text: die Studenten
+  article: die
+  lemma: Studenten
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0164
+  category: noun
+  text: die Studentin
+  article: die
+  lemma: Studentin
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 50
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0165
+  category: noun
+  text: die Studentinnen
+  article: die
+  lemma: Studentinnen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0166
+  category: noun
+  text: die Stunde
+  article: die
+  lemma: Stunde
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 49
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 4
+- lex_id: LEX-N-A1-0167
+  category: noun
+  text: die Städte
+  article: die
+  lemma: Städte
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0168
+  category: noun
+  text: die Stühle
+  article: die
+  lemma: Stühle
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0169
+  category: noun
+  text: die Söhne
+  article: die
+  lemma: Söhne
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0170
+  category: noun
+  text: die Tafel
+  article: die
+  lemma: Tafel
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: First words.pptx
+    slide: 3
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 29
+- lex_id: LEX-N-A1-0171
+  category: noun
+  text: die Tage
+  article: die
+  lemma: Tage
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0172
+  category: noun
+  text: die Tasche
+  article: die
+  lemma: Tasche
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 19
+  - ppt: First words.pptx
+    slide: 42
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0173
+  category: noun
+  text: die Taschen
+  article: die
+  lemma: Taschen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0174
+  category: noun
+  text: die Tische
+  article: die
+  lemma: Tische
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0175
+  category: noun
+  text: die Tochter
+  article: die
+  lemma: Tochter
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 1
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0176
+  category: noun
+  text: die Töchter
+  article: die
+  lemma: Töchter
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0177
+  category: noun
+  text: die Tür
+  article: die
+  lemma: Tür
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: First words.pptx
+    slide: 36
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 37
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0178
+  category: noun
+  text: die Türen
+  article: die
+  lemma: Türen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 16
+- lex_id: LEX-N-A1-0179
+  category: noun
+  text: die Universität
+  article: die
+  lemma: Universität
+  sources:
+  - ppt: First words.pptx
+    slide: 6
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 38
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0180
+  category: noun
+  text: die Universitäten
+  article: die
+  lemma: Universitäten
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0181
+  category: noun
+  text: die Veranstaltung
+  article: die
+  lemma: Veranstaltung
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 23
+- lex_id: LEX-N-A1-0182
+  category: noun
+  text: die Vorlesung
+  article: die
+  lemma: Vorlesung
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 22
+- lex_id: LEX-N-A1-0183
+  category: noun
+  text: die Väter
+  article: die
+  lemma: Väter
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0184
+  category: noun
+  text: die Vögel
+  article: die
+  lemma: Vögel
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0185
+  category: noun
+  text: die Welt
+  article: die
+  lemma: Welt
+  sources:
+  - ppt: First words.pptx
+    slide: 30
+- lex_id: LEX-N-A1-0186
+  category: noun
+  text: die Wirtschaft
+  article: die
+  lemma: Wirtschaft
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 16
+- lex_id: LEX-N-A1-0187
+  category: noun
+  text: die Wochen
+  article: die
+  lemma: Wochen
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-N-A1-0188
+  category: noun
+  text: die Wohnung
+  article: die
+  lemma: Wohnung
+  sources:
+  - ppt: First words.pptx
+    slide: 35
+- lex_id: LEX-N-A1-0189
+  category: noun
+  text: die Zeit
+  article: die
+  lemma: Zeit
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 53
+- lex_id: LEX-N-A1-0190
+  category: noun
+  text: die Zeitung
+  article: die
+  lemma: Zeitung
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+- lex_id: LEX-N-A1-0191
+  category: noun
+  text: die Zimmer
+  article: die
+  lemma: Zimmer
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-N-A1-0192
+  category: noun
+  text: die Äpfel
+  article: die
+  lemma: Äpfel
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 19
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-N-A1-0193
+  category: noun
+  text: ein Buch
+  lemma: ein Buch
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 20
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0194
+  category: noun
+  text: ein Haus
+  lemma: ein Haus
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+- lex_id: LEX-N-A1-0195
+  category: noun
+  text: ein Kuli
+  lemma: ein Kuli
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+- lex_id: LEX-N-A1-0196
+  category: noun
+  text: eine Frage
+  lemma: eine Frage
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+- lex_id: LEX-N-A1-0197
+  category: noun
+  text: eine Katze
+  lemma: eine Katze
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0198
+  category: noun
+  text: eine Milliarde = 1.000.000.000
+  lemma: eine Milliarde = 1.000.000.000
+  sources:
+  - ppt: Modul 2.c - Numbers.pptx
+    slide: 6
+- lex_id: LEX-N-A1-0199
+  category: noun
+  text: eine Million = 1.000.000
+  lemma: eine Million = 1.000.000
+  sources:
+  - ppt: Modul 2.c - Numbers.pptx
+    slide: 6
+- lex_id: LEX-N-A1-0200
+  category: noun
+  text: eine Prüfung
+  lemma: eine Prüfung
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0201
+  category: noun
+  text: eine Tasche
+  lemma: eine Tasche
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 20
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+- lex_id: LEX-N-A1-0202
+  category: noun
+  text: eine Tochter
+  lemma: eine Tochter
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0203
+  category: noun
+  text: einen Abschluss machen
+  lemma: einen Abschluss machen
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 3
+- lex_id: LEX-N-A1-0204
+  category: noun
+  text: einen Apfel
+  lemma: einen Apfel
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0205
+  category: noun
+  text: einen Bruder
+  lemma: einen Bruder
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0206
+  category: noun
+  text: einen Hund
+  lemma: einen Hund
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0207
+  category: noun
+  text: einen Kuli
+  lemma: einen Kuli
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 20
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+- lex_id: LEX-N-A1-0208
+  category: noun
+  text: einen Kurs belegen
+  lemma: einen Kurs belegen
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 25
+- lex_id: LEX-N-A1-0209
+  category: noun
+  text: einen Sohn
+  lemma: einen Sohn
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+- lex_id: LEX-N-A1-0210
+  category: noun
+  text: einen Tisch
+  lemma: einen Tisch
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 22
+- lex_id: LEX-T-A1-0001
+  category: time_numbers
+  text: '1743'
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0002
+  category: time_numbers
+  text: '1994'
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0003
+  category: time_numbers
+  text: '2008'
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0004
+  category: time_numbers
+  text: '2022'
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0005
+  category: time_numbers
+  text: abends
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 56
+- lex_id: LEX-T-A1-0006
+  category: time_numbers
+  text: Am Abend
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0007
+  category: time_numbers
+  text: am Abend
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0008
+  category: time_numbers
+  text: am Dienstag
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 4
+- lex_id: LEX-T-A1-0009
+  category: time_numbers
+  text: am Montag
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0010
+  category: time_numbers
+  text: Am Morgen
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 14
+- lex_id: LEX-T-A1-0011
+  category: time_numbers
+  text: am Morgen
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0012
+  category: time_numbers
+  text: Am Morgen lernt er
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 18
+- lex_id: LEX-T-A1-0013
+  category: time_numbers
+  text: am Wochenende
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0014
+  category: time_numbers
+  text: das Jahr
+  sources:
+  - ppt: First words.pptx
+    slide: 24
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-T-A1-0015
+  category: time_numbers
+  text: das Wochenende
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 51
+- lex_id: LEX-T-A1-0016
+  category: time_numbers
+  text: der Dienstag
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 43
+- lex_id: LEX-T-A1-0017
+  category: time_numbers
+  text: der Donnerstag
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 45
+- lex_id: LEX-T-A1-0018
+  category: time_numbers
+  text: der Freitag
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 46
+- lex_id: LEX-T-A1-0019
+  category: time_numbers
+  text: der Mittwoch
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 44
+- lex_id: LEX-T-A1-0020
+  category: time_numbers
+  text: der Montag
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 42
+- lex_id: LEX-T-A1-0021
+  category: time_numbers
+  text: der Samstag
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 47
+- lex_id: LEX-T-A1-0022
+  category: time_numbers
+  text: der Sonntag
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 48
+- lex_id: LEX-T-A1-0023
+  category: time_numbers
+  text: der Tag
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-T-A1-0024
+  category: time_numbers
+  text: die Uhr
+  sources:
+  - ppt: First words.pptx
+    slide: 7
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 35
+- lex_id: LEX-T-A1-0025
+  category: time_numbers
+  text: die Woche
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 50
+  - ppt: First words.pptx
+    slide: 25
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-T-A1-0026
+  category: time_numbers
+  text: Es dreizehn Uhr fünfundvierzig
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 4
+- lex_id: LEX-T-A1-0027
+  category: time_numbers
+  text: Es ist ein Uhr
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+- lex_id: LEX-T-A1-0028
+  category: time_numbers
+  text: Es ist fünfzehn Uhr
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 4
+- lex_id: LEX-T-A1-0029
+  category: time_numbers
+  text: Es ist Mittag
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0030
+  category: time_numbers
+  text: Es ist zwei Uhr
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+- lex_id: LEX-T-A1-0031
+  category: time_numbers
+  text: Es ist zwölf Uhr
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+- lex_id: LEX-T-A1-0032
+  category: time_numbers
+  text: gestern
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 12
+- lex_id: LEX-T-A1-0033
+  category: time_numbers
+  text: heute
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 10
+- lex_id: LEX-T-A1-0034
+  category: time_numbers
+  text: heute Abend (Nacht)
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0035
+  category: time_numbers
+  text: Heute lerne ich Deutsch.
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 17
+- lex_id: LEX-T-A1-0036
+  category: time_numbers
+  text: morgen
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 11
+- lex_id: LEX-T-A1-0037
+  category: time_numbers
+  text: morgen Abend (Nacht)
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0038
+  category: time_numbers
+  text: Morgen arbeite ich nicht
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 18
+- lex_id: LEX-T-A1-0039
+  category: time_numbers
+  text: morgen früh
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0040
+  category: time_numbers
+  text: morgen Nachmittag
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0041
+  category: time_numbers
+  text: morgens
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 54
+- lex_id: LEX-T-A1-0042
+  category: time_numbers
+  text: nächste Woche
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 2
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0043
+  category: time_numbers
+  text: nächsten Freitag
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0044
+  category: time_numbers
+  text: nächsten Mittwoch
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0045
+  category: time_numbers
+  text: nächsten Montag
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0046
+  category: time_numbers
+  text: nächstes Jahr
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 2
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0047
+  category: time_numbers
+  text: nächstes Wochenende
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0048
+  category: time_numbers
+  text: übermorgen
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-V-A1-0001
+  category: verb
+  text: antworten
+  lemma: antworten
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 3
+- lex_id: LEX-V-A1-0002
+  category: verb
+  text: arbeiten
+  lemma: arbeiten
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 57
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 15
+- lex_id: LEX-V-A1-0003
+  category: verb
+  text: bauen
+  lemma: bauen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 2
+- lex_id: LEX-V-A1-0004
+  category: verb
+  text: bedeuten
+  lemma: bedeuten
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 4
+- lex_id: LEX-V-A1-0005
+  category: verb
+  text: begrüßen
+  lemma: begrüßen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 5
+- lex_id: LEX-V-A1-0006
+  category: verb
+  text: belegen
+  lemma: belegen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 6
+- lex_id: LEX-V-A1-0007
+  category: verb
+  text: brauchen
+  lemma: brauchen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 7
+- lex_id: LEX-V-A1-0008
+  category: verb
+  text: braun
+  lemma: braun
+  sources:
+  - ppt: Modul 1.c - 1.A (Part 3).pptx
+    slide: 15
+- lex_id: LEX-V-A1-0009
+  category: verb
+  text: bringen
+  lemma: bringen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 8
+- lex_id: LEX-V-A1-0010
+  category: verb
+  text: children
+  lemma: children
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 7
+- lex_id: LEX-V-A1-0011
+  category: verb
+  text: den
+  lemma: den
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 19
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 21
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 21
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+- lex_id: LEX-V-A1-0012
+  category: verb
+  text: ein
+  lemma: ein
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 16
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 16
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 20
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 21
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 6
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 6
+- lex_id: LEX-V-A1-0013
+  category: verb
+  text: einen
+  lemma: einen
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 20
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 21
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 21
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 21
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 21
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 23
+- lex_id: LEX-V-A1-0014
+  category: verb
+  text: essen
+  lemma: essen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 3
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 10
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 23
+- lex_id: LEX-V-A1-0015
+  category: verb
+  text: fahren
+  lemma: fahren
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 17
+- lex_id: LEX-V-A1-0016
+  category: verb
+  text: finden
+  lemma: finden
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 9
+- lex_id: LEX-V-A1-0017
+  category: verb
+  text: fragen
+  lemma: fragen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 10
+- lex_id: LEX-V-A1-0018
+  category: verb
+  text: geben
+  lemma: geben
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 15
+- lex_id: LEX-V-A1-0019
+  category: verb
+  text: gehen
+  lemma: gehen
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 26
+- lex_id: LEX-V-A1-0020
+  category: verb
+  text: gewinnen
+  lemma: gewinnen
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 35
+- lex_id: LEX-V-A1-0021
+  category: verb
+  text: grün
+  lemma: grün
+  sources:
+  - ppt: Modul 1.c - 1.A (Part 3).pptx
+    slide: 13
+- lex_id: LEX-V-A1-0022
+  category: verb
+  text: haben
+  lemma: haben
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 12
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 27
+- lex_id: LEX-V-A1-0023
+  category: verb
+  text: helfen
+  lemma: helfen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 23
+- lex_id: LEX-V-A1-0024
+  category: verb
+  text: hören
+  lemma: hören
+  sources:
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 13
+- lex_id: LEX-V-A1-0025
+  category: verb
+  text: kaufen
+  lemma: kaufen
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 6
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 17
+- lex_id: LEX-V-A1-0026
+  category: verb
+  text: kein
+  lemma: kein
+  sources:
+  - ppt: Module 4.d - Negations.pptx
+    slide: 3
+  - ppt: Module 4.d - Negations.pptx
+    slide: 3
+  - ppt: Module 4.d - Negations.pptx
+    slide: 3
+- lex_id: LEX-V-A1-0027
+  category: verb
+  text: keinen
+  lemma: keinen
+  sources:
+  - ppt: Module 4.d - Negations.pptx
+    slide: 3
+- lex_id: LEX-V-A1-0028
+  category: verb
+  text: klein
+  lemma: klein
+  sources:
+  - ppt: Modul 1.c - 1.A (Part 3).pptx
+    slide: 6
+- lex_id: LEX-V-A1-0029
+  category: verb
+  text: klettern
+  lemma: klettern
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 23
+- lex_id: LEX-V-A1-0030
+  category: verb
+  text: kochen
+  lemma: kochen
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 24
+- lex_id: LEX-V-A1-0031
+  category: verb
+  text: kommen
+  lemma: kommen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 11
+- lex_id: LEX-V-A1-0032
+  category: verb
+  text: korrigieren
+  lemma: korrigieren
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 12
+- lex_id: LEX-V-A1-0033
+  category: verb
+  text: kosten
+  lemma: kosten
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 13
+- lex_id: LEX-V-A1-0034
+  category: verb
+  text: laufen
+  lemma: laufen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 11
+- lex_id: LEX-V-A1-0035
+  category: verb
+  text: leben
+  lemma: leben
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 14
+- lex_id: LEX-V-A1-0036
+  category: verb
+  text: lernen
+  lemma: lernen
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 28
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 1
+- lex_id: LEX-V-A1-0037
+  category: verb
+  text: lesen
+  lemma: lesen
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 57
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 5
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 8
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 21
+- lex_id: LEX-V-A1-0038
+  category: verb
+  text: lieben
+  lemma: lieben
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 15
+- lex_id: LEX-V-A1-0039
+  category: verb
+  text: machen
+  lemma: machen
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 4
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 11
+- lex_id: LEX-V-A1-0040
+  category: verb
+  text: nehmen
+  lemma: nehmen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 13
+- lex_id: LEX-V-A1-0041
+  category: verb
+  text: regnen
+  lemma: regnen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 17
+- lex_id: LEX-V-A1-0042
+  category: verb
+  text: reisen
+  lemma: reisen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 18
+- lex_id: LEX-V-A1-0043
+  category: verb
+  text: sagen
+  lemma: sagen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 19
+- lex_id: LEX-V-A1-0044
+  category: verb
+  text: schlafen
+  lemma: schlafen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 9
+- lex_id: LEX-V-A1-0045
+  category: verb
+  text: schreiben
+  lemma: schreiben
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 2
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 9
+- lex_id: LEX-V-A1-0046
+  category: verb
+  text: sehen
+  lemma: sehen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 7
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 14
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 29
+- lex_id: LEX-V-A1-0047
+  category: verb
+  text: singen
+  lemma: singen
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 26
+- lex_id: LEX-V-A1-0048
+  category: verb
+  text: spielen
+  lemma: spielen
+  sources:
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 5
+- lex_id: LEX-V-A1-0049
+  category: verb
+  text: sprechen
+  lemma: sprechen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 1
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 19
+- lex_id: LEX-V-A1-0050
+  category: verb
+  text: studieren
+  lemma: studieren
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 29
+- lex_id: LEX-V-A1-0051
+  category: verb
+  text: suchen
+  lemma: suchen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 20
+- lex_id: LEX-V-A1-0052
+  category: verb
+  text: tanzen
+  lemma: tanzen
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 26
+- lex_id: LEX-V-A1-0053
+  category: verb
+  text: tragen
+  lemma: tragen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 21
+- lex_id: LEX-V-A1-0054
+  category: verb
+  text: trainieren
+  lemma: trainieren
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 15
+- lex_id: LEX-V-A1-0055
+  category: verb
+  text: trinken
+  lemma: trinken
+  sources:
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 25
+- lex_id: LEX-V-A1-0056
+  category: verb
+  text: vergessen
+  lemma: vergessen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 25
+- lex_id: LEX-V-A1-0057
+  category: verb
+  text: verlieren
+  lemma: verlieren
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 35
+- lex_id: LEX-V-A1-0058
+  category: verb
+  text: verstehen
+  lemma: verstehen
+  sources:
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 7
+- lex_id: LEX-V-A1-0059
+  category: verb
+  text: wandern
+  lemma: wandern
+  sources:
+  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
+    slide: 27
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 1
+- lex_id: LEX-V-A1-0060
+  category: verb
+  text: warten
+  lemma: warten
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 22
+- lex_id: LEX-V-A1-0061
+  category: verb
+  text: waschen
+  lemma: waschen
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 19
+- lex_id: LEX-V-A1-0062
+  category: verb
+  text: werden
+  lemma: werden
+  sources:
+  - ppt: Module 4.b - Verbs (stem change).pptx
+    slide: 27
+- lex_id: LEX-V-A1-0063
+  category: verb
+  text: wiederholen
+  lemma: wiederholen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 23
+- lex_id: LEX-V-A1-0064
+  category: verb
+  text: wohnen
+  lemma: wohnen
+  sources:
+  - ppt: Modul 2.b - Verb conjugations 1.pptx
+    slide: 3
+- lex_id: LEX-V-A1-0065
+  category: verb
+  text: öffnen
+  lemma: öffnen
+  sources:
+  - ppt: Modul 3.b - Verb conjugations 2.pptx
+    slide: 16
