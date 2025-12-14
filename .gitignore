@@ -97,6 +97,11 @@ docs/yaml/*_schema.yaml
 tools/extract_*.py
 
 # =====================
+# YAML migration backups
+# =====================
+linguistic_rules/lexicon/*.bak
+
+# =====================
 # Windows
 # =====================
 Thumbs.db
