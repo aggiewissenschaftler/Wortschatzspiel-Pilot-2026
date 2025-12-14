@@ -22,7 +22,7 @@ tables:
     slide: 2
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 20
-  lemma_lex_id: LEX-V-A1-0049
+  lemma_lex_id: LEX.VERB.SPRECHEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide4
   lemma_guess: essen
   pattern_guess: stem_change
@@ -43,7 +43,7 @@ tables:
     slide: 11
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 24
-  lemma_lex_id: LEX-V-A1-0014
+  lemma_lex_id: LEX.VERB.ESSEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide6
   lemma_guess: lesen
   pattern_guess: stem_change
@@ -64,7 +64,7 @@ tables:
     slide: 9
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 22
-  lemma_lex_id: LEX-V-A1-0037
+  lemma_lex_id: LEX.VERB.LESEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide8
   lemma_guess: sehen
   pattern_guess: stem_change
@@ -85,7 +85,7 @@ tables:
     slide: 15
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 30
-  lemma_lex_id: LEX-V-A1-0046
+  lemma_lex_id: LEX.VERB.SEHEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide10
   lemma_guess: schlafen
   pattern_guess: stem_change
@@ -102,7 +102,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 10
-  lemma_lex_id: LEX-V-A1-0044
+  lemma_lex_id: LEX.VERB.SCHLAFEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide12
   lemma_guess: laufen
   pattern_guess: stem_change
@@ -119,7 +119,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 12
-  lemma_lex_id: LEX-V-A1-0034
+  lemma_lex_id: LEX.VERB.LAUFEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide14
   lemma_guess: nehmen
   pattern_guess: stem_change
@@ -136,7 +136,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 14
-  lemma_lex_id: LEX-V-A1-0040
+  lemma_lex_id: LEX.VERB.NEHMEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide16
   lemma_guess: geben
   pattern_guess: stem_change
@@ -153,7 +153,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 16
-  lemma_lex_id: LEX-V-A1-0018
+  lemma_lex_id: LEX.VERB.GEBEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide18
   lemma_guess: fahren
   pattern_guess: stem_change
@@ -170,7 +170,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 18
-  lemma_lex_id: LEX-V-A1-0015
+  lemma_lex_id: LEX.VERB.FAHREN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide20
   lemma_guess: waschen
   pattern_guess: stem_change
@@ -187,7 +187,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 20
-  lemma_lex_id: LEX-V-A1-0061
+  lemma_lex_id: LEX.VERB.WASCHEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide22
   lemma_guess: tragen
   pattern_guess: stem_change
@@ -204,7 +204,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 22
-  lemma_lex_id: LEX-V-A1-0053
+  lemma_lex_id: LEX.VERB.TRAGEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide24
   lemma_guess: helfen
   pattern_guess: stem_change
@@ -221,7 +221,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 24
-  lemma_lex_id: LEX-V-A1-0023
+  lemma_lex_id: LEX.VERB.HELFEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide26
   lemma_guess: vergessen
   pattern_guess: regular
@@ -238,7 +238,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 26
-  lemma_lex_id: LEX-V-A1-0056
+  lemma_lex_id: LEX.VERB.VERGESSEN
 - table_id: Module 4.b - Verbs (stem change).pptx__slide28
   lemma_guess: werden
   pattern_guess: irregular
@@ -255,7 +255,7 @@ tables:
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 28
-  lemma_lex_id: LEX-V-A1-0062
+  lemma_lex_id: LEX.VERB.WERDEN
 - table_id: Modul 2.d - Accusative Case.pptx__slide3
   lemma_guess: schreiben
   pattern_guess: regular
@@ -274,7 +274,7 @@ tables:
     slide: 3
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 10
-  lemma_lex_id: LEX-V-A1-0045
+  lemma_lex_id: LEX.VERB.SCHREIBEN
 - table_id: Modul 2.d - Accusative Case.pptx__slide5
   lemma_guess: machen
   pattern_guess: regular
@@ -293,7 +293,7 @@ tables:
     slide: 5
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 12
-  lemma_lex_id: LEX-V-A1-0039
+  lemma_lex_id: LEX.VERB.MACHEN
 - table_id: Modul 2.d - Accusative Case.pptx__slide7
   lemma_guess: kaufen
   pattern_guess: regular
@@ -312,7 +312,7 @@ tables:
     slide: 7
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 18
-  lemma_lex_id: LEX-V-A1-0025
+  lemma_lex_id: LEX.VERB.KAUFEN
 - table_id: Modul 2.d - Accusative Case.pptx__slide13
   lemma_guess: haben
   pattern_guess: irregular
@@ -331,7 +331,7 @@ tables:
     slide: 13
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 28
-  lemma_lex_id: LEX-V-A1-0022
+  lemma_lex_id: LEX.VERB.HABEN
 - table_id: Modul 1.c - 1.A (Part 3).pptx__slide20
   lemma_guess: sein
   pattern_guess: irregular
@@ -369,7 +369,7 @@ tables:
     slide: 20
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 4
-  lemma_lex_id: LEX-V-A1-0064
+  lemma_lex_id: LEX.VERB.WOHNEN
 - table_id: Modul 1.a - 1.A (Part 1).pptx__slide21
   lemma_guess: heißen
   pattern_guess: regular
@@ -403,7 +403,7 @@ tables:
   sources:
   - ppt: Modul 1.a - 1.A (Part 1).pptx
     slide: 24
-  lemma_lex_id: LEX-V-A1-0031
+  lemma_lex_id: LEX.VERB.KOMMEN
 - table_id: Modul 2.b - Verb conjugations 1.pptx__slide2
   lemma_guess: lernen
   pattern_guess: regular
@@ -420,7 +420,7 @@ tables:
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 2
-  lemma_lex_id: LEX-V-A1-0036
+  lemma_lex_id: LEX.VERB.LERNEN
 - table_id: Modul 2.b - Verb conjugations 1.pptx__slide6
   lemma_guess: spielen
   pattern_guess: regular
@@ -437,7 +437,7 @@ tables:
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 6
-  lemma_lex_id: LEX-V-A1-0048
+  lemma_lex_id: LEX.VERB.SPIELEN
 - table_id: Modul 2.b - Verb conjugations 1.pptx__slide8
   lemma_guess: verstehen
   pattern_guess: regular
@@ -454,7 +454,7 @@ tables:
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 8
-  lemma_lex_id: LEX-V-A1-0058
+  lemma_lex_id: LEX.VERB.VERSTEHEN
 - table_id: Modul 2.b - Verb conjugations 1.pptx__slide14
   lemma_guess: hören
   pattern_guess: stem_change
@@ -471,7 +471,7 @@ tables:
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 14
-  lemma_lex_id: LEX-V-A1-0024
+  lemma_lex_id: LEX.VERB.HOEREN
 - table_id: Modul 2.b - Verb conjugations 1.pptx__slide16
   lemma_guess: arbeiten
   pattern_guess: regular
@@ -488,7 +488,7 @@ tables:
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 16
-  lemma_lex_id: LEX-V-A1-0002
+  lemma_lex_id: LEX.VERB.ARBEITEN
 - table_id: Modul 2.b - Verb conjugations 1.pptx__slide26
   lemma_guess: trinken
   pattern_guess: regular
@@ -505,4 +505,4 @@ tables:
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 26
-  lemma_lex_id: LEX-V-A1-0055
+  lemma_lex_id: LEX.VERB.TRINKEN
