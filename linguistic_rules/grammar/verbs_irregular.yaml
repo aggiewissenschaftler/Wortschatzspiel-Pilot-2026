@@ -1,0 +1,52 @@
+schema_version: "1.0"
+module: "grammar"
+topic: "verbs_irregular"
+cefr_level: "A1"
+source_ppt:
+  - "Modul 2.b - Verb conjugations 1.pptx"
+  - "Module 4.c - Present as Future.pptx"
+
+description: >
+  High-frequency irregular verbs in German that do not follow
+  regular or stem-change patterns.
+
+tense: "present"
+
+verbs:
+  - infinitive: "sein"
+    meaning: "to be"
+    conjugation:
+      ich: "bin"
+      du: "bist"
+      er_sie_es: "ist"
+      wir: "sind"
+      ihr: "seid"
+      sie_Sie: "sind"
+
+  - infinitive: "haben"
+    meaning: "to have"
+    conjugation:
+      ich: "habe"
+      du: "hast"
+      er_sie_es: "hat"
+      wir: "haben"
+      ihr: "habt"
+      sie_Sie: "haben"
+
+  - infinitive: "werden"
+    meaning: "to become / future auxiliary"
+    conjugation:
+      ich: "werde"
+      du: "wirst"
+      er_sie_es: "wird"
+      wir: "werden"
+      ihr: "werdet"
+      sie_Sie: "werden"
+
+pedagogical_notes:
+  - These verbs are foundational for sentence construction.
+  - Must be memorized explicitly.
+
+computational_notes:
+  - Stored as lookup tables.
+  - Excluded from rule-based generation.

@@ -1,0 +1,49 @@
+schema_version: "1.0"
+module: "grammar"
+topic: "numbers_and_time"
+cefr_level: "A1"
+source_ppt:
+  - "Modul 2.c - Numbers.pptx"
+  - "Modul 3.c - Time & Date.pptx"
+
+description: >
+  Numbers, dates, and time expressions used in basic communication.
+
+numbers:
+  range:
+    min: 0
+    max: 100
+  examples:
+    - "null"
+    - "eins"
+    - "zehn"
+    - "zwanzig"
+    - "dreißig"
+
+time:
+  expressions:
+    - pattern: "Es ist {hour} Uhr."
+    - pattern: "Es ist {hour}:{minute}."
+    - pattern: "um {time}"
+
+questions:
+  - "Wie spät ist es?"
+  - "Wann…?"
+
+dates:
+  days:
+    - Montag
+    - Dienstag
+    - Mittwoch
+    - Donnerstag
+    - Freitag
+    - Samstag
+    - Sonntag
+
+pedagogical_notes:
+  - Time expressions are high-frequency communicative forms.
+  - Accuracy supports scheduling and daily routines.
+
+computational_notes:
+  - Enables slot-based generation.
+  - Supports temporal reasoning in tutoring.

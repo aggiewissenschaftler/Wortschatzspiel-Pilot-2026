@@ -1,0 +1,69 @@
+schema_version: "1.0"
+module: "grammar"
+topic: "verbs_stemchange"
+cefr_level: "A1"
+source_ppt:
+  - "Module 4.b - Verbs (stem change).pptx"
+
+description: >
+  Present tense stem-changing verbs in German. Stem changes occur
+  in second and third person singular forms only.
+
+tense: "present"
+
+rules:
+  - type: "e_to_i"
+    description: "e → i in du and er/sie/es"
+  - type: "e_to_ie"
+    description: "e → ie in du and er/sie/es"
+  - type: "a_to_ae"
+    description: "a → ä in du and er/sie/es"
+  - type: "au_to_aeu"
+    description: "au → äu in du and er/sie/es"
+
+verbs:
+  - infinitive: "sehen"
+    change: "e_to_ie"
+    conjugation:
+      ich: "sehe"
+      du: "siehst"
+      er_sie_es: "sieht"
+
+  - infinitive: "sprechen"
+    change: "e_to_i"
+    conjugation:
+      ich: "spreche"
+      du: "sprichst"
+      er_sie_es: "spricht"
+
+  - infinitive: "fahren"
+    change: "a_to_ae"
+    conjugation:
+      ich: "fahre"
+      du: "fährst"
+      er_sie_es: "fährt"
+
+  - infinitive: "laufen"
+    change: "au_to_aeu"
+    conjugation:
+      ich: "laufe"
+      du: "läufst"
+      er_sie_es: "läuft"
+
+constraints:
+  - Stem changes do not apply to plural forms.
+  - wir/ihr/sie forms remain regular.
+
+common_errors:
+  - error: "du sehst"
+    correction: "du siehst"
+  - error: "er laufet"
+    correction: "er läuft"
+
+pedagogical_notes:
+  - Stem-changing verbs are systematic, not random.
+  - Treated separately from fully irregular verbs.
+
+computational_notes:
+  - Modeled as conditional transformations based on person.
+  - Enables precise feedback targeting.
