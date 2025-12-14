@@ -1,0 +1,7 @@
+schema_version: '0.2'
+rule_type: lexicon
+language: de
+cefr_level: A1
+category: adverb
+source: items_csv_rebuild
+items: []

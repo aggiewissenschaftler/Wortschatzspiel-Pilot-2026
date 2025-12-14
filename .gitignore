@@ -82,11 +82,6 @@ docs/ppt_text_dump.md
 source_materials/
 
 # =====================
-# Auto-generated lexicon candidates
-# =====================
-linguistic_rules/lexicon/
-
-# =====================
 # Local schemas / drafts
 # =====================
 docs/yaml/*_schema.yaml

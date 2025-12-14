@@ -1,0 +1,47 @@
+schema_version: '0.2'
+rule_type: lexicon
+language: de
+cefr_level: A1
+category: adjective
+source: items_csv_rebuild
+items:
+- lex_id: LEX-ADJ-A1-0001
+  text: langweilig
+  pos: adjective
+  lemma: langweilig
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 39
+- lex_id: LEX-ADJ-A1-0002
+  text: neunzehnhundertvierundneunzig
+  pos: adjective
+  lemma: neunzehnhundertvierundneunzig
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-ADJ-A1-0003
+  text: nützlich
+  pos: adjective
+  lemma: nützlich
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 40
+- lex_id: LEX-ADJ-A1-0004
+  text: siebzehnhundertdreiundvierzig
+  pos: adjective
+  lemma: siebzehnhundertdreiundvierzig
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-ADJ-A1-0005
+  text: zweitausendzweiundzwanzig
+  pos: adjective
+  lemma: zweitausendzweiundzwanzig
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15

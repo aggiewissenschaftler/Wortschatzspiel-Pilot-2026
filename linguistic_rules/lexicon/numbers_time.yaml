@@ -1,0 +1,409 @@
+schema_version: '0.2'
+rule_type: lexicon
+language: de
+cefr_level: A1
+category: time_numbers
+source: items_csv_rebuild
+items:
+- lex_id: LEX-T-A1-0001
+  text: '1743'
+  pos: time_numbers
+  lemma: '1743'
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0002
+  text: '1994'
+  pos: time_numbers
+  lemma: '1994'
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0003
+  text: '2008'
+  pos: time_numbers
+  lemma: '2008'
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0004
+  text: '2022'
+  pos: time_numbers
+  lemma: '2022'
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0005
+  text: abends
+  pos: time_numbers
+  lemma: abends
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 56
+- lex_id: LEX-T-A1-0006
+  text: Am Abend
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 15
+- lex_id: LEX-T-A1-0007
+  text: am Abend
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0008
+  text: am Dienstag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 4
+- lex_id: LEX-T-A1-0009
+  text: am Montag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0010
+  text: Am Morgen
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 14
+- lex_id: LEX-T-A1-0011
+  text: am Morgen
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0012
+  text: Am Morgen lernt er
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 18
+- lex_id: LEX-T-A1-0013
+  text: am Wochenende
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0014
+  text: das Jahr
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: First words.pptx
+    slide: 24
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 17
+- lex_id: LEX-T-A1-0015
+  text: das Wochenende
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 51
+- lex_id: LEX-T-A1-0016
+  text: der Dienstag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 43
+- lex_id: LEX-T-A1-0017
+  text: der Donnerstag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 45
+- lex_id: LEX-T-A1-0018
+  text: der Freitag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 46
+- lex_id: LEX-T-A1-0019
+  text: der Mittwoch
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 44
+- lex_id: LEX-T-A1-0020
+  text: der Montag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 42
+- lex_id: LEX-T-A1-0021
+  text: der Samstag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 47
+- lex_id: LEX-T-A1-0022
+  text: der Sonntag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 48
+- lex_id: LEX-T-A1-0023
+  text: der Tag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 15
+- lex_id: LEX-T-A1-0024
+  text: die Uhr
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: First words.pptx
+    slide: 7
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 35
+- lex_id: LEX-T-A1-0025
+  text: die Woche
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 50
+  - ppt: First words.pptx
+    slide: 25
+  - ppt: Modul 1.b - 1.A (Part 2).pptx
+    slide: 18
+- lex_id: LEX-T-A1-0026
+  text: Es dreizehn Uhr fünfundvierzig
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 4
+- lex_id: LEX-T-A1-0027
+  text: Es ist ein Uhr
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+- lex_id: LEX-T-A1-0028
+  text: Es ist fünfzehn Uhr
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 4
+- lex_id: LEX-T-A1-0029
+  text: Es ist Mittag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0030
+  text: Es ist zwei Uhr
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+- lex_id: LEX-T-A1-0031
+  text: Es ist zwölf Uhr
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 3.c - Time & Date.pptx
+    slide: 2
+- lex_id: LEX-T-A1-0032
+  text: gestern
+  pos: time_numbers
+  lemma: gestern
+  notes: null
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 12
+- lex_id: LEX-T-A1-0033
+  text: heute
+  pos: time_numbers
+  lemma: heute
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 10
+- lex_id: LEX-T-A1-0034
+  text: heute Abend (Nacht)
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0035
+  text: Heute lerne ich Deutsch.
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 17
+- lex_id: LEX-T-A1-0036
+  text: morgen
+  pos: time_numbers
+  lemma: morgen
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 11
+- lex_id: LEX-T-A1-0037
+  text: morgen Abend (Nacht)
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0038
+  text: Morgen arbeite ich nicht
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Modul 2.e - Word order.pptx
+    slide: 18
+- lex_id: LEX-T-A1-0039
+  text: morgen früh
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0040
+  text: morgen Nachmittag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
+- lex_id: LEX-T-A1-0041
+  text: morgens
+  pos: time_numbers
+  lemma: morgens
+  notes: null
+  sources:
+  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
+    slide: 54
+- lex_id: LEX-T-A1-0042
+  text: nächste Woche
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 2
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0043
+  text: nächsten Freitag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0044
+  text: nächsten Mittwoch
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0045
+  text: nächsten Montag
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0046
+  text: nächstes Jahr
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 2
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0047
+  text: nächstes Wochenende
+  pos: time_numbers
+  lemma: null
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 5
+- lex_id: LEX-T-A1-0048
+  text: übermorgen
+  pos: time_numbers
+  lemma: übermorgen
+  notes: null
+  sources:
+  - ppt: Module 4.c - Present as Future.pptx
+    slide: 3
