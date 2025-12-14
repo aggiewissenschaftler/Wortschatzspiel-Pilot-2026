@@ -97,6 +97,11 @@ tools/extract_*.py
 linguistic_rules/lexicon/*.bak
 
 # =====================
+# Lexicon audit artifacts
+# =====================
+linguistic_rules/lexicon/unknown.csv
+
+# =====================
 # Windows
 # =====================
 Thumbs.db
