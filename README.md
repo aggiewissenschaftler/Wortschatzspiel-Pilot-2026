@@ -5,6 +5,9 @@ Wortschatzspiel is an RL-informed micro-tutoring system for CEFR A1 German vocab
 ## Overview
 Wortschatzspiel functions as a **dependent tutoring subsystem** within the PedagoReLearn research environment and is not intended to operate as a standalone agent. It produces structured linguistic rules, learner interaction logs, and learner state representations that are consumed by the parent PedagoReLearn agent for policy learning and evaluation.
 
+## Ops Manual
+See `PIPELINE.md` for the authoritative build + validation pipeline (required before committing rule changes).
+
 📄 **Integration:**  
 See the [Integration Contract](docs/INTEGRATION.md) for details on the Wortschatzspiel ↔ PedagoReLearn interface.
 

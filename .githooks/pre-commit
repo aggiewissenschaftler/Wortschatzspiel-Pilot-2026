@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+echo "Pre-commit: validating Wortschatzspiel ruleset integrity..."
+
+# Run the validator
+python tools/validate_ruleset_integrity.py
+
+# Optional: block commits if there are untracked files in key areas
+# (prevents “oops forgot to add the tool/script”)
+if git status --porcelain | grep -E '^\?\? (tools/|linguistic_rules/)' >/dev/null 2>&1; then
+  echo "ERROR: Untracked files detected in tools/ or linguistic_rules/."
+  echo "Please add them or clean them before committing."
+  git status --porcelain | grep -E '^\?\? (tools/|linguistic_rules/)' || true
+  exit 1
+fi
+
+echo "Pre-commit: OK"
