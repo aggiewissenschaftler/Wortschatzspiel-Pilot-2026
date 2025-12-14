@@ -1,69 +1,37 @@
-schema_version: '0.2'
-rule_type: lexicon
-language: de
-cefr_level: A1
-category: noun
+schema_version: '0.1'
 source: items_csv_rebuild
+category: noun
 items:
-- lex_id: LEX-N-A1-0001
-  text: das Abschlusszeugnis
-  pos: noun
-  lemma: Abschlusszeugnis
-  notes: null
+- text: das Abschlusszeugnis
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 4
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0002
-  text: das Auto
-  pos: noun
-  lemma: Auto
-  notes: null
+  lex_id: LEX.NOUN.ABSCHLUSSZEUGNIS.DAS
+- text: das Auto
   sources:
   - ppt: First words.pptx
     slide: 8
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0003
-  text: das Bier
-  pos: noun
-  lemma: Bier
-  notes: null
+  lex_id: LEX.NOUN.AUTO.DAS
+- text: das Bier
   sources:
   - ppt: First words.pptx
     slide: 19
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0004
-  text: das Blatt Papier
-  pos: noun
-  lemma: Blatt Papier
-  notes: null
+  lex_id: LEX.NOUN.BIER.DAS
+- text: das Blatt Papier
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 25
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0005
-  text: das Brot
-  pos: noun
-  lemma: Brot
-  notes: null
+  lex_id: LEX.NOUN.BLATT.PAPIER.DAS
+- text: das Brot
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
   - ppt: First words.pptx
     slide: 10
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0006
-  text: das Buch
-  pos: noun
-  lemma: Buch
-  notes: null
+  lex_id: LEX.NOUN.BROT.DAS
+- text: das Buch
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 19
@@ -73,73 +41,38 @@ items:
     slide: 18
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0007
-  text: Das Buch
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.BUCH.DAS
+- text: Das Buch
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0008
-  text: das Café
-  pos: noun
-  lemma: Café
-  notes: null
+  lex_id: LEX.NOUN.BUCH.DAS.2
+- text: das Café
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 31
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0009
-  text: das Diplom
-  pos: noun
-  lemma: Diplom
-  notes: null
+  lex_id: LEX.NOUN.CAF.DAS
+- text: das Diplom
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 5
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0010
-  text: das Ergebnis
-  pos: noun
-  lemma: Ergebnis
-  notes: null
+  lex_id: LEX.NOUN.DIPLOM.DAS
+- text: das Ergebnis
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 10
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0011
-  text: das Fach (die Fächer)
-  pos: noun
-  lemma: Fach (die Fächer)
-  notes: null
+  lex_id: LEX.NOUN.ERGEBNIS.DAS
+- text: das Fach (die Fächer)
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 7
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0012
-  text: das Fahrrad
-  pos: noun
-  lemma: Fahrrad
-  notes: null
+  lex_id: LEX.NOUN.FACH.DIE.FAECHER.DAS
+- text: das Fahrrad
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 7
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0013
-  text: das Fenster
-  pos: noun
-  lemma: Fenster
-  notes: null
+  lex_id: LEX.NOUN.FAHRRAD.DAS
+- text: das Fenster
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
@@ -149,63 +82,38 @@ items:
     slide: 36
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0014
-  text: das Fenster– die Fenster
-  pos: noun
-  lemma: Fenster– die Fenster
-  notes: null
+  lex_id: LEX.NOUN.FENSTER.DAS
+- text: das Fenster– die Fenster
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 14
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0015
-  text: das Fitnessstudio
-  pos: noun
-  lemma: Fitnessstudio
-  notes: null
+  lex_id: LEX.NOUN.FENSTER.DIE.FENSTER.DAS
+- text: das Fitnessstudio
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 34
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0016
-  text: das Foto
-  pos: noun
-  lemma: Foto
-  notes: null
+  lex_id: LEX.NOUN.FITNESSSTUDIO.DAS
+- text: das Foto
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 8
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0017
-  text: das Geld
-  pos: noun
-  lemma: Geld
-  notes: null
+  lex_id: LEX.NOUN.FOTO.DAS
+- text: das Geld
   sources:
   - ppt: First words.pptx
     slide: 1
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0018
-  text: das Handy
-  pos: noun
-  lemma: Handy
-  notes: null
+  lex_id: LEX.NOUN.GELD.DAS
+- text: das Handy
   sources:
   - ppt: First words.pptx
     slide: 43
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0019
-  text: das Haus
-  pos: noun
-  lemma: Haus
-  notes: null
+  lex_id: LEX.NOUN.HANDY.DAS
+- text: Das Haus
+  sources:
+  - ppt: Modul 2.d - Accusative Case.pptx
+    slide: 24
+  lex_id: LEX.NOUN.HAUS.DAS
+- text: das Haus
   sources:
   - ppt: First words.pptx
     slide: 9
@@ -213,115 +121,55 @@ items:
     slide: 7
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0020
-  text: Das Haus
-  pos: noun
-  lemma: null
-  notes: null
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0021
-  text: das Heft
-  pos: noun
-  lemma: Heft
-  notes: null
+  lex_id: LEX.NOUN.HAUS.DAS.2
+- text: das Heft
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 27
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0022
-  text: das Hemd
-  pos: noun
-  lemma: Hemd
-  notes: null
+  lex_id: LEX.NOUN.HEFT.DAS
+- text: das Hemd
   sources:
   - ppt: First words.pptx
     slide: 48
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0023
-  text: das Hotel
-  pos: noun
-  lemma: Hotel
-  notes: null
+  lex_id: LEX.NOUN.HEMD.DAS
+- text: das Hotel
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0024
-  text: Das ist kein Fahrrad
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.HOTEL.DAS
+- text: Das ist kein Fahrrad
   sources:
   - ppt: Module 4.d - Negations.pptx
     slide: 6
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0025
-  text: Das ist keine Tafel
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.IST.KEIN.FAHRRAD.DAS
+- text: Das ist keine Tafel
   sources:
   - ppt: Module 4.d - Negations.pptx
     slide: 8
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0026
-  text: das Kind
-  pos: noun
-  lemma: Kind
-  notes: null
+  lex_id: LEX.NOUN.IST.KEINE.TAFEL.DAS
+- text: das Kind
   sources:
   - ppt: First words.pptx
     slide: 27
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0027
-  text: das Klassenzimmer
-  pos: noun
-  lemma: Klassenzimmer
-  notes: null
+  lex_id: LEX.NOUN.KIND.DAS
+- text: das Klassenzimmer
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 5
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0028
-  text: das Lehrbuch
-  pos: noun
-  lemma: Lehrbuch
-  notes: null
+  lex_id: LEX.NOUN.KLASSENZIMMER.DAS
+- text: das Lehrbuch
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 19
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0029
-  text: das Meer
-  pos: noun
-  lemma: Meer
-  notes: null
+  lex_id: LEX.NOUN.LEHRBUCH.DAS
+- text: das Meer
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 12
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0030
-  text: das Mädchen
-  pos: noun
-  lemma: Mädchen
-  notes: null
+  lex_id: LEX.NOUN.MEER.DAS
+- text: das Mädchen
   sources:
   - ppt: First words.pptx
     slide: 17
@@ -329,135 +177,70 @@ items:
     slide: 10
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0031
-  text: das Problem
-  pos: noun
-  lemma: Problem
-  notes: null
+  lex_id: LEX.NOUN.MAEDCHEN.DAS
+- text: das Problem
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 15
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0032
-  text: das Schulbuch
-  pos: noun
-  lemma: Schulbuch
-  notes: null
+  lex_id: LEX.NOUN.PROBLEM.DAS
+- text: das Schulbuch
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 20
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0033
-  text: das Schwimmbad
-  pos: noun
-  lemma: Schwimmbad
-  notes: null
+  lex_id: LEX.NOUN.SCHULBUCH.DAS
+- text: das Schwimmbad
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 11
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0034
-  text: das Seminar
-  pos: noun
-  lemma: Seminar
-  notes: null
+  lex_id: LEX.NOUN.SCHWIMMBAD.DAS
+- text: das Seminar
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 21
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0035
-  text: das Spiel
-  pos: noun
-  lemma: Spiel
-  notes: null
+  lex_id: LEX.NOUN.SEMINAR.DAS
+- text: das Spiel
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 33
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0036
-  text: das Spielfeld
-  pos: noun
-  lemma: Spielfeld
-  notes: null
+  lex_id: LEX.NOUN.SPIEL.DAS
+- text: das Spielfeld
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 5
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0037
-  text: das Stadion
-  pos: noun
-  lemma: Stadion
-  notes: null
+  lex_id: LEX.NOUN.SPIELFELD.DAS
+- text: das Stadion
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 4
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0038
-  text: das Stipendium
-  pos: noun
-  lemma: Stipendium
-  notes: null
+  lex_id: LEX.NOUN.STADION.DAS
+- text: das Stipendium
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 24
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0039
-  text: das Tischchen
-  pos: noun
-  lemma: Tischchen
-  notes: null
+  lex_id: LEX.NOUN.STIPENDIUM.DAS
+- text: das Tischchen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 10
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0040
-  text: das Wasser
-  pos: noun
-  lemma: Wasser
-  notes: null
+  lex_id: LEX.NOUN.TISCHCHEN.DAS
+- text: das Wasser
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
   - ppt: First words.pptx
     slide: 22
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0041
-  text: das Wörterbuch
-  pos: noun
-  lemma: Wörterbuch
-  notes: null
+  lex_id: LEX.NOUN.WASSER.DAS
+- text: das Wörterbuch
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 21
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0042
-  text: das Zeugnis
-  pos: noun
-  lemma: Zeugnis
-  notes: null
+  lex_id: LEX.NOUN.WOERTERBUCH.DAS
+- text: das Zeugnis
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 14
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0043
-  text: das Zimmer
-  pos: noun
-  lemma: Zimmer
-  notes: null
+  lex_id: LEX.NOUN.ZEUGNIS.DAS
+- text: das Zimmer
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
@@ -467,215 +250,115 @@ items:
     slide: 34
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: das
-  plural: null
-- lex_id: LEX-N-A1-0044
-  text: der Abschluss
-  pos: noun
-  lemma: Abschluss
-  notes: null
+  lex_id: LEX.NOUN.ZIMMER.DAS
+- text: der Abschluss
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 2
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0045
-  text: der Apfel
-  pos: noun
-  lemma: Apfel
-  notes: null
+  lex_id: LEX.NOUN.ABSCHLUSS.DER
+- text: der Apfel
   sources:
   - ppt: First words.pptx
     slide: 11
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0046
-  text: der Basketball
-  pos: noun
-  lemma: Basketball
-  notes: null
+  lex_id: LEX.NOUN.APFEL.DER
+- text: der Basketball
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 3
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0047
-  text: der Berg (die Berge)
-  pos: noun
-  lemma: Berg (die Berge)
-  notes: null
+  lex_id: LEX.NOUN.BASKETBALL.DER
+- text: der Berg (die Berge)
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 22
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0048
-  text: der Bleistift
-  pos: noun
-  lemma: Bleistift
-  notes: null
+  lex_id: LEX.NOUN.BERG.DIE.BERGE.DER
+- text: der Bleistift
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 23
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 5
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0049
-  text: der Bruder
-  pos: noun
-  lemma: Bruder
-  notes: null
+  lex_id: LEX.NOUN.BLEISTIFT.DER
+- text: der Bruder
   sources:
   - ppt: First words.pptx
     slide: 14
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0050
-  text: der Computer
-  pos: noun
-  lemma: Computer
-  notes: null
+  lex_id: LEX.NOUN.BRUDER.DER
+- text: der Computer
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 6
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0051
-  text: der Dozent
-  pos: noun
-  lemma: Dozent
-  notes: null
+  lex_id: LEX.NOUN.COMPUTER.DER
+- text: der Dozent
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 6
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0052
-  text: der Flughafen
-  pos: noun
-  lemma: Flughafen
-  notes: null
+  lex_id: LEX.NOUN.DOZENT.DER
+- text: der Flughafen
   sources:
   - ppt: First words.pptx
     slide: 44
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0053
-  text: der Freund
-  pos: noun
-  lemma: Freund
-  notes: null
+  lex_id: LEX.NOUN.FLUGHAFEN.DER
+- text: der Freund
   sources:
   - ppt: First words.pptx
     slide: 18
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0054
-  text: der Frühling
-  pos: noun
-  lemma: Frühling
-  notes: null
+  lex_id: LEX.NOUN.FREUND.DER
+- text: der Frühling
   sources:
   - ppt: Modul 3.c - Time & Date.pptx
     slide: 12
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0055
-  text: der Herbst
-  pos: noun
-  lemma: Herbst
-  notes: null
+  lex_id: LEX.NOUN.FRUEHLING.DER
+- text: der Herbst
   sources:
   - ppt: Modul 3.c - Time & Date.pptx
     slide: 10
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0056
-  text: der Hund
-  pos: noun
-  lemma: Hund
-  notes: null
+  lex_id: LEX.NOUN.HERBST.DER
+- text: der Hund
   sources:
   - ppt: First words.pptx
     slide: 46
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0057
-  text: der Hörsaal
-  pos: noun
-  lemma: Hörsaal
-  notes: null
+  lex_id: LEX.NOUN.HUND.DER
+- text: der Hörsaal
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 32
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0058
-  text: der Junge
-  pos: noun
-  lemma: Junge
-  notes: null
+  lex_id: LEX.NOUN.HOERSAAL.DER
+- text: der Junge
   sources:
   - ppt: First words.pptx
     slide: 16
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0059
-  text: der Kalender
-  pos: noun
-  lemma: Kalender
-  notes: null
+  lex_id: LEX.NOUN.JUNGE.DER
+- text: der Kalender
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 7
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0060
-  text: der Klassenkamerad
-  pos: noun
-  lemma: Klassenkamerad
-  notes: null
+  lex_id: LEX.NOUN.KALENDER.DER
+- text: der Klassenkamerad
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 43
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0061
-  text: der Kommilitone
-  pos: noun
-  lemma: Kommilitone
-  notes: null
+  lex_id: LEX.NOUN.KLASSENKAMERAD.DER
+- text: der Kommilitone
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 45
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0062
-  text: der Kopf
-  pos: noun
-  lemma: Kopf
-  notes: null
+  lex_id: LEX.NOUN.KOMMILITONE.DER
+- text: der Kopf
   sources:
   - ppt: First words.pptx
     slide: 31
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0063
-  text: der Kuli
-  pos: noun
-  lemma: Kuli
-  notes: null
+  lex_id: LEX.NOUN.KOPF.DER
+- text: der Kuli
   sources:
   - ppt: First words.pptx
     slide: 2
@@ -683,201 +366,106 @@ items:
     slide: 7
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0064
-  text: der Lehrer
-  pos: noun
-  lemma: Lehrer
-  notes: null
+  lex_id: LEX.NOUN.KULI.DER
+- text: der Lehrer
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 53
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0065
-  text: der Lehrer (die Lehrerin)
-  pos: noun
-  lemma: Lehrer (die Lehrerin)
-  notes: null
+  lex_id: LEX.NOUN.LEHRER.DER
+- text: der Lehrer (die Lehrerin)
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 4
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0066
-  text: der Mann
-  pos: noun
-  lemma: Mann
-  notes: null
+  lex_id: LEX.NOUN.LEHRER.DIE.LEHRERIN.DER
+- text: der Mann
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0067
-  text: der Papierkorb
-  pos: noun
-  lemma: Papierkorb
-  notes: null
+  lex_id: LEX.NOUN.MANN.DER
+- text: der Papierkorb
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 26
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0068
-  text: der Park
-  pos: noun
-  lemma: Park
-  notes: null
+  lex_id: LEX.NOUN.PAPIERKORB.DER
+- text: der Park
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 19
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0069
-  text: der Platz
-  pos: noun
-  lemma: Platz
-  notes: null
+  lex_id: LEX.NOUN.PARK.DER
+- text: der Platz
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 5
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0070
-  text: der Professor
-  pos: noun
-  lemma: Professor
-  notes: null
+  lex_id: LEX.NOUN.PLATZ.DER
+- text: der Professor
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 47
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0071
-  text: der Radiergummi
-  pos: noun
-  lemma: Radiergummi
-  notes: null
+  lex_id: LEX.NOUN.PROFESSOR.DER
+- text: der Radiergummi
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 24
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0072
-  text: der Regen
-  pos: noun
-  lemma: Regen
-  notes: null
+  lex_id: LEX.NOUN.RADIERGUMMI.DER
+- text: der Regen
   sources:
   - ppt: First words.pptx
     slide: 40
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0073
-  text: der Rucksack
-  pos: noun
-  lemma: Rucksack
-  notes: null
+  lex_id: LEX.NOUN.REGEN.DER
+- text: der Rucksack
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 31
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0074
-  text: der Saft
-  pos: noun
-  lemma: Saft
-  notes: null
+  lex_id: LEX.NOUN.RUCKSACK.DER
+- text: der Saft
   sources:
   - ppt: First words.pptx
     slide: 21
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0075
-  text: der Schlüssel
-  pos: noun
-  lemma: Schlüssel
-  notes: null
+  lex_id: LEX.NOUN.SAFT.DER
+- text: der Schlüssel
   sources:
   - ppt: First words.pptx
     slide: 37
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0076
-  text: der Schreibtisch
-  pos: noun
-  lemma: Schreibtisch
-  notes: null
+  lex_id: LEX.NOUN.SCHLUESSEL.DER
+- text: der Schreibtisch
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 34
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0077
-  text: der Schüler
-  pos: noun
-  lemma: Schüler
-  notes: null
+  lex_id: LEX.NOUN.SCHREIBTISCH.DER
+- text: der Schüler
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 51
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0078
-  text: der Seminarraum
-  pos: noun
-  lemma: Seminarraum
-  notes: null
+  lex_id: LEX.NOUN.SCHUELER.DER
+- text: der Seminarraum
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 33
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0079
-  text: der Sohn
-  pos: noun
-  lemma: Sohn
-  notes: null
+  lex_id: LEX.NOUN.SEMINARRAUM.DER
+- text: der Sohn
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 2
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0080
-  text: der Sommer
-  pos: noun
-  lemma: Sommer
-  notes: null
+  lex_id: LEX.NOUN.SOHN.DER
+- text: der Sommer
   sources:
   - ppt: Modul 3.c - Time & Date.pptx
     slide: 9
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0081
-  text: der Student
-  pos: noun
-  lemma: Student
-  notes: null
+  lex_id: LEX.NOUN.SOMMER.DER
+- text: der Student
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 49
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0082
-  text: der Stuhl
-  pos: noun
-  lemma: Stuhl
-  notes: null
+  lex_id: LEX.NOUN.STUDENT.DER
+- text: der Stuhl
   sources:
   - ppt: First words.pptx
     slide: 33
@@ -885,33 +473,18 @@ items:
     slide: 32
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0083
-  text: der Taschenrechner
-  pos: noun
-  lemma: Taschenrechner
-  notes: null
+  lex_id: LEX.NOUN.STUHL.DER
+- text: der Taschenrechner
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 28
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0084
-  text: der Tee
-  pos: noun
-  lemma: Tee
-  notes: null
+  lex_id: LEX.NOUN.TASCHENRECHNER.DER
+- text: der Tee
   sources:
   - ppt: First words.pptx
     slide: 23
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0085
-  text: der Tisch
-  pos: noun
-  lemma: Tisch
-  notes: null
+  lex_id: LEX.NOUN.TEE.DER
+- text: der Tisch
   sources:
   - ppt: First words.pptx
     slide: 32
@@ -919,289 +492,149 @@ items:
     slide: 33
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0086
-  text: der Unterricht
-  pos: noun
-  lemma: Unterricht
-  notes: null
+  lex_id: LEX.NOUN.TISCH.DER
+- text: der Unterricht
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 2
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0087
-  text: der Vater
-  pos: noun
-  lemma: Vater
-  notes: null
+  lex_id: LEX.NOUN.UNTERRICHT.DER
+- text: der Vater
   sources:
   - ppt: First words.pptx
     slide: 13
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0088
-  text: der Vogel
-  pos: noun
-  lemma: Vogel
-  notes: null
+  lex_id: LEX.NOUN.VATER.DER
+- text: der Vogel
   sources:
   - ppt: First words.pptx
     slide: 45
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0089
-  text: der Wald
-  pos: noun
-  lemma: Wald
-  notes: null
+  lex_id: LEX.NOUN.VOGEL.DER
+- text: der Wald
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 20
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0090
-  text: der Winter
-  pos: noun
-  lemma: Winter
-  notes: null
+  lex_id: LEX.NOUN.WALD.DER
+- text: der Winter
   sources:
   - ppt: Modul 3.c - Time & Date.pptx
     slide: 11
-  gender: der
-  plural: null
-- lex_id: LEX-N-A1-0091
-  text: die Arbeit
-  pos: noun
-  lemma: Arbeit
-  notes: null
+  lex_id: LEX.NOUN.WINTER.DER
+- text: die Arbeit
   sources:
   - ppt: First words.pptx
     slide: 39
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0092
-  text: die Architektur
-  pos: noun
-  lemma: Architektur
-  notes: null
+  lex_id: LEX.NOUN.ARBEIT.DIE
+- text: die Architektur
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 9
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0093
-  text: die Autos
-  pos: noun
-  lemma: Autos
-  notes: null
+  lex_id: LEX.NOUN.ARCHITEKTUR.DIE
+- text: die Autos
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0094
-  text: die Bibliothek
-  pos: noun
-  lemma: Bibliothek
-  notes: null
+  lex_id: LEX.NOUN.AUTOS.DIE
+- text: die Bibliothek
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 40
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0095
-  text: die Biologie
-  pos: noun
-  lemma: Biologie
-  notes: null
+  lex_id: LEX.NOUN.BIBLIOTHEK.DIE
+- text: die Biologie
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 8
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0096
-  text: die Blume
-  pos: noun
-  lemma: Blume
-  notes: null
+  lex_id: LEX.NOUN.BIOLOGIE.DIE
+- text: die Blume
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0097
-  text: die Blumen
-  pos: noun
-  lemma: Blumen
-  notes: null
+  lex_id: LEX.NOUN.BLUME.DIE
+- text: die Blumen
   sources:
   - ppt: First words.pptx
     slide: 26
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0098
-  text: die Brüder
-  pos: noun
-  lemma: Brüder
-  notes: null
+  lex_id: LEX.NOUN.BLUMEN.DIE
+- text: die Brüder
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0099
-  text: die Bücher
-  pos: noun
-  lemma: Bücher
-  notes: null
+  lex_id: LEX.NOUN.BRUEDER.DIE
+- text: die Bücher
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0100
-  text: die Chemie
-  pos: noun
-  lemma: Chemie
-  notes: null
+  lex_id: LEX.NOUN.BUECHER.DIE
+- text: die Chemie
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 20
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0101
-  text: die Computer
-  pos: noun
-  lemma: Computer
-  notes: null
+  lex_id: LEX.NOUN.CHEMIE.DIE
+- text: die Computer
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0102
-  text: die Dozentin
-  pos: noun
-  lemma: Dozentin
-  notes: null
+  lex_id: LEX.NOUN.COMPUTER.DIE
+- text: die Dozentin
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 6
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0103
-  text: die Fenster
-  pos: noun
-  lemma: Fenster
-  notes: null
+  lex_id: LEX.NOUN.DOZENTIN.DIE
+- text: die Fenster
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0104
-  text: die Frage
-  pos: noun
-  lemma: Frage
-  notes: null
+  lex_id: LEX.NOUN.FENSTER.DIE
+- text: die Frage
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 9
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0105
-  text: die Frau
-  pos: noun
-  lemma: Frau
-  notes: null
+  lex_id: LEX.NOUN.FRAGE.DIE
+- text: die Frau
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0106
-  text: die Frauen
-  pos: noun
-  lemma: Frauen
-  notes: null
+  lex_id: LEX.NOUN.FRAU.DIE
+- text: die Frauen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0107
-  text: die Freizeit
-  pos: noun
-  lemma: Freizeit
-  notes: null
+  lex_id: LEX.NOUN.FRAUEN.DIE
+- text: die Freizeit
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 37
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0108
-  text: die Fremdsprachen
-  pos: noun
-  lemma: Fremdsprachen
-  notes: null
+  lex_id: LEX.NOUN.FREIZEIT.DIE
+- text: die Fremdsprachen
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0109
-  text: die Freunde
-  pos: noun
-  lemma: Freunde
-  notes: null
+  lex_id: LEX.NOUN.FREMDSPRACHEN.DIE
+- text: die Freunde
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0110
-  text: die Freundin
-  pos: noun
-  lemma: Freundin
-  notes: null
+  lex_id: LEX.NOUN.FREUNDE.DIE
+- text: die Freundin
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0111
-  text: die Freundinnen
-  pos: noun
-  lemma: Freundinnen
-  notes: null
+  lex_id: LEX.NOUN.FREUNDIN.DIE
+- text: die Freundinnen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0112
-  text: die Geschichte
-  pos: noun
-  lemma: Geschichte
-  notes: null
+  lex_id: LEX.NOUN.FREUNDINNEN.DIE
+- text: die Geschichte
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0113
-  text: die Hausaufgabe
-  pos: noun
-  lemma: Hausaufgabe
-  notes: null
+  lex_id: LEX.NOUN.GESCHICHTE.DIE
+- text: die Hausaufgabe
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
@@ -1213,123 +646,63 @@ items:
     slide: 11
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0114
-  text: Die Hausaufgabe
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.HAUSAUFGABE.DIE
+- text: Die Hausaufgabe
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0115
-  text: die Hausaufgabe machen
-  pos: noun
-  lemma: Hausaufgabe machen
-  notes: null
+  lex_id: LEX.NOUN.HAUSAUFGABE.DIE.2
+- text: die Hausaufgabe machen
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 57
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0116
-  text: die Hausaufgaben
-  pos: noun
-  lemma: Hausaufgaben
-  notes: null
+  lex_id: LEX.NOUN.HAUSAUFGABE.MACHEN.DIE
+- text: die Hausaufgaben
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0117
-  text: die Hotels
-  pos: noun
-  lemma: Hotels
-  notes: null
+  lex_id: LEX.NOUN.HAUSAUFGABEN.DIE
+- text: die Hotels
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0118
-  text: die Häuser
-  pos: noun
-  lemma: Häuser
-  notes: null
+  lex_id: LEX.NOUN.HOTELS.DIE
+- text: die Häuser
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0119
-  text: die Informatik
-  pos: noun
-  lemma: Informatik
-  notes: null
+  lex_id: LEX.NOUN.HAEUSER.DIE
+- text: die Informatik
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 13
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0120
-  text: die Jahre
-  pos: noun
-  lemma: Jahre
-  notes: null
+  lex_id: LEX.NOUN.INFORMATIK.DIE
+- text: die Jahre
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0121
-  text: die Jungen
-  pos: noun
-  lemma: Jungen
-  notes: null
+  lex_id: LEX.NOUN.JAHRE.DIE
+- text: die Jungen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0122
-  text: die Karte
-  pos: noun
-  lemma: Karte
-  notes: null
+  lex_id: LEX.NOUN.JUNGEN.DIE
+- text: die Karte
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 30
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0123
-  text: die Karte (die Karten)
-  pos: noun
-  lemma: Karte (die Karten)
-  notes: null
+  lex_id: LEX.NOUN.KARTE.DIE
+- text: die Karte (die Karten)
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 36
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0124
-  text: die Katze
-  pos: noun
-  lemma: Katze
-  notes: null
+  lex_id: LEX.NOUN.KARTE.DIE.KARTEN.DIE
+- text: die Katze
   sources:
   - ppt: First words.pptx
     slide: 47
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0125
-  text: die Kinder
-  pos: noun
-  lemma: Kinder
-  notes: null
+  lex_id: LEX.NOUN.KATZE.DIE
+- text: die Kinder
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
@@ -1339,393 +712,203 @@ items:
     slide: 7
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0126
-  text: die Klasse
-  pos: noun
-  lemma: Klasse
-  notes: null
+  lex_id: LEX.NOUN.KINDER.DIE
+- text: die Klasse
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 3
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0127
-  text: die Klassenkameradin
-  pos: noun
-  lemma: Klassenkameradin
-  notes: null
+  lex_id: LEX.NOUN.KLASSE.DIE
+- text: die Klassenkameradin
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 44
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0128
-  text: die Kommilitonin
-  pos: noun
-  lemma: Kommilitonin
-  notes: null
+  lex_id: LEX.NOUN.KLASSENKAMERADIN.DIE
+- text: die Kommilitonin
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 46
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0129
-  text: die Kulis
-  pos: noun
-  lemma: Kulis
-  notes: null
+  lex_id: LEX.NOUN.KOMMILITONIN.DIE
+- text: die Kulis
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0130
-  text: die Kunst
-  pos: noun
-  lemma: Kunst
-  notes: null
+  lex_id: LEX.NOUN.KULIS.DIE
+- text: die Kunst
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 11
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0131
-  text: die Lehrer
-  pos: noun
-  lemma: Lehrer
-  notes: null
+  lex_id: LEX.NOUN.KUNST.DIE
+- text: die Lehrer
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0132
-  text: die Lehrerin
-  pos: noun
-  lemma: Lehrerin
-  notes: null
+  lex_id: LEX.NOUN.LEHRER.DIE
+- text: die Lehrerin
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 54
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0133
-  text: die Leute
-  pos: noun
-  lemma: Leute
-  notes: null
+  lex_id: LEX.NOUN.LEHRERIN.DIE
+- text: die Leute
   sources:
   - ppt: First words.pptx
     slide: 50
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0134
-  text: die Literatur
-  pos: noun
-  lemma: Literatur
-  notes: null
+  lex_id: LEX.NOUN.LEUTE.DIE
+- text: die Literatur
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 10
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0135
-  text: die Mathematik
-  pos: noun
-  lemma: Mathematik
-  notes: null
+  lex_id: LEX.NOUN.LITERATUR.DIE
+- text: die Mathematik
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 12
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0136
-  text: die Mensa
-  pos: noun
-  lemma: Mensa
-  notes: null
+  lex_id: LEX.NOUN.MATHEMATIK.DIE
+- text: die Mensa
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 41
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0137
-  text: die Milch
-  pos: noun
-  lemma: Milch
-  notes: null
+  lex_id: LEX.NOUN.MENSA.DIE
+- text: die Milch
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
   - ppt: First words.pptx
     slide: 20
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0138
-  text: die Mutter
-  pos: noun
-  lemma: Mutter
-  notes: null
+  lex_id: LEX.NOUN.MILCH.DIE
+- text: die Mutter
   sources:
   - ppt: First words.pptx
     slide: 12
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0139
-  text: die Mädchen
-  pos: noun
-  lemma: Mädchen
-  notes: null
+  lex_id: LEX.NOUN.MUTTER.DIE
+- text: die Mädchen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0140
-  text: die Männer
-  pos: noun
-  lemma: Männer
-  notes: null
+  lex_id: LEX.NOUN.MAEDCHEN.DIE
+- text: die Männer
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0141
-  text: die Mütter
-  pos: noun
-  lemma: Mütter
-  notes: null
+  lex_id: LEX.NOUN.MAENNER.DIE
+- text: die Mütter
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0142
-  text: die Naturwissenschaften
-  pos: noun
-  lemma: Naturwissenschaften
-  notes: null
+  lex_id: LEX.NOUN.MUETTER.DIE
+- text: die Naturwissenschaften
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0143
-  text: die Note
-  pos: noun
-  lemma: Note
-  notes: null
+  lex_id: LEX.NOUN.NATURWISSENSCHAFTEN.DIE
+- text: die Note
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 13
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0144
-  text: die Notiz (die Notizen)
-  pos: noun
-  lemma: Notiz (die Notizen)
-  notes: null
+  lex_id: LEX.NOUN.NOTE.DIE
+- text: die Notiz (die Notizen)
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 12
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0145
-  text: die Parks
-  pos: noun
-  lemma: Parks
-  notes: null
+  lex_id: LEX.NOUN.NOTIZ.DIE.NOTIZEN.DIE
+- text: die Parks
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0146
-  text: die Person
-  pos: noun
-  lemma: Person
-  notes: null
+  lex_id: LEX.NOUN.PARKS.DIE
+- text: die Person
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 42
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0147
-  text: die Physik
-  pos: noun
-  lemma: Physik
-  notes: null
+  lex_id: LEX.NOUN.PERSON.DIE
+- text: die Physik
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 19
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0148
-  text: die Professorin
-  pos: noun
-  lemma: Professorin
-  notes: null
+  lex_id: LEX.NOUN.PHYSIK.DIE
+- text: die Professorin
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 48
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0149
-  text: die Prüfung
-  pos: noun
-  lemma: Prüfung
-  notes: null
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0150
-  text: Die Prüfung
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.PROFESSORIN.DIE
+- text: Die Prüfung
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0151
-  text: die Psychologie
-  pos: noun
-  lemma: Psychologie
-  notes: null
+  lex_id: LEX.NOUN.PRUEFUNG.DIE
+- text: die Prüfung
+  sources:
+  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
+    slide: 16
+  lex_id: LEX.NOUN.PRUEFUNG.DIE.2
+- text: die Psychologie
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 14
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0152
-  text: die Sache
-  pos: noun
-  lemma: Sache
-  notes: null
+  lex_id: LEX.NOUN.PSYCHOLOGIE.DIE
+- text: die Sache
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0153
-  text: die Schuhe
-  pos: noun
-  lemma: Schuhe
-  notes: null
+  lex_id: LEX.NOUN.SACHE.DIE
+- text: die Schuhe
   sources:
   - ppt: First words.pptx
     slide: 49
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0154
-  text: die Schule
-  pos: noun
-  lemma: Schule
-  notes: null
+  lex_id: LEX.NOUN.SCHUHE.DIE
+- text: die Schule
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 39
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0155
-  text: die Schwester
-  pos: noun
-  lemma: Schwester
-  notes: null
+  lex_id: LEX.NOUN.SCHULE.DIE
+- text: die Schwester
   sources:
   - ppt: First words.pptx
     slide: 15
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0156
-  text: die Schwestern
-  pos: noun
-  lemma: Schwestern
-  notes: null
+  lex_id: LEX.NOUN.SCHWESTER.DIE
+- text: die Schwestern
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0157
-  text: die Schülerin
-  pos: noun
-  lemma: Schülerin
-  notes: null
+  lex_id: LEX.NOUN.SCHWESTERN.DIE
+- text: die Schülerin
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 52
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0158
-  text: die Sonne
-  pos: noun
-  lemma: Sonne
-  notes: null
+  lex_id: LEX.NOUN.SCHUELERIN.DIE
+- text: die Sonne
   sources:
   - ppt: First words.pptx
     slide: 41
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0159
-  text: die Sporthalle
-  pos: noun
-  lemma: Sporthalle
-  notes: null
+  lex_id: LEX.NOUN.SONNE.DIE
+- text: die Sporthalle
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 35
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0160
-  text: die Stadt
-  pos: noun
-  lemma: Stadt
-  notes: null
+  lex_id: LEX.NOUN.SPORTHALLE.DIE
+- text: die Stadt
   sources:
   - ppt: First words.pptx
     slide: 29
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0161
-  text: die Straße
-  pos: noun
-  lemma: Straße
-  notes: null
+  lex_id: LEX.NOUN.STADT.DIE
+- text: die Straße
   sources:
   - ppt: First words.pptx
     slide: 28
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0162
-  text: die Straßen
-  pos: noun
-  lemma: Straßen
-  notes: null
+  lex_id: LEX.NOUN.STRASSE.DIE
+- text: die Straßen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0163
-  text: die Studenten
-  pos: noun
-  lemma: Studenten
-  notes: null
+  lex_id: LEX.NOUN.STRASSEN.DIE
+- text: die Studenten
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
@@ -1733,77 +916,42 @@ items:
     slide: 24
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0164
-  text: die Studentin
-  pos: noun
-  lemma: Studentin
-  notes: null
+  lex_id: LEX.NOUN.STUDENTEN.DIE
+- text: die Studentin
   sources:
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 50
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0165
-  text: die Studentinnen
-  pos: noun
-  lemma: Studentinnen
-  notes: null
+  lex_id: LEX.NOUN.STUDENTIN.DIE
+- text: die Studentinnen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0166
-  text: die Stunde
-  pos: noun
-  lemma: Stunde
-  notes: null
+  lex_id: LEX.NOUN.STUDENTINNEN.DIE
+- text: die Stunde
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 49
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 4
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0167
-  text: die Städte
-  pos: noun
-  lemma: Städte
-  notes: null
+  lex_id: LEX.NOUN.STUNDE.DIE
+- text: die Städte
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0168
-  text: die Stühle
-  pos: noun
-  lemma: Stühle
-  notes: null
+  lex_id: LEX.NOUN.STAEDTE.DIE
+- text: die Stühle
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0169
-  text: die Söhne
-  pos: noun
-  lemma: Söhne
-  notes: null
+  lex_id: LEX.NOUN.STUEHLE.DIE
+- text: die Söhne
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0170
-  text: die Tafel
-  pos: noun
-  lemma: Tafel
-  notes: null
+  lex_id: LEX.NOUN.SOEHNE.DIE
+- text: die Tafel
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
@@ -1811,23 +959,13 @@ items:
     slide: 3
   - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
     slide: 29
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0171
-  text: die Tage
-  pos: noun
-  lemma: Tage
-  notes: null
+  lex_id: LEX.NOUN.TAFEL.DIE
+- text: die Tage
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0172
-  text: die Tasche
-  pos: noun
-  lemma: Tasche
-  notes: null
+  lex_id: LEX.NOUN.TAGE.DIE
+- text: die Tasche
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 19
@@ -1837,55 +975,30 @@ items:
     slide: 7
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0173
-  text: die Taschen
-  pos: noun
-  lemma: Taschen
-  notes: null
+  lex_id: LEX.NOUN.TASCHE.DIE
+- text: die Taschen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0174
-  text: die Tische
-  pos: noun
-  lemma: Tische
-  notes: null
+  lex_id: LEX.NOUN.TASCHEN.DIE
+- text: die Tische
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0175
-  text: die Tochter
-  pos: noun
-  lemma: Tochter
-  notes: null
+  lex_id: LEX.NOUN.TISCHE.DIE
+- text: die Tochter
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 1
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0176
-  text: die Töchter
-  pos: noun
-  lemma: Töchter
-  notes: null
+  lex_id: LEX.NOUN.TOCHTER.DIE
+- text: die Töchter
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0177
-  text: die Tür
-  pos: noun
-  lemma: Tür
-  notes: null
+  lex_id: LEX.NOUN.TOECHTER.DIE
+- text: die Tür
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
@@ -1895,23 +1008,13 @@ items:
     slide: 37
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0178
-  text: die Türen
-  pos: noun
-  lemma: Türen
-  notes: null
+  lex_id: LEX.NOUN.TUER.DIE
+- text: die Türen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0179
-  text: die Universität
-  pos: noun
-  lemma: Universität
-  notes: null
+  lex_id: LEX.NOUN.TUEREN.DIE
+- text: die Universität
   sources:
   - ppt: First words.pptx
     slide: 6
@@ -1919,145 +1022,75 @@ items:
     slide: 38
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0180
-  text: die Universitäten
-  pos: noun
-  lemma: Universitäten
-  notes: null
+  lex_id: LEX.NOUN.UNIVERSITAET.DIE
+- text: die Universitäten
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0181
-  text: die Veranstaltung
-  pos: noun
-  lemma: Veranstaltung
-  notes: null
+  lex_id: LEX.NOUN.UNIVERSITAETEN.DIE
+- text: die Veranstaltung
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 23
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0182
-  text: die Vorlesung
-  pos: noun
-  lemma: Vorlesung
-  notes: null
+  lex_id: LEX.NOUN.VERANSTALTUNG.DIE
+- text: die Vorlesung
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 22
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0183
-  text: die Väter
-  pos: noun
-  lemma: Väter
-  notes: null
+  lex_id: LEX.NOUN.VORLESUNG.DIE
+- text: die Väter
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0184
-  text: die Vögel
-  pos: noun
-  lemma: Vögel
-  notes: null
+  lex_id: LEX.NOUN.VAETER.DIE
+- text: die Vögel
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0185
-  text: die Welt
-  pos: noun
-  lemma: Welt
-  notes: null
+  lex_id: LEX.NOUN.VOEGEL.DIE
+- text: die Welt
   sources:
   - ppt: First words.pptx
     slide: 30
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0186
-  text: die Wirtschaft
-  pos: noun
-  lemma: Wirtschaft
-  notes: null
+  lex_id: LEX.NOUN.WELT.DIE
+- text: die Wirtschaft
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 16
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0187
-  text: die Wochen
-  pos: noun
-  lemma: Wochen
-  notes: null
+  lex_id: LEX.NOUN.WIRTSCHAFT.DIE
+- text: die Wochen
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 18
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0188
-  text: die Wohnung
-  pos: noun
-  lemma: Wohnung
-  notes: null
+  lex_id: LEX.NOUN.WOCHEN.DIE
+- text: die Wohnung
   sources:
   - ppt: First words.pptx
     slide: 35
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0189
-  text: die Zeit
-  pos: noun
-  lemma: Zeit
-  notes: null
+  lex_id: LEX.NOUN.WOHNUNG.DIE
+- text: die Zeit
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 53
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0190
-  text: die Zeitung
-  pos: noun
-  lemma: Zeitung
-  notes: null
+  lex_id: LEX.NOUN.ZEIT.DIE
+- text: die Zeitung
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0191
-  text: die Zimmer
-  pos: noun
-  lemma: Zimmer
-  notes: null
+  lex_id: LEX.NOUN.ZEITUNG.DIE
+- text: die Zimmer
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 17
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0192
-  text: die Äpfel
-  pos: noun
-  lemma: Äpfel
-  notes: null
+  lex_id: LEX.NOUN.ZIMMER.DIE
+- text: die Äpfel
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 19
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 15
-  gender: die
-  plural: null
-- lex_id: LEX-N-A1-0193
-  text: ein Buch
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.AEPFEL.DIE
+- text: ein Buch
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 20
@@ -2065,187 +1098,101 @@ items:
     slide: 22
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0194
-  text: ein Haus
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EIN.BUCH
+- text: ein Haus
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 7
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0195
-  text: ein Kuli
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EIN.HAUS
+- text: ein Kuli
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 7
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0196
-  text: eine Frage
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EIN.KULI
+- text: eine Frage
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0197
-  text: eine Katze
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINE.FRAGE
+- text: eine Katze
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0198
-  text: eine Milliarde = 1.000.000.000
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINE.KATZE
+- text: eine Milliarde = 1.000.000.000
   sources:
   - ppt: Modul 2.c - Numbers.pptx
     slide: 6
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0199
-  text: eine Million = 1.000.000
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINE.MILLIARDE.1.000.000.000
+- text: eine Million = 1.000.000
   sources:
   - ppt: Modul 2.c - Numbers.pptx
     slide: 6
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0200
-  text: eine Prüfung
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINE.MILLION.1.000.000
+- text: eine Prüfung
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0201
-  text: eine Tasche
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINE.PRUEFUNG
+- text: eine Tasche
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 20
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 7
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0202
-  text: eine Tochter
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINE.TASCHE
+- text: eine Tochter
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0203
-  text: einen Abschluss machen
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINE.TOCHTER
+- text: einen Abschluss machen
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 3
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0204
-  text: einen Apfel
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINEN.ABSCHLUSS.MACHEN
+- text: einen Apfel
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0205
-  text: einen Bruder
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINEN.APFEL
+- text: einen Bruder
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0206
-  text: einen Hund
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINEN.BRUDER
+- text: einen Hund
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0207
-  text: einen Kuli
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINEN.HUND
+- text: einen Kuli
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 20
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0208
-  text: einen Kurs belegen
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINEN.KULI
+- text: einen Kurs belegen
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 25
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0209
-  text: einen Sohn
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINEN.KURS.BELEGEN
+- text: einen Sohn
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 24
-  gender: null
-  plural: null
-- lex_id: LEX-N-A1-0210
-  text: einen Tisch
-  pos: noun
-  lemma: null
-  notes: null
+  lex_id: LEX.NOUN.EINEN.SOHN
+- text: einen Tisch
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 22
-  gender: null
-  plural: null
+  lex_id: LEX.NOUN.EINEN.TISCH

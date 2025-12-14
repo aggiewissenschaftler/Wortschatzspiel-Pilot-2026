@@ -1,97 +1,60 @@
-schema_version: '0.2'
-rule_type: lexicon
-language: de
-cefr_level: A1
-category: verb
+schema_version: '0.1'
 source: items_csv_rebuild
+category: verb
 items:
-- lex_id: LEX-V-A1-0001
-  text: antworten
-  pos: verb
-  lemma: antworten
-  notes: null
+- text: antworten
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 3
-- lex_id: LEX-V-A1-0002
-  text: arbeiten
-  pos: verb
-  lemma: arbeiten
-  notes: null
+  lex_id: LEX.VERB.ANTWORTEN
+- text: arbeiten
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 57
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 15
-- lex_id: LEX-V-A1-0003
-  text: bauen
-  pos: verb
-  lemma: bauen
-  notes: null
+  lex_id: LEX.VERB.ARBEITEN
+- text: bauen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 2
-- lex_id: LEX-V-A1-0004
-  text: bedeuten
-  pos: verb
-  lemma: bedeuten
-  notes: null
+  lex_id: LEX.VERB.BAUEN
+- text: bedeuten
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 4
-- lex_id: LEX-V-A1-0005
-  text: begrüßen
-  pos: verb
-  lemma: begrüßen
-  notes: null
+  lex_id: LEX.VERB.BEDEUTEN
+- text: begrüßen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 5
-- lex_id: LEX-V-A1-0006
-  text: belegen
-  pos: verb
-  lemma: belegen
-  notes: null
+  lex_id: LEX.VERB.BEGRUESSEN
+- text: belegen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 6
-- lex_id: LEX-V-A1-0007
-  text: brauchen
-  pos: verb
-  lemma: brauchen
-  notes: null
+  lex_id: LEX.VERB.BELEGEN
+- text: brauchen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 7
-- lex_id: LEX-V-A1-0008
-  text: braun
-  pos: verb
-  lemma: braun
-  notes: null
+  lex_id: LEX.VERB.BRAUCHEN
+- text: braun
   sources:
   - ppt: Modul 1.c - 1.A (Part 3).pptx
     slide: 15
-- lex_id: LEX-V-A1-0009
-  text: bringen
-  pos: verb
-  lemma: bringen
-  notes: null
+  lex_id: LEX.VERB.BRAUN
+- text: bringen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 8
-- lex_id: LEX-V-A1-0010
-  text: children
-  pos: verb
-  lemma: children
-  notes: null
+  lex_id: LEX.VERB.BRINGEN
+- text: children
   sources:
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 7
-- lex_id: LEX-V-A1-0011
-  text: den
-  pos: verb
-  lemma: den
-  notes: null
+  lex_id: LEX.VERB.CHILDREN
+- text: den
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 19
@@ -103,11 +66,8 @@ items:
     slide: 23
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 23
-- lex_id: LEX-V-A1-0012
-  text: ein
-  pos: verb
-  lemma: ein
-  notes: null
+  lex_id: LEX.VERB.DEN
+- text: ein
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 16
@@ -125,11 +85,8 @@ items:
     slide: 6
   - ppt: Modul 1.b - 1.A (Part 2).pptx
     slide: 6
-- lex_id: LEX-V-A1-0013
-  text: einen
-  pos: verb
-  lemma: einen
-  notes: null
+  lex_id: LEX.VERB.EIN
+- text: einen
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 20
@@ -149,11 +106,8 @@ items:
     slide: 23
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 23
-- lex_id: LEX-V-A1-0014
-  text: essen
-  pos: verb
-  lemma: essen
-  notes: null
+  lex_id: LEX.VERB.EINEN
+- text: essen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 3
@@ -161,103 +115,72 @@ items:
     slide: 10
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 23
-- lex_id: LEX-V-A1-0015
-  text: fahren
-  pos: verb
-  lemma: fahren
-  notes: null
+  lex_id: LEX.VERB.ESSEN
+- text: fahren
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 17
-- lex_id: LEX-V-A1-0016
-  text: finden
-  pos: verb
-  lemma: finden
-  notes: null
+  lex_id: LEX.VERB.FAHREN
+- text: finden
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 9
-- lex_id: LEX-V-A1-0017
-  text: fragen
-  pos: verb
-  lemma: fragen
-  notes: null
+  lex_id: LEX.VERB.FINDEN
+- text: fragen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 10
-- lex_id: LEX-V-A1-0018
-  text: geben
-  pos: verb
-  lemma: geben
-  notes: null
+  lex_id: LEX.VERB.FRAGEN
+- text: geben
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 15
-- lex_id: LEX-V-A1-0019
-  text: gehen
-  pos: verb
-  lemma: gehen
-  notes: null
+  lex_id: LEX.VERB.GEBEN
+- text: gehen
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 26
-- lex_id: LEX-V-A1-0020
-  text: gewinnen
-  pos: verb
-  lemma: gewinnen
-  notes: null
+  lex_id: LEX.VERB.GEHEN
+- text: gewinnen
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 35
-- lex_id: LEX-V-A1-0021
-  text: grün
-  pos: verb
-  lemma: grün
-  notes: null
+  lex_id: LEX.VERB.GEWINNEN
+- text: grün
   sources:
   - ppt: Modul 1.c - 1.A (Part 3).pptx
     slide: 13
-- lex_id: LEX-V-A1-0022
-  text: haben
-  pos: verb
-  lemma: haben
-  notes: null
+  lex_id: LEX.VERB.GRUEN
+- text: haben
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 12
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 27
-- lex_id: LEX-V-A1-0023
-  text: helfen
-  pos: verb
-  lemma: helfen
-  notes: null
+  lex_id: LEX.VERB.HABEN
+- text: heißen
+  sources:
+  - ppt: Modul 1.a - 1.A (Part 1).pptx
+    slide: 21
+  lex_id: LEX.VERB.HEISSEN
+- text: helfen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 23
-- lex_id: LEX-V-A1-0024
-  text: hören
-  pos: verb
-  lemma: hören
-  notes: null
+  lex_id: LEX.VERB.HELFEN
+- text: hören
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 13
-- lex_id: LEX-V-A1-0025
-  text: kaufen
-  pos: verb
-  lemma: kaufen
-  notes: null
+  lex_id: LEX.VERB.HOEREN
+- text: kaufen
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 6
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 17
-- lex_id: LEX-V-A1-0026
-  text: kein
-  pos: verb
-  lemma: kein
-  notes: null
+  lex_id: LEX.VERB.KAUFEN
+- text: kein
   sources:
   - ppt: Module 4.d - Negations.pptx
     slide: 3
@@ -265,93 +188,60 @@ items:
     slide: 3
   - ppt: Module 4.d - Negations.pptx
     slide: 3
-- lex_id: LEX-V-A1-0027
-  text: keinen
-  pos: verb
-  lemma: keinen
-  notes: null
+  lex_id: LEX.VERB.KEIN
+- text: keinen
   sources:
   - ppt: Module 4.d - Negations.pptx
     slide: 3
-- lex_id: LEX-V-A1-0028
-  text: klein
-  pos: verb
-  lemma: klein
-  notes: null
+  lex_id: LEX.VERB.KEINEN
+- text: klein
   sources:
   - ppt: Modul 1.c - 1.A (Part 3).pptx
     slide: 6
-- lex_id: LEX-V-A1-0029
-  text: klettern
-  pos: verb
-  lemma: klettern
-  notes: null
+  lex_id: LEX.VERB.KLEIN
+- text: klettern
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 23
-- lex_id: LEX-V-A1-0030
-  text: kochen
-  pos: verb
-  lemma: kochen
-  notes: null
+  lex_id: LEX.VERB.KLETTERN
+- text: kochen
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 24
-- lex_id: LEX-V-A1-0031
-  text: kommen
-  pos: verb
-  lemma: kommen
-  notes: null
+  lex_id: LEX.VERB.KOCHEN
+- text: kommen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 11
-- lex_id: LEX-V-A1-0032
-  text: korrigieren
-  pos: verb
-  lemma: korrigieren
-  notes: null
+  lex_id: LEX.VERB.KOMMEN
+- text: korrigieren
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 12
-- lex_id: LEX-V-A1-0033
-  text: kosten
-  pos: verb
-  lemma: kosten
-  notes: null
+  lex_id: LEX.VERB.KORRIGIEREN
+- text: kosten
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 13
-- lex_id: LEX-V-A1-0034
-  text: laufen
-  pos: verb
-  lemma: laufen
-  notes: null
+  lex_id: LEX.VERB.KOSTEN
+- text: laufen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 11
-- lex_id: LEX-V-A1-0035
-  text: leben
-  pos: verb
-  lemma: leben
-  notes: null
+  lex_id: LEX.VERB.LAUFEN
+- text: leben
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 14
-- lex_id: LEX-V-A1-0036
-  text: lernen
-  pos: verb
-  lemma: lernen
-  notes: null
+  lex_id: LEX.VERB.LEBEN
+- text: lernen
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 28
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 1
-- lex_id: LEX-V-A1-0037
-  text: lesen
-  pos: verb
-  lemma: lesen
-  notes: null
+  lex_id: LEX.VERB.LERNEN
+- text: lesen
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 57
@@ -361,79 +251,52 @@ items:
     slide: 8
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 21
-- lex_id: LEX-V-A1-0038
-  text: lieben
-  pos: verb
-  lemma: lieben
-  notes: null
+  lex_id: LEX.VERB.LESEN
+- text: lieben
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 15
-- lex_id: LEX-V-A1-0039
-  text: machen
-  pos: verb
-  lemma: machen
-  notes: null
+  lex_id: LEX.VERB.LIEBEN
+- text: machen
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 4
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 11
-- lex_id: LEX-V-A1-0040
-  text: nehmen
-  pos: verb
-  lemma: nehmen
-  notes: null
+  lex_id: LEX.VERB.MACHEN
+- text: nehmen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 13
-- lex_id: LEX-V-A1-0041
-  text: regnen
-  pos: verb
-  lemma: regnen
-  notes: null
+  lex_id: LEX.VERB.NEHMEN
+- text: regnen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 17
-- lex_id: LEX-V-A1-0042
-  text: reisen
-  pos: verb
-  lemma: reisen
-  notes: null
+  lex_id: LEX.VERB.REGNEN
+- text: reisen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 18
-- lex_id: LEX-V-A1-0043
-  text: sagen
-  pos: verb
-  lemma: sagen
-  notes: null
+  lex_id: LEX.VERB.REISEN
+- text: sagen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 19
-- lex_id: LEX-V-A1-0044
-  text: schlafen
-  pos: verb
-  lemma: schlafen
-  notes: null
+  lex_id: LEX.VERB.SAGEN
+- text: schlafen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 9
-- lex_id: LEX-V-A1-0045
-  text: schreiben
-  pos: verb
-  lemma: schreiben
-  notes: null
+  lex_id: LEX.VERB.SCHLAFEN
+- text: schreiben
   sources:
   - ppt: Modul 2.d - Accusative Case.pptx
     slide: 2
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 9
-- lex_id: LEX-V-A1-0046
-  text: sehen
-  pos: verb
-  lemma: sehen
-  notes: null
+  lex_id: LEX.VERB.SCHREIBEN
+- text: sehen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 7
@@ -441,159 +304,108 @@ items:
     slide: 14
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 29
-- lex_id: LEX-V-A1-0047
-  text: singen
-  pos: verb
-  lemma: singen
-  notes: null
+  lex_id: LEX.VERB.SEHEN
+- text: sein
+  sources:
+  - ppt: Modul 1.c - 1.A (Part 3).pptx
+    slide: 20
+  lex_id: LEX.VERB.SEIN
+- text: singen
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 26
-- lex_id: LEX-V-A1-0048
-  text: spielen
-  pos: verb
-  lemma: spielen
-  notes: null
+  lex_id: LEX.VERB.SINGEN
+- text: spielen
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 5
-- lex_id: LEX-V-A1-0049
-  text: sprechen
-  pos: verb
-  lemma: sprechen
-  notes: null
+  lex_id: LEX.VERB.SPIELEN
+- text: sprechen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 1
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 19
-- lex_id: LEX-V-A1-0050
-  text: studieren
-  pos: verb
-  lemma: studieren
-  notes: null
+  lex_id: LEX.VERB.SPRECHEN
+- text: studieren
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 29
-- lex_id: LEX-V-A1-0051
-  text: suchen
-  pos: verb
-  lemma: suchen
-  notes: null
+  lex_id: LEX.VERB.STUDIEREN
+- text: suchen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 20
-- lex_id: LEX-V-A1-0052
-  text: tanzen
-  pos: verb
-  lemma: tanzen
-  notes: null
+  lex_id: LEX.VERB.SUCHEN
+- text: tanzen
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 26
-- lex_id: LEX-V-A1-0053
-  text: tragen
-  pos: verb
-  lemma: tragen
-  notes: null
+  lex_id: LEX.VERB.TANZEN
+- text: tragen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 21
-- lex_id: LEX-V-A1-0054
-  text: trainieren
-  pos: verb
-  lemma: trainieren
-  notes: null
+  lex_id: LEX.VERB.TRAGEN
+- text: trainieren
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 15
-- lex_id: LEX-V-A1-0055
-  text: trinken
-  pos: verb
-  lemma: trinken
-  notes: null
+  lex_id: LEX.VERB.TRAINIEREN
+- text: trinken
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 25
-- lex_id: LEX-V-A1-0056
-  text: vergessen
-  pos: verb
-  lemma: vergessen
-  notes: null
+  lex_id: LEX.VERB.TRINKEN
+- text: vergessen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 25
-- lex_id: LEX-V-A1-0057
-  text: verlieren
-  pos: verb
-  lemma: verlieren
-  notes: null
+  lex_id: LEX.VERB.VERGESSEN
+- text: verlieren
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 35
-- lex_id: LEX-V-A1-0058
-  text: verstehen
-  pos: verb
-  lemma: verstehen
-  notes: null
+  lex_id: LEX.VERB.VERLIEREN
+- text: verstehen
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 7
-- lex_id: LEX-V-A1-0059
-  text: wandern
-  pos: verb
-  lemma: wandern
-  notes: null
+  lex_id: LEX.VERB.VERSTEHEN
+- text: wandern
   sources:
   - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
     slide: 27
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 1
-- lex_id: LEX-V-A1-0060
-  text: warten
-  pos: verb
-  lemma: warten
-  notes: null
+  lex_id: LEX.VERB.WANDERN
+- text: warten
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 22
-- lex_id: LEX-V-A1-0061
-  text: waschen
-  pos: verb
-  lemma: waschen
-  notes: null
+  lex_id: LEX.VERB.WARTEN
+- text: waschen
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 19
-- lex_id: LEX-V-A1-0062
-  text: werden
-  pos: verb
-  lemma: werden
-  notes: null
+  lex_id: LEX.VERB.WASCHEN
+- text: werden
   sources:
   - ppt: Module 4.b - Verbs (stem change).pptx
     slide: 27
-- lex_id: LEX-V-A1-0063
-  text: wiederholen
-  pos: verb
-  lemma: wiederholen
-  notes: null
+  lex_id: LEX.VERB.WERDEN
+- text: wiederholen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 23
-- lex_id: LEX-V-A1-0064
-  text: wohnen
-  pos: verb
-  lemma: wohnen
-  notes: null
+  lex_id: LEX.VERB.WIEDERHOLEN
+- text: wohnen
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 3
-- lex_id: LEX-V-A1-0065
-  text: öffnen
-  pos: verb
-  lemma: öffnen
-  notes: null
+  lex_id: LEX.VERB.WOHNEN
+- text: öffnen
   sources:
   - ppt: Modul 3.b - Verb conjugations 2.pptx
     slide: 16
+  lex_id: LEX.VERB.OEFFNEN

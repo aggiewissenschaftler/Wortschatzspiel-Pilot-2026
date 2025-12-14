@@ -1,47 +1,29 @@
-schema_version: '0.2'
-rule_type: lexicon
-language: de
-cefr_level: A1
-category: adjective
+schema_version: '0.1'
 source: items_csv_rebuild
+category: adjective
 items:
-- lex_id: LEX-ADJ-A1-0001
-  text: langweilig
-  pos: adjective
-  lemma: langweilig
-  notes: null
+- text: langweilig
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 39
-- lex_id: LEX-ADJ-A1-0002
-  text: neunzehnhundertvierundneunzig
-  pos: adjective
-  lemma: neunzehnhundertvierundneunzig
-  notes: null
+  lex_id: LEX.ADJ.LANGWEILIG
+- text: neunzehnhundertvierundneunzig
   sources:
   - ppt: Modul 3.c - Time & Date.pptx
     slide: 15
-- lex_id: LEX-ADJ-A1-0003
-  text: nützlich
-  pos: adjective
-  lemma: nützlich
-  notes: null
+  lex_id: LEX.ADJ.NEUNZEHNHUNDERTVIERUNDNEUNZIG
+- text: nützlich
   sources:
   - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
     slide: 40
-- lex_id: LEX-ADJ-A1-0004
-  text: siebzehnhundertdreiundvierzig
-  pos: adjective
-  lemma: siebzehnhundertdreiundvierzig
-  notes: null
+  lex_id: LEX.ADJ.NUETZLICH
+- text: siebzehnhundertdreiundvierzig
   sources:
   - ppt: Modul 3.c - Time & Date.pptx
     slide: 15
-- lex_id: LEX-ADJ-A1-0005
-  text: zweitausendzweiundzwanzig
-  pos: adjective
-  lemma: zweitausendzweiundzwanzig
-  notes: null
+  lex_id: LEX.ADJ.SIEBZEHNHUNDERTDREIUNDVIERZIG
+- text: zweitausendzweiundzwanzig
   sources:
   - ppt: Modul 3.c - Time & Date.pptx
     slide: 15
+  lex_id: LEX.ADJ.ZWEITAUSENDZWEIUNDZWANZIG
