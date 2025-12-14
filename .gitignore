@@ -64,8 +64,7 @@ docs/_build/
 # =====================
 # Internal reference / working materials (not for GitHub)
 # =====================
-References_Manuals/
-References_Manuscripts/
+References/
 
 data_collection/processed/learner_state/
 *.save
@@ -100,6 +99,13 @@ linguistic_rules/lexicon/*.bak
 # Lexicon audit artifacts
 # =====================
 linguistic_rules/lexicon/unknown.csv
+
+
+
+
+
+
+
 
 # =====================
 # Windows
