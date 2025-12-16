@@ -100,7 +100,11 @@ linguistic_rules/lexicon/*.bak
 # =====================
 linguistic_rules/lexicon/unknown.csv
 
-
+# =====================
+# Source files
+# =====================
+docs/ppt_sources/*.pptx
+docs/ppt_sources/*.ppt
 
 
 
@@ -112,3 +116,7 @@ linguistic_rules/lexicon/unknown.csv
 # =====================
 Thumbs.db
 desktop.ini
+
+# Large source decks (keep out of GitHub)
+docs/ppt_sources/*.pptx
+docs/ppt_sources/*.ppt
