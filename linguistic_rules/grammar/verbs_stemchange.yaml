@@ -21,34 +21,13 @@ rules:
   - type: "au_to_aeu"
     description: "au → äu in du and er/sie/es"
 
-verbs:
-  - infinitive: "sehen"
-    change: "e_to_ie"
-    conjugation:
-      ich: "sehe"
-      du: "siehst"
-      er_sie_es: "sieht"
-
-  - infinitive: "sprechen"
-    change: "e_to_i"
-    conjugation:
-      ich: "spreche"
-      du: "sprichst"
-      er_sie_es: "spricht"
-
-  - infinitive: "fahren"
-    change: "a_to_ae"
-    conjugation:
-      ich: "fahre"
-      du: "fährst"
-      er_sie_es: "fährt"
-
-  - infinitive: "laufen"
-    change: "au_to_aeu"
-    conjugation:
-      ich: "laufe"
-      du: "läufst"
-      er_sie_es: "läuft"
+examples:
+  note: "Stem-change verb inventory lives in linguistic_rules/lexicon/verbs.yaml. This file defines the stem-change class only."
+  sample_lemmas:
+    - "sehen"
+    - "sprechen"
+    - "fahren"
+    - "laufen"
 
 constraints:
   - Stem changes do not apply to plural forms.

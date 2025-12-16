@@ -23,7 +23,7 @@ spelling_rules:
     description: >
       Verbs ending in -t or -d insert -e before du/er endings.
     example:
-      infinitive: "arbeiten"
+      lemma: "arbeiten"
       du: "arbeitest"
       er_sie_es: "arbeitet"
 
@@ -31,7 +31,7 @@ spelling_rules:
     description: >
       Verbs ending in -s, -ß, or -z drop the 's' in du-form.
     example:
-      infinitive: "tanzen"
+      lemma: "tanzen"
       du: "tanzt"
 
 examples:

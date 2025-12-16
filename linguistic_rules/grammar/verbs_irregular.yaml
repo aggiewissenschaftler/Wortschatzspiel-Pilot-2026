@@ -12,36 +12,12 @@ description: >
 
 tense: "present"
 
-verbs:
-  - infinitive: "sein"
-    meaning: "to be"
-    conjugation:
-      ich: "bin"
-      du: "bist"
-      er_sie_es: "ist"
-      wir: "sind"
-      ihr: "seid"
-      sie_Sie: "sind"
-
-  - infinitive: "haben"
-    meaning: "to have"
-    conjugation:
-      ich: "habe"
-      du: "hast"
-      er_sie_es: "hat"
-      wir: "haben"
-      ihr: "habt"
-      sie_Sie: "haben"
-
-  - infinitive: "werden"
-    meaning: "to become / future auxiliary"
-    conjugation:
-      ich: "werde"
-      du: "wirst"
-      er_sie_es: "wird"
-      wir: "werden"
-      ihr: "werdet"
-      sie_Sie: "werden"
+examples:
+  note: "Irregular verb inventory lives in linguistic_rules/lexicon/verbs.yaml. This file defines irregular patterns only."
+  sample_lemmas:
+    - "sein"
+    - "haben"
+    - "werden"
 
 pedagogical_notes:
   - These verbs are foundational for sentence construction.
