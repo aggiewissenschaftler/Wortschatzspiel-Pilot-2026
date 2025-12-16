@@ -35,12 +35,11 @@ spelling_rules:
       du: "tanzt"
 
 examples:
-  - infinitive: "machen"
-    translation: "to make"
-  - infinitive: "lernen"
-    translation: "to learn"
-  - infinitive: "arbeiten"
-    translation: "to work"
+  note: "Verb inventory lives in linguistic_rules/lexicon/verbs.yaml. This file defines patterns only."
+  sample_lemmas:
+    - "machen"
+    - "lernen"
+    - "arbeiten"
 
 common_errors:
   - error: "du machst"
