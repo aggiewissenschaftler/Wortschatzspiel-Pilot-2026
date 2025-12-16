@@ -4,7 +4,7 @@ set -euo pipefail
 echo "Pre-commit: validating Wortschatzspiel ruleset integrity..."
 
 # Run the validator
-python tools/validate_ruleset_integrity.py
+python tools/validate/validate_ruleset_integrity.py
 
 # Optional: block commits if there are untracked files in key areas
 # (prevents “oops forgot to add the tool/script”)
