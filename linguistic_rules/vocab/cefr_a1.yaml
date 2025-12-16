@@ -1,0 +1,47 @@
+schema_version: "0.1"
+cefr_level: "A1"
+language: "de"
+description: "Core CEFR A1 German vocabulary for Wortschatzspiel pilot."
+
+items:
+  - item_id: "A1-V-0001"
+    type: "verb"
+    de: "haben"
+    en: "to have"
+    infinitive: "haben"
+    present_ich: "habe"
+    present_du: "hast"
+    present_er_sie_es: "hat"
+    tags: ["core-verb", "possession"]
+    difficulty: 1
+    notes: "Irregular (a→a, but du/er forms differ)."
+
+  - item_id: "A1-V-0002"
+    type: "verb"
+    de: "gehen"
+    en: "to go / walk"
+    infinitive: "gehen"
+    present_ich: "gehe"
+    present_du: "gehst"
+    present_er_sie_es: "geht"
+    tags: ["movement"]
+    difficulty: 1
+    notes: ""
+
+  - item_id: "A1-ADJ-0001"
+    type: "adjective"
+    de: "gut"
+    en: "good"
+    comparative: "besser"
+    superlative: "am besten"
+    tags: ["quality"]
+    difficulty: 2
+    notes: "Irregular comparison."
+
+  - item_id: "A1-ADV-0001"
+    type: "adverb"
+    de: "nicht"
+    en: "not"
+    tags: ["negation"]
+    difficulty: 1
+    notes: "Negation word; placement handled in grammar rules."
