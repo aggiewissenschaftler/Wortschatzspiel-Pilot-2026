@@ -3,1625 +3,2024 @@ language: de
 cefr_level: A1
 source: cefr_a1_core
 items:
-- lemma: abfahren
-  category: verb
+- lemma: all
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: abfliegen
-  category: verb
+- lemma: aller
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: abgeben
-  category: verb
+- lemma: dein
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: abholen
-  category: verb
+- lemma: deine
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: ableitbaren
-  category: verb
+- lemma: der
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: anbieten
-  category: verb
+- lemma: dieser
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: anerkennen
-  category: verb
+- lemma: ein
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: anfangen
-  category: verb
+- lemma: euer
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: anführen
-  category: verb
+- lemma: ihr
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: anklicken
-  category: verb
+- lemma: jeder
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: ankommen
-  category: verb
+- lemma: kein
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: ankreuzen
-  category: verb
+- lemma: mein
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: anmachen
-  category: verb
+- lemma: nen
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: anmelden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anrufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: antworten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anziehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arbeiten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: associ
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aufhören
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auflisten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aufstehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausfüllen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausgewählten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausmachen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausnehmen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aussehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aussteigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausziehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: baden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bedeuten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: befinden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: begeg
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: begegnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beginnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bekommen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bekommsen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: benutzen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: besetzen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: besichtigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bestellen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: besuchen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bezahlen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bezeichnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bilden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bist
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bitten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bleiben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: brauchen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: brauchst
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bringen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: buchstabieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: danken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dauern
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: denken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dokumentieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: drucken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: drücken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dürfen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einkaufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einladen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einsteigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: empfehlen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: enden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: enthalten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: entschuldigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erbringen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erfolgen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erfüllen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ergänzen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erklären
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erlauben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ermöglichen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erschließen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erzählen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: essen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahr
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fallen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fangen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fehlen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: feiern
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: finden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: findest
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fliegen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: folgen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fragen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: freuen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frühstück
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frühstücken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: geben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gebraucht
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gebären
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gefällen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gehören
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gemeinsam
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gewinnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: glauben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gratulieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: grillen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gruß
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: habe
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: haben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: halten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: handeln
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hast
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: heiraten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: heißen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: helfen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: herausgeben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: holen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hörden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hören
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: illustrieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: intermediary
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kaufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kennen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kennenlernen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kochen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kommen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kommst
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kosten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kriegen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: können
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: könnsten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: könnten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kümmern
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lachen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lassen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: laufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: leben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: legen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lehren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lernen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lesen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: liebe
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lieben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: liegen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: machen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: meinen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mieten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mitbringen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mitkommen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mitmachen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mitnehmen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mitzählen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: muss
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mussen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: musst
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: möchten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: möchtest
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mögen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: müssen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: nehmen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: nennen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: rauchen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: regnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: reisen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: reparieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: revidieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: riechen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: rufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: sag
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: sagen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: sch
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: scheiden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: scheinen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: schen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: schicken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: schlafen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: schließen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: schmecken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: schreiben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: schwimmen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: sehen
-  category: verb
+- lemma: paar
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
 - lemma: sein
-  category: verb
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: sitzen
-  category: verb
+- lemma: solcher
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: sollen
-  category: verb
+- lemma: unser
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: spielen
-  category: verb
+- lemma: viel
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: spielt
-  category: verb
+- lemma: welcher
+  category: article
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: sprechen
-  category: verb
+- lemma: aber
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: sprichst
-  category: verb
+- lemma: bis
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: stehen
-  category: verb
+- lemma: da
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: steig
-  category: verb
+- lemma: denn
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: stellen
-  category: verb
+- lemma: doch
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: sterben
-  category: verb
+- lemma: möchtest
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: stimmen
-  category: verb
+- lemma: noch
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: studieren
-  category: verb
+- lemma: oder
+  category: conjunction
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: suchen
-  category: verb
+- lemma: plus
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: seit
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: um
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: und
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wann
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: warum
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wenn
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wo
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: woher
+  category: conjunction
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: acht
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: achtzehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: achtzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: drei
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dreiundzwanzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dreizehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dreißig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: elf
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fünf
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fünfzehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fünfzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hundert
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: neun
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: neunzehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: neunzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: 'null'
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sechs
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sechzehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sechzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sieben
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: siebzehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: siebzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tausend
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vier
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vierundzwanzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vierzehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vierzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zehn
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zwanzig
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zwei
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zweihundert
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zwölf
+  category: numeral
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ja
+  category: particle
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nein
+  category: particle
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nicht
+  category: particle
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ab
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: als
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: an
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auf
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aus
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bei
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dank
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: durch
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: für
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gegen
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hinsichtlich
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: in
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: innerhalb
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: laut
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: minus
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mit
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nach
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: neben
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ohne
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: seit
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: um
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: unter
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: von
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vor
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wie
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zu
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zwischen
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: über
+  category: preposition
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: alle
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aller
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anderer
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beide
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dein
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: der
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dich
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dieser
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dir
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: du
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ein
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: einer
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: einzeln
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: er
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: es
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: etwas
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: euch
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ich
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ihm
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ihn
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ihnen
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ihr
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kein
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: man
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mehrere
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mein
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: meister
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mich
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mir
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nichts
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sich
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sie
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: uns
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: viel
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: viele
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vieler
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: was
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: welchen
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: welcher
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wen
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wenig
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: weniger
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wer
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wir
+  category: pronoun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: adult
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: alexander
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ali
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: alltagskommuni
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: august
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausländerbe
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bad
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bast
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: becker
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: below
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: berlin
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: best
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: brasilien
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: brauchst
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: braun
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: cambridge
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: charlotte
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: chen
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: chiemsee
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: china
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: claudia
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: conchi
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: deutschland
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: development
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: direktor
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: edk
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ehegattennachzugs
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ek
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: eltville
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: essen
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: europa
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: europarat
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: europe
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: european
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: eva
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: everest
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fahr
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: felix
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: finnin
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: finnland
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fitzpatrick
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frankfurt
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frankreich
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: garc
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: georgi
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: goethe-institut
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: goethe-zertifikat
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gonz
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hallo
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hamburg
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hans
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: heidelberg
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hele
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: helmut
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hg
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: huber
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hundertein
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: inge
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: italien
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: japan
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: jeans
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: jenny
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: john
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: judith
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kantonalen
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: katharina
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: klaus
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: klein
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kmk
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kommst
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kommu
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kompetenzskala
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: komposita
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kunz
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: köln
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: langen
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: langenscheidt
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: laura
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ledig
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lies
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lukas
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: main
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mainz
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mannheim
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: manuela
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: martin
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: meier
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: merten
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mexiko
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: michaela
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mount
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: muttersprachli
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: müller
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: münchen
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: natione
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ober
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: of
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: offenbach
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: pamela
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: paul
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: peter
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: petra
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: picasso
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: polen
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: redewe
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rhein
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ricardo
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rusch
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rüdesheim
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: saarbrücken
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: scheidt
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schillerstraße
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schinkenbrot
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schlafzimmer
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schmidt
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schmitt
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schmitz
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schweiz
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: siemens
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: silvana
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sind
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sohn
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: spanien
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: starnberger
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: strassburg
+  category: proper noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stuttgart
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
 - lemma: suchst
-  category: verb
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: tanzen
-  category: verb
+- lemma: susanne
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: telefonieren
-  category: verb
+- lemma: tester
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: treffen
-  category: verb
+- lemma: thomas
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: treiben
-  category: verb
+- lemma: tim
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: trinken
-  category: verb
+- lemma: trim
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: tun
-  category: verb
+- lemma: tschüss
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: tut
-  category: verb
+- lemma: türkei
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: umziehen
-  category: verb
+- lemma: van
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: unterscheiden
-  category: verb
+- lemma: vergli
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: unterschreiben
-  category: verb
+- lemma: veronika
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: unveröffentlicht
-  category: verb
+- lemma: vs
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: urteilen
-  category: verb
+- lemma: watanabe
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: verbieten
-  category: verb
+- lemma: wiesbaden
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: verdienen
-  category: verb
+- lemma: wohnst
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: vereinigen
-  category: verb
+- lemma: yin
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: verheiraten
-  category: verb
+- lemma: zagreb
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: verkaufen
-  category: verb
+- lemma: zweitausendvierzehn
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: vermieten
-  category: verb
+- lemma: ösd
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
-- lemma: verstehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: vorstellen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wandern
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: warten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: waschen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: weißt
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: werden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wiederholen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wissen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wohnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wollen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wär
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zahlen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zeigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zieh
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ziehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zuordnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zusammenstellen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zweitausendzwei
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: öffne
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: öffnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: übernachten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: überweisen
-  category: verb
+- lemma: österreich
+  category: proper noun
   gender: ''
   notes: ''
   seen_in_course: false

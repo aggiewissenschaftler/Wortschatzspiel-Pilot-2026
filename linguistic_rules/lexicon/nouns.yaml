@@ -1,1198 +1,4660 @@
-schema_version: '0.1'
-source: items_csv_rebuild
-category: noun
+schema: lexical_schema_v1
+language: de
+cefr_level: A1
+source: cefr_a1_core
 items:
-- text: das Abschlusszeugnis
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 4
-  lex_id: LEX.NOUN.ABSCHLUSSZEUGNIS.DAS
-- text: das Auto
-  sources:
-  - ppt: First words.pptx
-    slide: 8
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.AUTO.DAS
-- text: das Bier
-  sources:
-  - ppt: First words.pptx
-    slide: 19
-  lex_id: LEX.NOUN.BIER.DAS
-- text: das Blatt Papier
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 25
-  lex_id: LEX.NOUN.BLATT.PAPIER.DAS
-- text: das Brot
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: First words.pptx
-    slide: 10
-  lex_id: LEX.NOUN.BROT.DAS
-- text: das Buch
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 19
-  - ppt: First words.pptx
-    slide: 4
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 18
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.BUCH.DAS
-- text: Das Buch
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.BUCH.DAS.2
-- text: das Café
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 31
-  lex_id: LEX.NOUN.CAF.DAS
-- text: das Diplom
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 5
-  lex_id: LEX.NOUN.DIPLOM.DAS
-- text: das Ergebnis
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 10
-  lex_id: LEX.NOUN.ERGEBNIS.DAS
-- text: das Fach (die Fächer)
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 7
-  lex_id: LEX.NOUN.FACH.DIE.FAECHER.DAS
-- text: das Fahrrad
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 7
-  lex_id: LEX.NOUN.FAHRRAD.DAS
-- text: das Fenster
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: First words.pptx
-    slide: 38
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 36
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.FENSTER.DAS
-- text: das Fenster– die Fenster
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 14
-  lex_id: LEX.NOUN.FENSTER.DIE.FENSTER.DAS
-- text: das Fitnessstudio
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 34
-  lex_id: LEX.NOUN.FITNESSSTUDIO.DAS
-- text: das Foto
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 8
-  lex_id: LEX.NOUN.FOTO.DAS
-- text: das Geld
-  sources:
-  - ppt: First words.pptx
-    slide: 1
-  lex_id: LEX.NOUN.GELD.DAS
-- text: das Handy
-  sources:
-  - ppt: First words.pptx
-    slide: 43
-  lex_id: LEX.NOUN.HANDY.DAS
-- text: Das Haus
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.HAUS.DAS
-- text: das Haus
-  sources:
-  - ppt: First words.pptx
-    slide: 9
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 7
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.HAUS.DAS.2
-- text: das Heft
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 27
-  lex_id: LEX.NOUN.HEFT.DAS
-- text: das Hemd
-  sources:
-  - ppt: First words.pptx
-    slide: 48
-  lex_id: LEX.NOUN.HEMD.DAS
-- text: das Hotel
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.HOTEL.DAS
-- text: Das ist kein Fahrrad
-  sources:
-  - ppt: Module 4.d - Negations.pptx
-    slide: 6
-  lex_id: LEX.NOUN.IST.KEIN.FAHRRAD.DAS
-- text: Das ist keine Tafel
-  sources:
-  - ppt: Module 4.d - Negations.pptx
-    slide: 8
-  lex_id: LEX.NOUN.IST.KEINE.TAFEL.DAS
-- text: das Kind
-  sources:
-  - ppt: First words.pptx
-    slide: 27
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.KIND.DAS
-- text: das Klassenzimmer
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 5
-  lex_id: LEX.NOUN.KLASSENZIMMER.DAS
-- text: das Lehrbuch
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 19
-  lex_id: LEX.NOUN.LEHRBUCH.DAS
-- text: das Meer
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 12
-  lex_id: LEX.NOUN.MEER.DAS
-- text: das Mädchen
-  sources:
-  - ppt: First words.pptx
-    slide: 17
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 10
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.MAEDCHEN.DAS
-- text: das Problem
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 15
-  lex_id: LEX.NOUN.PROBLEM.DAS
-- text: das Schulbuch
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 20
-  lex_id: LEX.NOUN.SCHULBUCH.DAS
-- text: das Schwimmbad
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 11
-  lex_id: LEX.NOUN.SCHWIMMBAD.DAS
-- text: das Seminar
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 21
-  lex_id: LEX.NOUN.SEMINAR.DAS
-- text: das Spiel
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 33
-  lex_id: LEX.NOUN.SPIEL.DAS
-- text: das Spielfeld
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 5
-  lex_id: LEX.NOUN.SPIELFELD.DAS
-- text: das Stadion
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 4
-  lex_id: LEX.NOUN.STADION.DAS
-- text: das Stipendium
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 24
-  lex_id: LEX.NOUN.STIPENDIUM.DAS
-- text: das Tischchen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 10
-  lex_id: LEX.NOUN.TISCHCHEN.DAS
-- text: das Wasser
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: First words.pptx
-    slide: 22
-  lex_id: LEX.NOUN.WASSER.DAS
-- text: das Wörterbuch
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 21
-  lex_id: LEX.NOUN.WOERTERBUCH.DAS
-- text: das Zeugnis
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 14
-  lex_id: LEX.NOUN.ZEUGNIS.DAS
-- text: das Zimmer
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: First words.pptx
-    slide: 34
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.ZIMMER.DAS
-- text: der Abschluss
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 2
-  lex_id: LEX.NOUN.ABSCHLUSS.DER
-- text: der Apfel
-  sources:
-  - ppt: First words.pptx
-    slide: 11
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.APFEL.DER
-- text: der Basketball
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 3
-  lex_id: LEX.NOUN.BASKETBALL.DER
-- text: der Berg (die Berge)
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 22
-  lex_id: LEX.NOUN.BERG.DIE.BERGE.DER
-- text: der Bleistift
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 23
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 5
-  lex_id: LEX.NOUN.BLEISTIFT.DER
-- text: der Bruder
-  sources:
-  - ppt: First words.pptx
-    slide: 14
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.BRUDER.DER
-- text: der Computer
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 6
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.COMPUTER.DER
-- text: der Dozent
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 6
-  lex_id: LEX.NOUN.DOZENT.DER
-- text: der Flughafen
-  sources:
-  - ppt: First words.pptx
-    slide: 44
-  lex_id: LEX.NOUN.FLUGHAFEN.DER
-- text: der Freund
-  sources:
-  - ppt: First words.pptx
-    slide: 18
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.FREUND.DER
-- text: der Frühling
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 12
-  lex_id: LEX.NOUN.FRUEHLING.DER
-- text: der Herbst
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 10
-  lex_id: LEX.NOUN.HERBST.DER
-- text: der Hund
-  sources:
-  - ppt: First words.pptx
-    slide: 46
-  lex_id: LEX.NOUN.HUND.DER
-- text: der Hörsaal
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 32
-  lex_id: LEX.NOUN.HOERSAAL.DER
-- text: der Junge
-  sources:
-  - ppt: First words.pptx
-    slide: 16
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.JUNGE.DER
-- text: der Kalender
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 7
-  lex_id: LEX.NOUN.KALENDER.DER
-- text: der Klassenkamerad
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 43
-  lex_id: LEX.NOUN.KLASSENKAMERAD.DER
-- text: der Kommilitone
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 45
-  lex_id: LEX.NOUN.KOMMILITONE.DER
-- text: der Kopf
-  sources:
-  - ppt: First words.pptx
-    slide: 31
-  lex_id: LEX.NOUN.KOPF.DER
-- text: der Kuli
-  sources:
-  - ppt: First words.pptx
-    slide: 2
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 7
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.KULI.DER
-- text: der Lehrer
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 53
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.LEHRER.DER
-- text: der Lehrer (die Lehrerin)
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 4
-  lex_id: LEX.NOUN.LEHRER.DIE.LEHRERIN.DER
-- text: der Mann
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.MANN.DER
-- text: der Papierkorb
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 26
-  lex_id: LEX.NOUN.PAPIERKORB.DER
-- text: der Park
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 19
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.PARK.DER
-- text: der Platz
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 5
-  lex_id: LEX.NOUN.PLATZ.DER
-- text: der Professor
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 47
-  lex_id: LEX.NOUN.PROFESSOR.DER
-- text: der Radiergummi
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 24
-  lex_id: LEX.NOUN.RADIERGUMMI.DER
-- text: der Regen
-  sources:
-  - ppt: First words.pptx
-    slide: 40
-  lex_id: LEX.NOUN.REGEN.DER
-- text: der Rucksack
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 31
-  lex_id: LEX.NOUN.RUCKSACK.DER
-- text: der Saft
-  sources:
-  - ppt: First words.pptx
-    slide: 21
-  lex_id: LEX.NOUN.SAFT.DER
-- text: der Schlüssel
-  sources:
-  - ppt: First words.pptx
-    slide: 37
-  lex_id: LEX.NOUN.SCHLUESSEL.DER
-- text: der Schreibtisch
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 34
-  lex_id: LEX.NOUN.SCHREIBTISCH.DER
-- text: der Schüler
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 51
-  lex_id: LEX.NOUN.SCHUELER.DER
-- text: der Seminarraum
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 33
-  lex_id: LEX.NOUN.SEMINARRAUM.DER
-- text: der Sohn
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 2
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.SOHN.DER
-- text: der Sommer
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 9
-  lex_id: LEX.NOUN.SOMMER.DER
-- text: der Student
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 49
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.STUDENT.DER
-- text: der Stuhl
-  sources:
-  - ppt: First words.pptx
-    slide: 33
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 32
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.STUHL.DER
-- text: der Taschenrechner
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 28
-  lex_id: LEX.NOUN.TASCHENRECHNER.DER
-- text: der Tee
-  sources:
-  - ppt: First words.pptx
-    slide: 23
-  lex_id: LEX.NOUN.TEE.DER
-- text: der Tisch
-  sources:
-  - ppt: First words.pptx
-    slide: 32
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 33
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.TISCH.DER
-- text: der Unterricht
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 2
-  lex_id: LEX.NOUN.UNTERRICHT.DER
-- text: der Vater
-  sources:
-  - ppt: First words.pptx
-    slide: 13
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.VATER.DER
-- text: der Vogel
-  sources:
-  - ppt: First words.pptx
-    slide: 45
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.VOGEL.DER
-- text: der Wald
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 20
-  lex_id: LEX.NOUN.WALD.DER
-- text: der Winter
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 11
-  lex_id: LEX.NOUN.WINTER.DER
-- text: die Arbeit
-  sources:
-  - ppt: First words.pptx
-    slide: 39
-  lex_id: LEX.NOUN.ARBEIT.DIE
-- text: die Architektur
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 9
-  lex_id: LEX.NOUN.ARCHITEKTUR.DIE
-- text: die Autos
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.AUTOS.DIE
-- text: die Bibliothek
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 40
-  lex_id: LEX.NOUN.BIBLIOTHEK.DIE
-- text: die Biologie
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 8
-  lex_id: LEX.NOUN.BIOLOGIE.DIE
-- text: die Blume
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.BLUME.DIE
-- text: die Blumen
-  sources:
-  - ppt: First words.pptx
-    slide: 26
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.BLUMEN.DIE
-- text: die Brüder
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.BRUEDER.DIE
-- text: die Bücher
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.BUECHER.DIE
-- text: die Chemie
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 20
-  lex_id: LEX.NOUN.CHEMIE.DIE
-- text: die Computer
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.COMPUTER.DIE
-- text: die Dozentin
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 6
-  lex_id: LEX.NOUN.DOZENTIN.DIE
-- text: die Fenster
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.FENSTER.DIE
-- text: die Frage
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 9
-  lex_id: LEX.NOUN.FRAGE.DIE
-- text: die Frau
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.FRAU.DIE
-- text: die Frauen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.FRAUEN.DIE
-- text: die Freizeit
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 37
-  lex_id: LEX.NOUN.FREIZEIT.DIE
-- text: die Fremdsprachen
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 15
-  lex_id: LEX.NOUN.FREMDSPRACHEN.DIE
-- text: die Freunde
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.FREUNDE.DIE
-- text: die Freundin
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.FREUNDIN.DIE
-- text: die Freundinnen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.FREUNDINNEN.DIE
-- text: die Geschichte
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 17
-  lex_id: LEX.NOUN.GESCHICHTE.DIE
-- text: die Hausaufgabe
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: First words.pptx
-    slide: 5
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 11
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.HAUSAUFGABE.DIE
-- text: Die Hausaufgabe
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.HAUSAUFGABE.DIE.2
-- text: die Hausaufgabe machen
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 57
-  lex_id: LEX.NOUN.HAUSAUFGABE.MACHEN.DIE
-- text: die Hausaufgaben
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.HAUSAUFGABEN.DIE
-- text: die Hotels
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.HOTELS.DIE
-- text: die Häuser
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.HAEUSER.DIE
-- text: die Informatik
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 13
-  lex_id: LEX.NOUN.INFORMATIK.DIE
-- text: die Jahre
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.JAHRE.DIE
-- text: die Jungen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.JUNGEN.DIE
-- text: die Karte
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 30
-  lex_id: LEX.NOUN.KARTE.DIE
-- text: die Karte (die Karten)
-  sources:
-  - ppt: Module 4.a - 2.B Vocabulary PowerPoint.pptx
-    slide: 36
-  lex_id: LEX.NOUN.KARTE.DIE.KARTEN.DIE
-- text: die Katze
-  sources:
-  - ppt: First words.pptx
-    slide: 47
-  lex_id: LEX.NOUN.KATZE.DIE
-- text: die Kinder
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 3
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 7
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.KINDER.DIE
-- text: die Klasse
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 3
-  lex_id: LEX.NOUN.KLASSE.DIE
-- text: die Klassenkameradin
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 44
-  lex_id: LEX.NOUN.KLASSENKAMERADIN.DIE
-- text: die Kommilitonin
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 46
-  lex_id: LEX.NOUN.KOMMILITONIN.DIE
-- text: die Kulis
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.KULIS.DIE
-- text: die Kunst
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 11
-  lex_id: LEX.NOUN.KUNST.DIE
-- text: die Lehrer
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.LEHRER.DIE
-- text: die Lehrerin
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 54
-  lex_id: LEX.NOUN.LEHRERIN.DIE
-- text: die Leute
-  sources:
-  - ppt: First words.pptx
-    slide: 50
-  lex_id: LEX.NOUN.LEUTE.DIE
-- text: die Literatur
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 10
-  lex_id: LEX.NOUN.LITERATUR.DIE
-- text: die Mathematik
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 12
-  lex_id: LEX.NOUN.MATHEMATIK.DIE
-- text: die Mensa
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 41
-  lex_id: LEX.NOUN.MENSA.DIE
-- text: die Milch
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: First words.pptx
-    slide: 20
-  lex_id: LEX.NOUN.MILCH.DIE
-- text: die Mutter
-  sources:
-  - ppt: First words.pptx
-    slide: 12
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.MUTTER.DIE
-- text: die Mädchen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.MAEDCHEN.DIE
-- text: die Männer
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.MAENNER.DIE
-- text: die Mütter
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.MUETTER.DIE
-- text: die Naturwissenschaften
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 18
-  lex_id: LEX.NOUN.NATURWISSENSCHAFTEN.DIE
-- text: die Note
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 13
-  lex_id: LEX.NOUN.NOTE.DIE
-- text: die Notiz (die Notizen)
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 12
-  lex_id: LEX.NOUN.NOTIZ.DIE.NOTIZEN.DIE
-- text: die Parks
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.PARKS.DIE
-- text: die Person
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 42
-  lex_id: LEX.NOUN.PERSON.DIE
-- text: die Physik
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 19
-  lex_id: LEX.NOUN.PHYSIK.DIE
-- text: die Professorin
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 48
-  lex_id: LEX.NOUN.PROFESSORIN.DIE
-- text: Die Prüfung
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.PRUEFUNG.DIE
-- text: die Prüfung
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 16
-  lex_id: LEX.NOUN.PRUEFUNG.DIE.2
-- text: die Psychologie
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 14
-  lex_id: LEX.NOUN.PSYCHOLOGIE.DIE
-- text: die Sache
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 17
-  lex_id: LEX.NOUN.SACHE.DIE
-- text: die Schuhe
-  sources:
-  - ppt: First words.pptx
-    slide: 49
-  lex_id: LEX.NOUN.SCHUHE.DIE
-- text: die Schule
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 39
-  lex_id: LEX.NOUN.SCHULE.DIE
-- text: die Schwester
-  sources:
-  - ppt: First words.pptx
-    slide: 15
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.SCHWESTER.DIE
-- text: die Schwestern
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.SCHWESTERN.DIE
-- text: die Schülerin
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 52
-  lex_id: LEX.NOUN.SCHUELERIN.DIE
-- text: die Sonne
-  sources:
-  - ppt: First words.pptx
-    slide: 41
-  lex_id: LEX.NOUN.SONNE.DIE
-- text: die Sporthalle
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 35
-  lex_id: LEX.NOUN.SPORTHALLE.DIE
-- text: die Stadt
-  sources:
-  - ppt: First words.pptx
-    slide: 29
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.STADT.DIE
-- text: die Straße
-  sources:
-  - ppt: First words.pptx
-    slide: 28
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.STRASSE.DIE
-- text: die Straßen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.STRASSEN.DIE
-- text: die Studenten
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.STUDENTEN.DIE
-- text: die Studentin
-  sources:
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 50
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.STUDENTIN.DIE
-- text: die Studentinnen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.STUDENTINNEN.DIE
-- text: die Stunde
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 49
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 4
-  lex_id: LEX.NOUN.STUNDE.DIE
-- text: die Städte
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.STAEDTE.DIE
-- text: die Stühle
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.STUEHLE.DIE
-- text: die Söhne
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.SOEHNE.DIE
-- text: die Tafel
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: First words.pptx
-    slide: 3
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 29
-  lex_id: LEX.NOUN.TAFEL.DIE
-- text: die Tage
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.TAGE.DIE
-- text: die Tasche
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 19
-  - ppt: First words.pptx
-    slide: 42
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 7
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.TASCHE.DIE
-- text: die Taschen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.TASCHEN.DIE
-- text: die Tische
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.TISCHE.DIE
-- text: die Tochter
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 1
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.TOCHTER.DIE
-- text: die Töchter
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.TOECHTER.DIE
-- text: die Tür
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: First words.pptx
-    slide: 36
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 37
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.TUER.DIE
-- text: die Türen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 16
-  lex_id: LEX.NOUN.TUEREN.DIE
-- text: die Universität
-  sources:
-  - ppt: First words.pptx
-    slide: 6
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 38
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.UNIVERSITAET.DIE
-- text: die Universitäten
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.UNIVERSITAETEN.DIE
-- text: die Veranstaltung
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 23
-  lex_id: LEX.NOUN.VERANSTALTUNG.DIE
-- text: die Vorlesung
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 22
-  lex_id: LEX.NOUN.VORLESUNG.DIE
-- text: die Väter
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.VAETER.DIE
-- text: die Vögel
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.VOEGEL.DIE
-- text: die Welt
-  sources:
-  - ppt: First words.pptx
-    slide: 30
-  lex_id: LEX.NOUN.WELT.DIE
-- text: die Wirtschaft
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 16
-  lex_id: LEX.NOUN.WIRTSCHAFT.DIE
-- text: die Wochen
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  lex_id: LEX.NOUN.WOCHEN.DIE
-- text: die Wohnung
-  sources:
-  - ppt: First words.pptx
-    slide: 35
-  lex_id: LEX.NOUN.WOHNUNG.DIE
-- text: die Zeit
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 53
-  lex_id: LEX.NOUN.ZEIT.DIE
-- text: die Zeitung
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  lex_id: LEX.NOUN.ZEITUNG.DIE
-- text: die Zimmer
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  lex_id: LEX.NOUN.ZIMMER.DIE
-- text: die Äpfel
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 19
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  lex_id: LEX.NOUN.AEPFEL.DIE
-- text: ein Buch
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 20
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EIN.BUCH
-- text: ein Haus
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 7
-  lex_id: LEX.NOUN.EIN.HAUS
-- text: ein Kuli
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 7
-  lex_id: LEX.NOUN.EIN.KULI
-- text: eine Frage
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  lex_id: LEX.NOUN.EINE.FRAGE
-- text: eine Katze
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EINE.KATZE
-- text: eine Milliarde = 1.000.000.000
-  sources:
-  - ppt: Modul 2.c - Numbers.pptx
-    slide: 6
-  lex_id: LEX.NOUN.EINE.MILLIARDE.1.000.000.000
-- text: eine Million = 1.000.000
-  sources:
-  - ppt: Modul 2.c - Numbers.pptx
-    slide: 6
-  lex_id: LEX.NOUN.EINE.MILLION.1.000.000
-- text: eine Prüfung
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EINE.PRUEFUNG
-- text: eine Tasche
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 20
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 7
-  lex_id: LEX.NOUN.EINE.TASCHE
-- text: eine Tochter
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EINE.TOCHTER
-- text: einen Abschluss machen
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 3
-  lex_id: LEX.NOUN.EINEN.ABSCHLUSS.MACHEN
-- text: einen Apfel
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EINEN.APFEL
-- text: einen Bruder
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EINEN.BRUDER
-- text: einen Hund
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EINEN.HUND
-- text: einen Kuli
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 20
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  lex_id: LEX.NOUN.EINEN.KULI
-- text: einen Kurs belegen
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 25
-  lex_id: LEX.NOUN.EINEN.KURS.BELEGEN
-- text: einen Sohn
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 24
-  lex_id: LEX.NOUN.EINEN.SOHN
-- text: einen Tisch
-  sources:
-  - ppt: Modul 2.d - Accusative Case.pptx
-    slide: 22
-  lex_id: LEX.NOUN.EINEN.TISCH
+- lemma: abend
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: abfahrt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: abflug
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: absender
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: achtung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: adresse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: alter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anfang
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: angabe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: angebot
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ankunft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anmeldung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anrede
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anruf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anrufbeantworter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ansag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ansage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anschluss
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anspruchsniveau
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: antwort
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: antwortboge
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: anzeige
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: apartment
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: apfel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: apfelsaft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: apotheke
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: appetit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: april
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: arbeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: arbeiter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: arbeitsfassung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: arbeitsplatz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: arm
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: arzt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: association
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ation
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aufgabe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aufgenom
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aufgenomma
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auflage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auftrag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aufzug
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auge
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausbildung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausdruck
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausflug
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausgabe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausgang
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auskunft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausland
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auslandsvertretung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausländer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausländerin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aussage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aussehen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: aussteigen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auswahl
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ausweis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auszug
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: auto
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: autobahn
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: automat
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bahn
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bahnhof
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bahnhofstraße
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bahnsteig
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: balkon
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: banane
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bank
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bauch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: baum
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beamter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beamtin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beantworter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bedeutung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beherr
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bein
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beispielsätz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bekannte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bekannter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bereich
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: berghaus
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beruf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bestandteil
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: besuch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bett
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bewohner
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bewältigung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: beziehung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bier
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bild
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bildung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: birne
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bleistift
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: blick
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: blume
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bogen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: breite
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: brief
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: briefmarke
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: broschüre
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: brot
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bruder
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: brötchen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: buch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: buchladen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: buchstabe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bundesministerium
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bundesrepublik
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bus
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: butter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: bäckerei
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: büro
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: caf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: cd
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: celsius
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: cent
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: chef
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: chefin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: computer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dame
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: danke
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: deut
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: deutsche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: deutschkurs
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: deutschlehrerin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: deutschprüfung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dezember
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dienstag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dienstleistung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: disco
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: disko
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: doktor
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dom
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: donnerstag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: doppelzimmer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dorf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: drucker
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: durchsage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: durst
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: dusche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: duschen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: e-mail
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ecke
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ehe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ehefrau
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ehemann
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ei
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: eingang
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: einkaufen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: einladung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: einrichtung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: eintrag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: eintritt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: eintrittskarte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: einzelzimmer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: eltern
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: empfänger
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ende
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: entschuldigen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: entschuldigung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ergebnis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: erwachsene
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: erziehung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: euro
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: europäer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fahren
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fahrer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fahrkarte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fahrrad
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fahrt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: familie
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: familienname
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: familiennamen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: familienstand
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: farbe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fax
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: februar
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fehler
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: feier
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: feierabend
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: feiertag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fenster
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fernsehen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: festigung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: feuer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fieber
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: film
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: finne
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: firma
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fisch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: flasche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fleisch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: flughafen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: flugzeug
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: form
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: formular
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: foto
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: französisch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frau
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: freitag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: freizeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fremdsprache
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frequenzkriterie
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: freund
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: freundin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frühjahr
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frühling
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: frühstück
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fuß
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fußball
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fähigkeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: fährst
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: führung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: füllen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: garten
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gast
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gebrauchsartikel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geburtsdatum
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geburtsjahr
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geburtsort
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geburtstag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gefallen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geld
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gemüse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gepäck
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geschenk
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geschlecht
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geschwister
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: geschäft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gespräch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: getränk
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gewicht
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gewohnheit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: glaboniat
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: glas
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gleis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: glück
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: glückwunsch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gmbh
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: grad
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gramm
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: großelter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: großmutter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: großvater
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: grundbaustein
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: grundlage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: grundstock
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gruppe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gruß
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: größe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: grüße
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: gute
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: haar
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: halbpension
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: halle
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: haltestelle
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hand
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: handbuch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: handy
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: haupt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: haus
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hausaufgabe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hausfrau
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: haushalt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hausmann
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hausnummer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: haustür
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: heimat
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: herbst
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: herd
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: herkunft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: herr
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: herzlich
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hilfe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: himmelsrichtung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hobby
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hochzeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hotel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hund
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hunger
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hähnchen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hälfte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: hören
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ice
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: information
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: interesse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: interessent
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: internet
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: inventar
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: inventarlist
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: jacke
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: jahr
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: jahreszeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: januar
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: japaner
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: job
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: jugendliche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: juli
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: junge
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: juni
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kaffee
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kannbeschreibung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kannst
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: karte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kartoffel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kasse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kategorie
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kaufhaus
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kaufst
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kilo
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kilometer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kind
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kinderbetreuung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kinderbett
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kindergarten
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kino
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kiosk
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: klasse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: klassenzimmer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kleidung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: klima
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: koffer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kollege
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kollegin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kommunikation
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kompendie
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: konferenz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: konto
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kopf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kredit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kreuze
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kuchen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kugelschreiber
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kultusminister
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kunde
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kundin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kurs
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kurstag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: käse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: können
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: küche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: kühlschrank
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: laden
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: land
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lastkraftwage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: leben
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lebensmittel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lehrer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lehrerin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lehrmaterial
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: leid
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lektüre
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lernen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lernende
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lernenden
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lernzielbestimmung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lesetext
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: leute
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: level
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: licht
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: liebe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lieblings-cd
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lieblingsfilm
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lieblingsgetränk
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lieblingslied
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lied
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: linke
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: liste
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: liter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: literatur
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lkw
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lokal
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: lokale
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ländernam
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mahlzeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mai
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mann
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: maschine
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: maß
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: medikament
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: meer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mensch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: messeplatz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: meter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mexikaner
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mexikanerin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: miete
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mietverhältnis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: milch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: milliarde
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: million
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: minute
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mittag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mittagspause
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mitte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mittel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mittwoch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: moment
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: monat
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: monatsname
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: montag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mund
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: museum
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mutter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: mädchen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: märz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: möbel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: möchten
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nachmittag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nacht
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nachweis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nahrungsmittel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: name
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nationalität
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nebeneintrag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nebeneinträge
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: neuankömmling
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nikative
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: niveau
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: niveaustuf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nomen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: norddeutschen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: norden
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: november
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: nächsten
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: obst
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: oktober
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: opa
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ordnung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ort
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: osten
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: papier
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: park
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: partner
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: partnerin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: party
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: pass
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: pause
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: perlmann-balm
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: person
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: pflanze
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: pfund
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: plan
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: platz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: pluralforme
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: polizei
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: post
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: postleitzahl
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: praktikum
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: praxis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: preis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: presse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: problem
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: profil
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: prospekt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: prozent
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: prüfung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: prüfungsauf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: prüfungsverfahren
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: prüfungsziel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: publikation
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: quadratmeter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rad
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: radio
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rahmen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rat
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rauchen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: raum
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rausch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rechnung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: referenz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: referenzrahmen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: referenzrahmens
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: regen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: reis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: reise
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: reisebüro
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: reiseführer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: reparatur
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: restaurant
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: rezeption
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: richtung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ruf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: s-bahn
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: saft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: salat
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: salz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: samstag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: satz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schalter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schicken
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schild
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schinken
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schluss
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schlüssel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schrank
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schreiben
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schuh
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schule
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schwarze
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schwester
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schwimmbad
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schöne
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schüler
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: schülerin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sechsstufig
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: see
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sehenswürdigkeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: seid
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sekunde
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: september
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sinn
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sofa
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sohn
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sommer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sonnabend
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sonne
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sonntag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: spanier
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: speise
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: speisekarte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: spiel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: spielen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sport
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sportschuh
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sportverein
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sprachbeherrschung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sprachkompetenz
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sprachkurse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sprachniveau
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sprachprüfung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: sprechen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: staatsangehörigkeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stadt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stadtplan
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: start
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stelle
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stock
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: straße
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: straßenbahn
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: student
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: studentin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: studium
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stufe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stunde
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ständig
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: stück
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: supermarkt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: system
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: szeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: süden
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tagesablauf
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tageszeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tanzen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tasche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tasse
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: taxi
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tee
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: teil
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: telefon
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: telefonanschluss
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: telekommunikation
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: termin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: test
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: testbeschrei
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: text
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: threshold-level
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ticket
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tier
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tion
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tisch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tochter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: toilette
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tomate
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tomatensaft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: treppe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: trinken
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: tür
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: türke
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: türkin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: uhr
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: uhrzeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: umwelt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: unterhaltung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: unterkunft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: unterricht
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: unterschrift
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: urlaub
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vater
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verein
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verfügung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verkehr
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verkäufer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verkäuferin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vermieter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verständnis
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verwandte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: verwendung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vierte
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: viertel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: volkshochschulverbands
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vollpension
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vormittag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vorname
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vorsicht
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: vorwahl
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wandern
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: waschmaschine
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wasser
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: waystage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: weibliche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wein
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: weiterbildungs-test
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: weißbrot
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: welt
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wertenschlag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: westen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wetter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wiederhören
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wiedersehen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wiilst
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wind
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: winter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wissenschaft
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: woche
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wochenende
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wochentag
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wochentage
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wohnen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wohnung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wohnungswechsel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wort
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wortbildung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wortgruppe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wortgruppenlist
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: währung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: wörterbuch
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zahl
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zeitangabe
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zeitmaße
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zeitung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zentimeter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zertifikat
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zigarette
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zimmer
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zimmerschlüssel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zoll
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zug
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zurzeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zusammenarbeit
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zusammensetzung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zusammenstellung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: zwölfter
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: äpfel
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: ärztin
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: öffnen
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: öl
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
+- lemma: übernachtung
+  category: noun
+  gender: ''
+  notes: ''
+  seen_in_course: false
+  course_examples: ''
+  source: cefr_a1_core
