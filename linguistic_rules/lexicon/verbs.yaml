@@ -10,6 +10,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: abfliegen
   category: verb
   gender: ''
@@ -17,6 +18,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: abgeben
   category: verb
   gender: ''
@@ -24,6 +26,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: abholen
   category: verb
   gender: ''
@@ -31,6 +34,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ableitbaren
   category: verb
   gender: ''
@@ -38,6 +42,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anbieten
   category: verb
   gender: ''
@@ -45,6 +50,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anerkennen
   category: verb
   gender: ''
@@ -52,6 +58,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anfangen
   category: verb
   gender: ''
@@ -59,6 +66,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anführen
   category: verb
   gender: ''
@@ -66,6 +74,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anklicken
   category: verb
   gender: ''
@@ -73,6 +82,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ankommen
   category: verb
   gender: ''
@@ -80,6 +90,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ankreuzen
   category: verb
   gender: ''
@@ -87,6 +98,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anmachen
   category: verb
   gender: ''
@@ -94,6 +106,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anmelden
   category: verb
   gender: ''
@@ -101,6 +114,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anrufen
   category: verb
   gender: ''
@@ -108,6 +122,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: antworten
   category: verb
   gender: ''
@@ -115,6 +130,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: anziehen
   category: verb
   gender: ''
@@ -122,6 +138,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: arbeiten
   category: verb
   gender: ''
@@ -129,6 +146,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: associ
   category: verb
   gender: ''
@@ -136,6 +154,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: aufhören
   category: verb
   gender: ''
@@ -143,6 +162,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: auflisten
   category: verb
   gender: ''
@@ -150,6 +170,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: aufstehen
   category: verb
   gender: ''
@@ -157,6 +178,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ausfüllen
   category: verb
   gender: ''
@@ -164,6 +186,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ausgewählten
   category: verb
   gender: ''
@@ -171,6 +194,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ausmachen
   category: verb
   gender: ''
@@ -178,6 +202,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ausnehmen
   category: verb
   gender: ''
@@ -185,6 +210,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: aussehen
   category: verb
   gender: ''
@@ -192,6 +218,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: aussteigen
   category: verb
   gender: ''
@@ -199,6 +226,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ausziehen
   category: verb
   gender: ''
@@ -206,6 +234,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: baden
   category: verb
   gender: ''
@@ -213,6 +242,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bedeuten
   category: verb
   gender: ''
@@ -220,6 +250,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: befinden
   category: verb
   gender: ''
@@ -227,6 +258,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: begeg
   category: verb
   gender: ''
@@ -234,6 +266,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: begegnen
   category: verb
   gender: ''
@@ -241,6 +274,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: beginnen
   category: verb
   gender: ''
@@ -248,6 +282,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bekommen
   category: verb
   gender: ''
@@ -255,6 +290,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bekommsen
   category: verb
   gender: ''
@@ -262,6 +298,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: benutzen
   category: verb
   gender: ''
@@ -269,6 +306,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: besetzen
   category: verb
   gender: ''
@@ -276,6 +314,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: besichtigen
   category: verb
   gender: ''
@@ -283,6 +322,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bestellen
   category: verb
   gender: ''
@@ -290,6 +330,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: besuchen
   category: verb
   gender: ''
@@ -297,6 +338,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bezahlen
   category: verb
   gender: ''
@@ -304,6 +346,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bezeichnen
   category: verb
   gender: ''
@@ -311,6 +354,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bilden
   category: verb
   gender: ''
@@ -318,6 +362,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bist
   category: verb
   gender: ''
@@ -325,6 +370,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bitten
   category: verb
   gender: ''
@@ -332,6 +378,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bleiben
   category: verb
   gender: ''
@@ -339,6 +386,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: brauchen
   category: verb
   gender: ''
@@ -346,6 +394,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: brauchst
   category: verb
   gender: ''
@@ -353,6 +402,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: bringen
   category: verb
   gender: ''
@@ -360,6 +410,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: buchstabieren
   category: verb
   gender: ''
@@ -367,6 +418,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: danken
   category: verb
   gender: ''
@@ -374,6 +426,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: dauern
   category: verb
   gender: ''
@@ -381,6 +434,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: denken
   category: verb
   gender: ''
@@ -388,6 +442,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: dokumentieren
   category: verb
   gender: ''
@@ -395,6 +450,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: drucken
   category: verb
   gender: ''
@@ -402,6 +458,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: drücken
   category: verb
   gender: ''
@@ -409,6 +466,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: dürfen
   category: verb
   gender: ''
@@ -416,6 +474,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: einkaufen
   category: verb
   gender: ''
@@ -423,6 +482,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: einladen
   category: verb
   gender: ''
@@ -430,6 +490,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: einsteigen
   category: verb
   gender: ''
@@ -437,6 +498,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: empfehlen
   category: verb
   gender: ''
@@ -444,6 +506,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: enden
   category: verb
   gender: ''
@@ -451,6 +514,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: enthalten
   category: verb
   gender: ''
@@ -458,6 +522,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: entschuldigen
   category: verb
   gender: ''
@@ -465,6 +530,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: erbringen
   category: verb
   gender: ''
@@ -472,6 +538,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: erfolgen
   category: verb
   gender: ''
@@ -479,6 +546,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: erfüllen
   category: verb
   gender: ''
@@ -486,6 +554,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ergänzen
   category: verb
   gender: ''
@@ -493,6 +562,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: erklären
   category: verb
   gender: ''
@@ -500,6 +570,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: erlauben
   category: verb
   gender: ''
@@ -507,6 +578,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ermöglichen
   category: verb
   gender: ''
@@ -514,6 +586,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: erschließen
   category: verb
   gender: ''
@@ -521,6 +594,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: erzählen
   category: verb
   gender: ''
@@ -528,6 +602,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: essen
   category: verb
   gender: ''
@@ -535,6 +610,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: fahr
   category: verb
   gender: ''
@@ -542,6 +618,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: fahren
   category: verb
   gender: ''
@@ -549,6 +626,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: stemchange
 - lemma: fallen
   category: verb
   gender: ''
@@ -556,6 +634,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: fangen
   category: verb
   gender: ''
@@ -563,6 +642,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: fehlen
   category: verb
   gender: ''
@@ -570,6 +650,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: feiern
   category: verb
   gender: ''
@@ -577,6 +658,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: finden
   category: verb
   gender: ''
@@ -584,6 +666,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: findest
   category: verb
   gender: ''
@@ -591,6 +674,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: fliegen
   category: verb
   gender: ''
@@ -598,6 +682,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: folgen
   category: verb
   gender: ''
@@ -605,6 +690,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: fragen
   category: verb
   gender: ''
@@ -612,6 +698,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: freuen
   category: verb
   gender: ''
@@ -619,6 +706,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: frühstück
   category: verb
   gender: ''
@@ -626,6 +714,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: frühstücken
   category: verb
   gender: ''
@@ -633,6 +722,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: geben
   category: verb
   gender: ''
@@ -640,6 +730,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gebraucht
   category: verb
   gender: ''
@@ -647,6 +738,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gebären
   category: verb
   gender: ''
@@ -654,6 +746,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gefällen
   category: verb
   gender: ''
@@ -661,6 +754,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gehen
   category: verb
   gender: ''
@@ -668,6 +762,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gehören
   category: verb
   gender: ''
@@ -675,6 +770,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gemeinsam
   category: verb
   gender: ''
@@ -682,6 +778,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gewinnen
   category: verb
   gender: ''
@@ -689,6 +786,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: glauben
   category: verb
   gender: ''
@@ -696,6 +794,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gratulieren
   category: verb
   gender: ''
@@ -703,6 +802,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: grillen
   category: verb
   gender: ''
@@ -710,6 +810,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: gruß
   category: verb
   gender: ''
@@ -717,6 +818,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: habe
   category: verb
   gender: ''
@@ -724,6 +826,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: haben
   category: verb
   gender: ''
@@ -731,6 +834,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: irregular
 - lemma: halten
   category: verb
   gender: ''
@@ -738,6 +842,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: handeln
   category: verb
   gender: ''
@@ -745,6 +850,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: hast
   category: verb
   gender: ''
@@ -752,6 +858,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: heiraten
   category: verb
   gender: ''
@@ -759,6 +866,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: heißen
   category: verb
   gender: ''
@@ -766,6 +874,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: helfen
   category: verb
   gender: ''
@@ -773,6 +882,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: herausgeben
   category: verb
   gender: ''
@@ -780,6 +890,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: holen
   category: verb
   gender: ''
@@ -787,6 +898,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: hörden
   category: verb
   gender: ''
@@ -794,6 +906,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: hören
   category: verb
   gender: ''
@@ -801,6 +914,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: illustrieren
   category: verb
   gender: ''
@@ -808,6 +922,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: intermediary
   category: verb
   gender: ''
@@ -815,6 +930,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kaufen
   category: verb
   gender: ''
@@ -822,6 +938,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kennen
   category: verb
   gender: ''
@@ -829,6 +946,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kennenlernen
   category: verb
   gender: ''
@@ -836,6 +954,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kochen
   category: verb
   gender: ''
@@ -843,6 +962,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kommen
   category: verb
   gender: ''
@@ -850,6 +970,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kommst
   category: verb
   gender: ''
@@ -857,6 +978,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kosten
   category: verb
   gender: ''
@@ -864,6 +986,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kriegen
   category: verb
   gender: ''
@@ -871,6 +994,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: können
   category: verb
   gender: ''
@@ -878,6 +1002,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: könnsten
   category: verb
   gender: ''
@@ -885,6 +1010,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: könnten
   category: verb
   gender: ''
@@ -892,6 +1018,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: kümmern
   category: verb
   gender: ''
@@ -899,6 +1026,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: lachen
   category: verb
   gender: ''
@@ -906,6 +1034,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: lassen
   category: verb
   gender: ''
@@ -913,6 +1042,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: laufen
   category: verb
   gender: ''
@@ -920,6 +1050,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: stemchange
 - lemma: leben
   category: verb
   gender: ''
@@ -927,6 +1058,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: legen
   category: verb
   gender: ''
@@ -934,6 +1066,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: lehren
   category: verb
   gender: ''
@@ -941,6 +1074,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: lernen
   category: verb
   gender: ''
@@ -948,6 +1082,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: lesen
   category: verb
   gender: ''
@@ -955,6 +1090,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: liebe
   category: verb
   gender: ''
@@ -962,6 +1098,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: lieben
   category: verb
   gender: ''
@@ -969,6 +1106,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: liegen
   category: verb
   gender: ''
@@ -976,6 +1114,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: machen
   category: verb
   gender: ''
@@ -983,6 +1122,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: meinen
   category: verb
   gender: ''
@@ -990,6 +1130,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mieten
   category: verb
   gender: ''
@@ -997,6 +1138,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mitbringen
   category: verb
   gender: ''
@@ -1004,6 +1146,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mitkommen
   category: verb
   gender: ''
@@ -1011,6 +1154,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mitmachen
   category: verb
   gender: ''
@@ -1018,6 +1162,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mitnehmen
   category: verb
   gender: ''
@@ -1025,6 +1170,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mitzählen
   category: verb
   gender: ''
@@ -1032,6 +1178,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: muss
   category: verb
   gender: ''
@@ -1039,6 +1186,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mussen
   category: verb
   gender: ''
@@ -1046,6 +1194,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: musst
   category: verb
   gender: ''
@@ -1053,6 +1202,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: möchten
   category: verb
   gender: ''
@@ -1060,6 +1210,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: möchtest
   category: verb
   gender: ''
@@ -1067,6 +1218,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: mögen
   category: verb
   gender: ''
@@ -1074,6 +1226,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: müssen
   category: verb
   gender: ''
@@ -1081,6 +1234,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: nehmen
   category: verb
   gender: ''
@@ -1088,6 +1242,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: nennen
   category: verb
   gender: ''
@@ -1095,6 +1250,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: rauchen
   category: verb
   gender: ''
@@ -1102,6 +1258,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: regnen
   category: verb
   gender: ''
@@ -1109,6 +1266,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: reisen
   category: verb
   gender: ''
@@ -1116,6 +1274,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: reparieren
   category: verb
   gender: ''
@@ -1123,6 +1282,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: revidieren
   category: verb
   gender: ''
@@ -1130,6 +1290,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: riechen
   category: verb
   gender: ''
@@ -1137,6 +1298,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: rufen
   category: verb
   gender: ''
@@ -1144,6 +1306,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: sag
   category: verb
   gender: ''
@@ -1151,6 +1314,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: sagen
   category: verb
   gender: ''
@@ -1158,6 +1322,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: sch
   category: verb
   gender: ''
@@ -1165,6 +1330,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: scheiden
   category: verb
   gender: ''
@@ -1172,6 +1338,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: scheinen
   category: verb
   gender: ''
@@ -1179,6 +1346,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: schen
   category: verb
   gender: ''
@@ -1186,6 +1354,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: schicken
   category: verb
   gender: ''
@@ -1193,6 +1362,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: schlafen
   category: verb
   gender: ''
@@ -1200,6 +1370,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: schließen
   category: verb
   gender: ''
@@ -1207,6 +1378,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: schmecken
   category: verb
   gender: ''
@@ -1214,6 +1386,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: schreiben
   category: verb
   gender: ''
@@ -1221,6 +1394,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: schwimmen
   category: verb
   gender: ''
@@ -1228,6 +1402,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: sehen
   category: verb
   gender: ''
@@ -1235,6 +1410,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: stemchange
 - lemma: sein
   category: verb
   gender: ''
@@ -1242,6 +1418,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: irregular
 - lemma: sitzen
   category: verb
   gender: ''
@@ -1249,6 +1426,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: sollen
   category: verb
   gender: ''
@@ -1256,6 +1434,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: spielen
   category: verb
   gender: ''
@@ -1263,6 +1442,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: spielt
   category: verb
   gender: ''
@@ -1270,6 +1450,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: sprechen
   category: verb
   gender: ''
@@ -1277,6 +1458,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: stemchange
 - lemma: sprichst
   category: verb
   gender: ''
@@ -1284,6 +1466,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: stehen
   category: verb
   gender: ''
@@ -1291,6 +1474,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: steig
   category: verb
   gender: ''
@@ -1298,6 +1482,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: stellen
   category: verb
   gender: ''
@@ -1305,6 +1490,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: sterben
   category: verb
   gender: ''
@@ -1312,6 +1498,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: stimmen
   category: verb
   gender: ''
@@ -1319,6 +1506,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: studieren
   category: verb
   gender: ''
@@ -1326,6 +1514,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: suchen
   category: verb
   gender: ''
@@ -1333,6 +1522,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: suchst
   category: verb
   gender: ''
@@ -1340,6 +1530,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: tanzen
   category: verb
   gender: ''
@@ -1347,6 +1538,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: telefonieren
   category: verb
   gender: ''
@@ -1354,6 +1546,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: treffen
   category: verb
   gender: ''
@@ -1361,6 +1554,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: treiben
   category: verb
   gender: ''
@@ -1368,6 +1562,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: trinken
   category: verb
   gender: ''
@@ -1375,6 +1570,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: tun
   category: verb
   gender: ''
@@ -1382,6 +1578,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: tut
   category: verb
   gender: ''
@@ -1389,6 +1586,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: umziehen
   category: verb
   gender: ''
@@ -1396,6 +1594,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: unterscheiden
   category: verb
   gender: ''
@@ -1403,6 +1602,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: unterschreiben
   category: verb
   gender: ''
@@ -1410,6 +1610,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: unveröffentlicht
   category: verb
   gender: ''
@@ -1417,6 +1618,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: urteilen
   category: verb
   gender: ''
@@ -1424,6 +1626,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: verbieten
   category: verb
   gender: ''
@@ -1431,6 +1634,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: verdienen
   category: verb
   gender: ''
@@ -1438,6 +1642,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: vereinigen
   category: verb
   gender: ''
@@ -1445,6 +1650,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: verheiraten
   category: verb
   gender: ''
@@ -1452,6 +1658,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: verkaufen
   category: verb
   gender: ''
@@ -1459,6 +1666,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: vermieten
   category: verb
   gender: ''
@@ -1466,6 +1674,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: verstehen
   category: verb
   gender: ''
@@ -1473,6 +1682,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: vorstellen
   category: verb
   gender: ''
@@ -1480,6 +1690,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: wandern
   category: verb
   gender: ''
@@ -1487,6 +1698,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: warten
   category: verb
   gender: ''
@@ -1494,6 +1706,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: waschen
   category: verb
   gender: ''
@@ -1501,6 +1714,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: weißt
   category: verb
   gender: ''
@@ -1508,6 +1722,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: werden
   category: verb
   gender: ''
@@ -1515,6 +1730,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: irregular
 - lemma: wiederholen
   category: verb
   gender: ''
@@ -1522,6 +1738,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: wissen
   category: verb
   gender: ''
@@ -1529,6 +1746,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: wohnen
   category: verb
   gender: ''
@@ -1536,6 +1754,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: wollen
   category: verb
   gender: ''
@@ -1543,6 +1762,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: wär
   category: verb
   gender: ''
@@ -1550,6 +1770,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: zahlen
   category: verb
   gender: ''
@@ -1557,6 +1778,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: zeigen
   category: verb
   gender: ''
@@ -1564,6 +1786,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: zieh
   category: verb
   gender: ''
@@ -1571,6 +1794,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: ziehen
   category: verb
   gender: ''
@@ -1578,6 +1802,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: zuordnen
   category: verb
   gender: ''
@@ -1585,6 +1810,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: zusammenstellen
   category: verb
   gender: ''
@@ -1592,6 +1818,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: zweitausendzwei
   category: verb
   gender: ''
@@ -1599,6 +1826,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: öffne
   category: verb
   gender: ''
@@ -1606,6 +1834,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: öffnen
   category: verb
   gender: ''
@@ -1613,6 +1842,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: übernachten
   category: verb
   gender: ''
@@ -1620,6 +1850,7 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
 - lemma: überweisen
   category: verb
   gender: ''
@@ -1627,3 +1858,4 @@ items:
   seen_in_course: false
   course_examples: ''
   source: cefr_a1_core
+  conjugation_class: regular
