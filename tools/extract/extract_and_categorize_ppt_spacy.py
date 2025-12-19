@@ -20,7 +20,6 @@ from __future__ import annotations
 
 import argparse
 import csv
-import os
 import re
 import unicodedata as ud
 from pathlib import Path
@@ -52,9 +51,6 @@ ARTICLES = {
     "einen", "einem", "einer", "eines",
 }
 
-# Often appears in greetings/thanks
-INTERJECTIONS = {"hallo", "hi", "tschüss", "ciao", "danke", "bitte"}
-
 # Auxiliaries / very common forms that spaCy can mis-tag in short examples
 AUX_FORMS = {"bin", "bist", "ist", "sind", "seid", "war", "waren", "wäre", "wären"}
 AUX_LEMMAS = {"sein", "haben", "werden"}
@@ -65,16 +61,13 @@ QUESTION_ADVERBS = {"wo", "woher", "wohin", "wann", "warum", "wie"}
 QUESTION_PRONOUNS = {"wer", "wen", "was"}
 
 # Time/date helpers often used like adverbs / time-words
-TIME_WORDS = {"halb", "viertel"}  # you can expand later
+TIME_WORDS = {"halb", "viertel"}  # expand later if needed
 
 
 # =============================================================================
 # Verb classification (your detailed lists kept intact)
 # =============================================================================
-
-MODAL_VERBS = {
-    "dürfen", "können", "mögen", "müssen", "sollen", "wollen"
-}
+MODAL_VERBS = {"dürfen", "können", "mögen", "müssen", "sollen", "wollen"}
 
 HIGHLY_IRREGULAR_VERBS = {
     "sein", "haben", "werden", "wissen", "tun", "gehen", "stehen", "bringen"
@@ -152,7 +145,6 @@ MIXED_VERBS = {
 # =============================================================================
 # Normalization helpers
 # =============================================================================
-
 WORDISH_RE = re.compile(r"^[A-Za-zÄÖÜäöüß]+(?:-[A-Za-zÄÖÜäöüß]+)*$")
 
 def nfc_lower(s: str) -> str:
@@ -175,11 +167,31 @@ def is_vocab_token(text: str) -> bool:
 
 
 # =============================================================================
+# Classroom meta / slide-instruction tokens to exclude
+# =============================================================================
+# These are not German vocab words; they come from grammar explanation slides.
+META_TOKENS = {
+    "infinitive", "conjugated", "conjugation",
+    "direct", "object",
+    "definite", "indefinite",
+    "modal", "stem", "plural", "singular",
+    "word", "order", "negation",
+    "article", "articles",
+    "pronoun", "preposition",
+    "adjective", "adverb",
+}
+
+def is_meta_token_text(t_norm: str) -> bool:
+    # Keep it simple and ruthless: if it’s one of these, it’s not vocab.
+    return t_norm in META_TOKENS
+
+
+# =============================================================================
 # Verb helpers
 # =============================================================================
-
 def get_base_verb(lemma: str) -> Tuple[str, Optional[str], Optional[bool]]:
     """Return (base_verb, prefix, is_separable) if a prefix is detected."""
+    lemma = nfc_lower(lemma)
     for prefix in SEPARABLE_PREFIXES:
         if lemma.startswith(prefix) and len(lemma) > len(prefix) + 2:
             return lemma[len(prefix):], prefix, True
@@ -218,13 +230,9 @@ def classify_verb(lemma: str) -> str:
 # =============================================================================
 # Category mapping: spaCy -> repo buckets
 # =============================================================================
-# Your repo currently expects: noun, verb, adjective, time_numbers, unknown, etc.
-# We’ll emit a richer internal label, then map to repo categories at the end.
-
 def get_internal_category(token) -> str:
     """
-    Internal categories (fine-grained).
-    Then we map them down to repo categories for items.csv.
+    Internal categories (fine-grained) then mapped down to repo categories.
     """
     t = nfc_lower(token.text)
     lem = nfc_lower(token.lemma_)
@@ -277,37 +285,30 @@ def get_internal_category(token) -> str:
     return "other"
 
 
-def map_internal_to_repo_category(internal_cat: str, norm_text: str) -> str:
+def map_internal_to_repo_category(internal_cat: str) -> str:
     """
-    Map internal categories to *repo* categories.
-    Keep it simple so your existing rebuild script can bucket cleanly.
-
-    Current repo buckets observed:
+    Map internal categories to repo categories.
+    Repo buckets observed/expected:
       noun, verb, adjective, time_numbers, unknown
     """
     ic = internal_cat
 
-    # noun phrases are still nouns for vocab purposes
     if ic in {"noun", "proper_noun"}:
-        return "noun"
-
-    if ic == "noun_with_article":
         return "noun"
 
     if ic == "adjective":
         return "adjective"
 
-    if ic in {"adverb", "preposition", "particle", "pronoun", "conjunction", "subordinating_conjunction", "interjection"}:
-        # If you want these in the repo lexicon later, add buckets.
-        # For now: keep them as unknown so they don’t pollute noun/verb counts.
-        return "unknown"
-
     if ic == "time_word" or ic == "numeral":
         return "time_numbers"
 
-    if ic == "article" or ic == "determiner_negation":
-        # Your current pipeline doesn’t have a determiner/article bucket;
-        # safest is unknown unless you decide to support determiners as their own lexicon file.
+    # determiners/articles/particles/pronouns/etc → unknown (unless you add buckets later)
+    if ic in {
+        "article", "determiner_negation",
+        "adverb", "preposition", "particle", "pronoun",
+        "conjunction", "subordinating_conjunction",
+        "interjection", "other",
+    }:
         return "unknown"
 
     # Any verb classification string contains "verb"
@@ -320,13 +321,12 @@ def map_internal_to_repo_category(internal_cat: str, norm_text: str) -> str:
 # =============================================================================
 # PPTX extraction
 # =============================================================================
-
 def iter_slide_texts(pptx_path: Path) -> List[Tuple[int, str]]:
     prs = Presentation(str(pptx_path))
     out: List[Tuple[int, str]] = []
 
     for slide_num, slide in enumerate(prs.slides, 1):
-        chunks = []
+        chunks: List[str] = []
         for shape in slide.shapes:
             if hasattr(shape, "text") and shape.text:
                 chunks.append(shape.text)
@@ -361,20 +361,30 @@ def extract_vocab_rows(nlp, pptx_path: Path) -> List[dict]:
                 continue
 
             t_norm = nfc_lower(raw)
-            lem_norm = nfc_lower(tok.lemma_)
+            if is_meta_token_text(t_norm):
+                # This is the main fix for your grep “infinitive” pollution.
+                prev_token = None
+                prev_internal = None
+                continue
 
+            lem_norm = nfc_lower(tok.lemma_)
             internal_cat = get_internal_category(tok)
 
             # Decide what we store as norm_text:
             # - verbs: store infinitive lemma
             # - others: store normalized token text
-            if "verb" in internal_cat:
-                store_text = lem_norm
-            else:
-                store_text = t_norm
+            is_verbish = "verb" in internal_cat
+            store_text = lem_norm if is_verbish else t_norm
+
+            # Also protect against meta tokens showing up as lemmas
+            if is_meta_token_text(store_text):
+                prev_token = None
+                prev_internal = None
+                continue
+
+            repo_cat = map_internal_to_repo_category(internal_cat)
 
             # Emit token itself
-            repo_cat = map_internal_to_repo_category(internal_cat, store_text)
             rows.append({
                 "ppt_file": ppt_name,
                 "slide_number": slide_num,
@@ -382,19 +392,18 @@ def extract_vocab_rows(nlp, pptx_path: Path) -> List[dict]:
                 "category": repo_cat,
             })
 
-            # Emit article+noun combo (three entries total: article alone, noun alone, combo)
-            # This is what you asked for (helps students learn gender/article).
-            # Only do this when we see DET/article followed immediately by NOUN/proper noun.
+            # Emit article+noun combo (extra vocab entry)
+            # Only when we see article/determiner_negation followed immediately by noun/proper noun.
             if prev_token is not None and prev_internal in {"article", "determiner_negation"}:
-                # spaCy might call nouns PROPN; we treat both as noun
                 if internal_cat in {"noun", "proper_noun"}:
                     combo = f"{nfc_lower(prev_token.text)} {t_norm}"
-                    rows.append({
-                        "ppt_file": ppt_name,
-                        "slide_number": slide_num,
-                        "norm_text": combo,
-                        "category": "noun",  # store as noun vocab item
-                    })
+                    if not is_meta_token_text(combo):
+                        rows.append({
+                            "ppt_file": ppt_name,
+                            "slide_number": slide_num,
+                            "norm_text": combo,
+                            "category": "noun",
+                        })
 
             prev_token = tok
             prev_internal = internal_cat
@@ -415,7 +424,6 @@ def write_items_csv(rows: List[dict], out_csv: Path) -> None:
 # =============================================================================
 # CLI
 # =============================================================================
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--pptx", required=True, help="Path to master PPTX file (all slides merged).")

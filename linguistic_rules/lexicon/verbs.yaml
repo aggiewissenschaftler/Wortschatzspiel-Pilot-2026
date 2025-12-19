@@ -1,1861 +1,1729 @@
+
 schema: lexical_schema_v1
 language: de
 cefr_level: A1
 source: cefr_a1_core
+last_updated: '2025-12-19'
 items:
-- lemma: abfahren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: abfliegen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: abgeben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: abholen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ableitbaren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anbieten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anerkennen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anfangen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anführen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anklicken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ankommen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ankreuzen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anmachen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anmelden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anrufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: antworten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: anziehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: arbeiten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: associ
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: aufhören
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: auflisten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: aufstehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ausfüllen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ausgewählten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ausmachen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ausnehmen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: aussehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: aussteigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ausziehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: baden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bedeuten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: befinden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: begeg
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: begegnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: beginnen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bekommen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bekommsen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: benutzen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: besetzen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: besichtigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bestellen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: besuchen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bezahlen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bezeichnen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0001
+  type: verb
+  de: abfahren
+  en: to depart, leave
+  lemma: abfahren
+  conjugation_class: stem_change_a_ae
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bilden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bist
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bitten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bleiben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: brauchen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: brauchst
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: bringen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: buchstabieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: danken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: dauern
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: denken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: dokumentieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: drucken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: drücken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: dürfen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: einkaufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: einladen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: einsteigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: empfehlen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: enden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: enthalten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: entschuldigen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: erbringen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: erfolgen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: erfüllen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0002
+  type: verb
+  de: abfliegen
+  en: to take off (plane)
+  lemma: abfliegen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ergänzen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: erklären
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0003
+  type: verb
+  de: abgeben
+  en: to hand in, submit
+  lemma: abgeben
+  conjugation_class: stem_change_e_i
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: erlauben
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0004
+  type: verb
+  de: abholen
+  en: to pick up, collect
+  lemma: abholen
   conjugation_class: regular
-- lemma: ermöglichen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: erschließen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: erzählen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0005
+  type: verb
+  de: anbieten
+  en: to offer
+  lemma: anbieten
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: essen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0006
+  type: verb
+  de: anerkennen
+  en: to recognize, acknowledge
+  lemma: anerkennen
   conjugation_class: regular
-- lemma: fahr
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: fahren
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: stemchange
-- lemma: fallen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0007
+  type: verb
+  de: anfangen
+  en: to begin, start
+  lemma: anfangen
+  conjugation_class: stem_change_a_ae
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: fangen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0008
+  type: verb
+  de: anführen
+  en: to lead, cite
+  lemma: anführen
   conjugation_class: regular
-- lemma: fehlen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: feiern
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0009
+  type: verb
+  de: anklicken
+  en: to click on
+  lemma: anklicken
   conjugation_class: regular
-- lemma: finden
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: findest
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: fliegen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0010
+  type: verb
+  de: ankommen
+  en: to arrive
+  lemma: ankommen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: folgen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0011
+  type: verb
+  de: ankreuzen
+  en: to mark with a cross
+  lemma: ankreuzen
   conjugation_class: regular
-- lemma: fragen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: freuen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0012
+  type: verb
+  de: anmachen
+  en: to turn on
+  lemma: anmachen
   conjugation_class: regular
-- lemma: frühstück
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: frühstücken
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0013
+  type: verb
+  de: anmelden
+  en: to register, sign up
+  lemma: anmelden
   conjugation_class: regular
-- lemma: geben
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gebraucht
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gebären
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0014
+  type: verb
+  de: anrufen
+  en: to call (phone)
+  lemma: anrufen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gefällen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0015
+  type: verb
+  de: antworten
+  en: to answer
+  lemma: antworten
   conjugation_class: regular
-- lemma: gehen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gehören
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gemeinsam
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0016
+  type: verb
+  de: anziehen
+  en: to put on (clothes), attract
+  lemma: anziehen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gewinnen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0017
+  type: verb
+  de: arbeiten
+  en: to work
+  lemma: arbeiten
   conjugation_class: regular
-- lemma: glauben
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gratulieren
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0018
+  type: verb
+  de: aufhören
+  en: to stop, cease
+  lemma: aufhören
   conjugation_class: regular
-- lemma: grillen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: gruß
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0019
+  type: verb
+  de: auflisten
+  en: to list
+  lemma: auflisten
   conjugation_class: regular
-- lemma: habe
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: haben
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0020
+  type: verb
+  de: aufstehen
+  en: to get up, stand up
+  lemma: aufstehen
   conjugation_class: irregular
-- lemma: halten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: handeln
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: hast
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: heiraten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: heißen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: helfen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: herausgeben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: holen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: hörden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: hören
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: illustrieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: intermediary
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kaufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kennen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kennenlernen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kochen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kommen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kommst
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kosten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kriegen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: können
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: könnsten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: könnten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: kümmern
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: lachen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: lassen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0021
+  type: verb
+  de: ausfüllen
+  en: to fill out
+  lemma: ausfüllen
   conjugation_class: regular
-- lemma: laufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: stemchange
-- lemma: leben
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: legen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0022
+  type: verb
+  de: ausmachen
+  en: to turn off, matter
+  lemma: ausmachen
   conjugation_class: regular
-- lemma: lehren
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: lernen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: lesen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0023
+  type: verb
+  de: ausnehmen
+  en: to exclude, gut (fish)
+  lemma: ausnehmen
+  conjugation_class: stem_change_e_i
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: liebe
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: lieben
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0024
+  type: verb
+  de: aussehen
+  en: to look, appear
+  lemma: aussehen
+  conjugation_class: stem_change_e_ie
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: liegen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: machen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0025
+  type: verb
+  de: aussteigen
+  en: to get off, exit
+  lemma: aussteigen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: meinen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: mieten
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0026
+  type: verb
+  de: ausziehen
+  en: to take off (clothes), move out
+  lemma: ausziehen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: mitbringen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0027
+  type: verb
+  de: baden
+  en: to bathe, swim
+  lemma: baden
   conjugation_class: regular
-- lemma: mitkommen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: mitmachen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0028
+  type: verb
+  de: bedeuten
+  en: to mean, signify
+  lemma: bedeuten
   conjugation_class: regular
-- lemma: mitnehmen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: mitzählen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0029
+  type: verb
+  de: befinden
+  en: to be located, feel
+  lemma: befinden
   conjugation_class: regular
-- lemma: muss
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: mussen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0030
+  type: verb
+  de: begegnen
+  en: to meet, encounter
+  lemma: begegnen
   conjugation_class: regular
-- lemma: musst
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: möchten
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: möchtest
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0031
+  type: verb
+  de: beginnen
+  en: to begin
+  lemma: beginnen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: mögen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: müssen
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0032
+  type: verb
+  de: bekommen
+  en: to receive, get
+  lemma: bekommen
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: nehmen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0033
+  type: verb
+  de: benutzen
+  en: to use
+  lemma: benutzen
   conjugation_class: regular
-- lemma: nennen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: rauchen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0034
+  type: verb
+  de: besetzen
+  en: to occupy
+  lemma: besetzen
   conjugation_class: regular
-- lemma: regnen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: reisen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0035
+  type: verb
+  de: besichtigen
+  en: to visit, tour
+  lemma: besichtigen
   conjugation_class: regular
-- lemma: reparieren
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: revidieren
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0036
+  type: verb
+  de: bestellen
+  en: to order
+  lemma: bestellen
   conjugation_class: regular
-- lemma: riechen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: rufen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0037
+  type: verb
+  de: besuchen
+  en: to visit
+  lemma: besuchen
   conjugation_class: regular
-- lemma: sag
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: sagen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0038
+  type: verb
+  de: bezahlen
+  en: to pay
+  lemma: bezahlen
   conjugation_class: regular
-- lemma: sch
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: scheiden
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0039
+  type: verb
+  de: bezeichnen
+  en: to designate, call
+  lemma: bezeichnen
   conjugation_class: regular
-- lemma: scheinen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: schen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0040
+  type: verb
+  de: bilden
+  en: to form, educate
+  lemma: bilden
   conjugation_class: regular
-- lemma: schicken
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: schlafen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0041
+  type: verb
+  de: bitten
+  en: to ask, request
+  lemma: bitten
   conjugation_class: regular
-- lemma: schließen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: schmecken
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: schreiben
-  category: verb
-  gender: ''
-  notes: ''
+- item_id: A1-V-0042
+  type: verb
+  de: bleiben
+  en: to stay, remain
+  lemma: bleiben
+  conjugation_class: strong
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: schwimmen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0043
+  type: verb
+  de: brauchen
+  en: to need
+  lemma: brauchen
   conjugation_class: regular
-- lemma: sehen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: stemchange
-- lemma: sein
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0044
+  type: verb
+  de: bringen
+  en: to bring
+  lemma: bringen
   conjugation_class: irregular
-- lemma: sitzen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
+- item_id: A1-V-0045
+  type: verb
+  de: buchstabieren
+  en: to spell
+  lemma: buchstabieren
   conjugation_class: regular
-- lemma: sollen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
+- item_id: A1-V-0046
+  type: verb
+  de: danken
+  en: to thank
+  lemma: danken
   conjugation_class: regular
-- lemma: spielen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
+- item_id: A1-V-0047
+  type: verb
+  de: dauern
+  en: to last, take (time)
+  lemma: dauern
   conjugation_class: regular
-- lemma: spielt
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: sprechen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: stemchange
-- lemma: sprichst
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: stehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: steig
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: stellen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: sterben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: stimmen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: studieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: suchen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: suchst
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: tanzen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: telefonieren
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: treffen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: treiben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: trinken
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: tun
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: tut
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: umziehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: unterscheiden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: unterschreiben
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: unveröffentlicht
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: urteilen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: verbieten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: verdienen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: vereinigen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: verheiraten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: verkaufen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: vermieten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: verstehen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: vorstellen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: wandern
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: warten
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: waschen
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: weißt
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: werden
-  category: verb
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
+- item_id: A1-V-0048
+  type: verb
+  de: denken
+  en: to think
+  lemma: denken
   conjugation_class: irregular
-- lemma: wiederholen
-  category: verb
-  gender: ''
-  notes: ''
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-  conjugation_class: regular
-- lemma: wissen
-  category: verb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0049
+  type: verb
+  de: dokumentieren
+  en: to document
+  lemma: dokumentieren
   conjugation_class: regular
-- lemma: wohnen
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0050
+  type: verb
+  de: drucken
+  en: to print
+  lemma: drucken
   conjugation_class: regular
-- lemma: wollen
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0051
+  type: verb
+  de: drücken
+  en: to press, push
+  lemma: drücken
   conjugation_class: regular
-- lemma: wär
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: zahlen
-  category: verb
-  gender: ''
+- item_id: A1-V-0052
+  type: verb
+  de: dürfen
+  en: to be allowed to, may
+  lemma: dürfen
+  conjugation_class: modal
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0053
+  type: verb
+  de: einkaufen
+  en: to shop
+  lemma: einkaufen
   conjugation_class: regular
-- lemma: zeigen
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: zieh
-  category: verb
-  gender: ''
+- item_id: A1-V-0054
+  type: verb
+  de: einladen
+  en: to invite
+  lemma: einladen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: ziehen
-  category: verb
-  gender: ''
+- item_id: A1-V-0055
+  type: verb
+  de: einsteigen
+  en: to get in, board
+  lemma: einsteigen
+  conjugation_class: strong
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-  conjugation_class: regular
-- lemma: zuordnen
-  category: verb
-  gender: ''
+- item_id: A1-V-0056
+  type: verb
+  de: empfehlen
+  en: to recommend
+  lemma: empfehlen
+  conjugation_class: stem_change_e_ie
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0057
+  type: verb
+  de: enden
+  en: to end
+  lemma: enden
   conjugation_class: regular
-- lemma: zusammenstellen
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0058
+  type: verb
+  de: enthalten
+  en: to contain
+  lemma: enthalten
   conjugation_class: regular
-- lemma: zweitausendzwei
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0059
+  type: verb
+  de: entschuldigen
+  en: to excuse, apologize
+  lemma: entschuldigen
   conjugation_class: regular
-- lemma: öffne
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0060
+  type: verb
+  de: erbringen
+  en: to produce, provide
+  lemma: erbringen
   conjugation_class: regular
-- lemma: öffnen
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0061
+  type: verb
+  de: erfolgen
+  en: to occur, take place
+  lemma: erfolgen
   conjugation_class: regular
-- lemma: übernachten
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0062
+  type: verb
+  de: erfüllen
+  en: to fulfill
+  lemma: erfüllen
   conjugation_class: regular
-- lemma: überweisen
-  category: verb
-  gender: ''
+  seen_in_course: false
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
+- item_id: A1-V-0063
+  type: verb
+  de: ergänzen
+  en: to complete, supplement
+  lemma: ergänzen
   conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0064
+  type: verb
+  de: erklären
+  en: to explain
+  lemma: erklären
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0065
+  type: verb
+  de: erlauben
+  en: to allow, permit
+  lemma: erlauben
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0066
+  type: verb
+  de: ermöglichen
+  en: to enable, make possible
+  lemma: ermöglichen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0067
+  type: verb
+  de: erschließen
+  en: to open up, develop
+  lemma: erschließen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0068
+  type: verb
+  de: erzählen
+  en: to tell, narrate
+  lemma: erzählen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0069
+  type: verb
+  de: essen
+  en: to eat
+  lemma: essen
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0070
+  type: verb
+  de: fahren
+  en: to drive, go (by vehicle)
+  lemma: fahren
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0071
+  type: verb
+  de: fallen
+  en: to fall
+  lemma: fallen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0072
+  type: verb
+  de: fangen
+  en: to catch
+  lemma: fangen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0073
+  type: verb
+  de: fehlen
+  en: to be missing, lack
+  lemma: fehlen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0074
+  type: verb
+  de: feiern
+  en: to celebrate
+  lemma: feiern
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0075
+  type: verb
+  de: finden
+  en: to find
+  lemma: finden
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0076
+  type: verb
+  de: fliegen
+  en: to fly
+  lemma: fliegen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0077
+  type: verb
+  de: folgen
+  en: to follow
+  lemma: folgen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0078
+  type: verb
+  de: fragen
+  en: to ask
+  lemma: fragen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0079
+  type: verb
+  de: freuen
+  en: to be happy, please
+  lemma: freuen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0080
+  type: verb
+  de: frühstücken
+  en: to have breakfast
+  lemma: frühstücken
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0081
+  type: verb
+  de: geben
+  en: to give
+  lemma: geben
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0082
+  type: verb
+  de: gefallen
+  en: to please, like
+  lemma: gefallen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0083
+  type: verb
+  de: gehen
+  en: to go, walk
+  lemma: gehen
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0084
+  type: verb
+  de: gehören
+  en: to belong
+  lemma: gehören
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0085
+  type: verb
+  de: gewinnen
+  en: to win
+  lemma: gewinnen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0086
+  type: verb
+  de: glauben
+  en: to believe
+  lemma: glauben
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0087
+  type: verb
+  de: gratulieren
+  en: to congratulate
+  lemma: gratulieren
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0088
+  type: verb
+  de: grillen
+  en: to grill/barbeque
+  lemma: grillen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0089
+  type: verb
+  de: haben
+  en: to have
+  lemma: haben
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0090
+  type: verb
+  de: halten
+  en: to hold, stop
+  lemma: halten
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0091
+  type: verb
+  de: handeln
+  en: to take action/act
+  lemma: handeln
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0092
+  type: verb
+  de: heiraten
+  en: to marry
+  lemma: heiraten
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0093
+  type: verb
+  de: heißen
+  en: to be called
+  lemma: heißen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0094
+  type: verb
+  de: helfen
+  en: to help
+  lemma: helfen
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0095
+  type: verb
+  de: herausgeben
+  en: to publish/to issue
+  lemma: herausgeben
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0096
+  type: verb
+  de: holen
+  en: to get / to fetch / to pick up
+  lemma: holen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0097
+  type: verb
+  de: hören
+  en: to hear
+  lemma: hören
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0098
+  type: verb
+  de: illustrieren
+  en: to illustrate
+  lemma: illustrieren
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0099
+  type: verb
+  de: kaufen
+  en: to buy
+  lemma: kaufen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0100
+  type: verb
+  de: kennen
+  en: to know (person/thing)
+  lemma: kennen
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0101
+  type: verb
+  de: kennenlernen
+  en: to get acquainted
+  lemma: kennenlernen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0102
+  type: verb
+  de: kochen
+  en: to cook
+  lemma: kochen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: 'specifically to boil'
+  source: cefr_a1_core
+- item_id: A1-V-0103
+  type: verb
+  de: kommen
+  en: to come
+  lemma: kommen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0104
+  type: verb
+  de: kosten
+  en: to cost
+  lemma: kosten
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0105
+  type: verb
+  de: kriegen
+  en: to get, receive
+  lemma: kriegen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0106
+  type: verb
+  de: können
+  en: to be able to, can
+  lemma: können
+  conjugation_class: modal
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0107
+  type: verb
+  de: kümmern
+  en: to take care of
+  lemma: kümmern
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0108
+  type: verb
+  de: lachen
+  en: to laugh
+  lemma: lachen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0109
+  type: verb
+  de: lassen
+  en: to let, leave
+  lemma: lassen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0110
+  type: verb
+  de: laufen
+  en: to run, walk
+  lemma: laufen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0111
+  type: verb
+  de: leben
+  en: to live
+  lemma: leben
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0112
+  type: verb
+  de: legen
+  en: to lay, put
+  lemma: legen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0113
+  type: verb
+  de: lehren
+  en: to teach
+  lemma: lehren
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0114
+  type: verb
+  de: lernen
+  en: to learn
+  lemma: lernen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0115
+  type: verb
+  de: lesen
+  en: to read
+  lemma: lesen
+  conjugation_class: stem_change_e_ie
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0116
+  type: verb
+  de: lieben
+  en: to love
+  lemma: lieben
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0117
+  type: verb
+  de: liegen
+  en: to lie, be located
+  lemma: liegen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0118
+  type: verb
+  de: machen
+  en: to make, do
+  lemma: machen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0119
+  type: verb
+  de: meinen
+  en: to mean, think
+  lemma: meinen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0120
+  type: verb
+  de: mieten
+  en: to rent
+  lemma: mieten
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0121
+  type: verb
+  de: mitbringen
+  en: to bring with
+  lemma: mitbringen
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0122
+  type: verb
+  de: mitkommen
+  en: to come with
+  lemma: mitkommen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0123
+  type: verb
+  de: mitmachen
+  en: to participate in
+  lemma: mitmachen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0124
+  type: verb
+  de: mitnehmen
+  en: to take with you
+  lemma: mitnehmen
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0125
+  type: verb
+  de: mitzählen
+  en: to include (in count)
+  lemma: mitzählen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0126
+  type: verb
+  de: mögen
+  en: to like
+  lemma: mögen
+  conjugation_class: modal
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0127
+  type: verb
+  de: müssen
+  en: to must, have to
+  lemma: müssen
+  conjugation_class: modal
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0128
+  type: verb
+  de: nehmen
+  en: to take
+  lemma: nehmen
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0129
+  type: verb
+  de: nennen
+  en: to name, call
+  lemma: nennen
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0130
+  type: verb
+  de: rauchen
+  en: to smoke
+  lemma: rauchen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0131
+  type: verb
+  de: regnen
+  en: to rain
+  lemma: regnen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0132
+  type: verb
+  de: reisen
+  en: to travel
+  lemma: reisen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0133
+  type: verb
+  de: reparieren
+  en: to repair
+  lemma: reparieren
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0134
+  type: verb
+  de: revidieren
+  en: to revise, to audit
+  lemma: revidieren
+  conjugation_class: regular
+  seen_in_course: false
+  notes: to review and correct
+  source: cefr_a1_core
+- item_id: A1-V-0135
+  type: verb
+  de: riechen
+  en: to smell
+  lemma: riechen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0136
+  type: verb
+  de: rufen
+  en: to call, shout
+  lemma: rufen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0137
+  type: verb
+  de: sagen
+  en: to say
+  lemma: sagen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0138
+  type: verb
+  de: scheiden
+  en: to divorce, separate
+  lemma: scheiden
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0139
+  type: verb
+  de: scheinen
+  en: to shine
+  lemma: scheinen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: common alternate is 'to seem, appear'
+  source: cefr_a1_core
+- item_id: A1-V-0140
+  type: verb
+  de: schicken
+  en: to send
+  lemma: schicken
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0141
+  type: verb
+  de: schlafen
+  en: to sleep
+  lemma: schlafen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0142
+  type: verb
+  de: schließen
+  en: to close
+  lemma: schließen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0143
+  type: verb
+  de: schmecken
+  en: to taste
+  lemma: schmecken
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0144
+  type: verb
+  de: schreiben
+  en: to write
+  lemma: schreiben
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0145
+  type: verb
+  de: schwimmen
+  en: to swim
+  lemma: schwimmen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0146
+  type: verb
+  de: sehen
+  en: to see
+  lemma: sehen
+  conjugation_class: stem_change_e_ie
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0147
+  type: verb
+  de: sein
+  en: to be
+  lemma: sein
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0148
+  type: verb
+  de: sitzen
+  en: to sit
+  lemma: sitzen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0149
+  type: verb
+  de: sollen
+  en: should, ought to
+  lemma: sollen
+  conjugation_class: modal
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0150
+  type: verb
+  de: spielen
+  en: to play
+  lemma: spielen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0151
+  type: verb
+  de: sprechen
+  en: to speak
+  lemma: sprechen
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0152
+  type: verb
+  de: stehen
+  en: to stand
+  lemma: stehen
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0153
+  type: verb
+  de: stellen
+  en: to put, place
+  lemma: stellen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0154
+  type: verb
+  de: sterben
+  en: to die
+  lemma: sterben
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0155
+  type: verb
+  de: stimmen
+  en: to be correct, vote
+  lemma: stimmen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0156
+  type: verb
+  de: studieren
+  en: to study (at university)
+  lemma: studieren
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0157
+  type: verb
+  de: suchen
+  en: to search, look for
+  lemma: suchen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0158
+  type: verb
+  de: tanzen
+  en: to dance
+  lemma: tanzen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0159
+  type: verb
+  de: telefonieren
+  en: to make a phone call
+  lemma: telefonieren
+  conjugation_class: regular
+  seen_in_course: false
+  notes: anrufen is to initiate the call
+  source: cefr_a1_core
+- item_id: A1-V-0160
+  type: verb
+  de: treffen
+  en: to meet
+  lemma: treffen
+  conjugation_class: stem_change_e_i
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0161
+  type: verb
+  de: treiben
+  en: to do (sports), drive
+  lemma: treiben
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0162
+  type: verb
+  de: trinken
+  en: to drink
+  lemma: trinken
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0163
+  type: verb
+  de: tun
+  en: to do
+  lemma: tun
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0164
+  type: verb
+  de: umziehen
+  en: to move (change residence)
+  lemma: umziehen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0165
+  type: verb
+  de: unterscheiden
+  en: to distinguish, differentiate
+  lemma: unterscheiden
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0166
+  type: verb
+  de: unterschreiben
+  en: to sign (a contract)
+  lemma: unterschreiben
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0167
+  type: verb
+  de: urteilen
+  en: to judge, pass judgement
+  lemma: urteilen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0168
+  type: verb
+  de: verbieten
+  en: to forbid, prohibit
+  lemma: verbieten
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0169
+  type: verb
+  de: verdienen
+  en: to earn, deserve
+  lemma: verdienen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0170
+  type: verb
+  de: vereinigen
+  en: to unite, bring together
+  lemma: vereinigen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0171
+  type: verb
+  de: verheiraten
+  en: to marry someone (arrange marriage)
+  lemma: verheiraten
+  conjugation_class: regular
+  seen_in_course: false
+  notes: caused by others (cultural, legal, historical context)
+  source: cefr_a1_core
+- item_id: A1-V-0172
+  type: verb
+  de: verkaufen
+  en: to sell
+  lemma: verkaufen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0173
+  type: verb
+  de: vermieten
+  en: to rent out, lease out
+  lemma: vermieten
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0174
+  type: verb
+  de: verstehen
+  en: to understand
+  lemma: verstehen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0175
+  type: verb
+  de: vorstellen
+  en: introduce (a person)
+  lemma: vorstellen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: can also mean 'to imagine'
+  source: cefr_a1_core
+- item_id: A1-V-0176
+  type: verb
+  de: wandern
+  en: to hike
+  lemma: wandern
+  conjugation_class: regular
+  seen_in_course: false
+  notes: implies long distance walk
+  source: cefr_a1_core
+- item_id: A1-V-0177
+  type: verb
+  de: warten
+  en: to wait
+  lemma: warten
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0178
+  type: verb
+  de: waschen
+  en: to wash
+  lemma: waschen
+  conjugation_class: stem_change_a_ae
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0179
+  type: verb
+  de: werden
+  en: to become
+  lemma: werden
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0180
+  type: verb
+  de: wiederholen
+  en: to repeat
+  lemma: wiederholen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0181
+  type: verb
+  de: wissen
+  en: to know (fact)
+  lemma: wissen
+  conjugation_class: irregular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0182
+  type: verb
+  de: wohnen
+  en: to live, reside
+  lemma: wohnen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0183
+  type: verb
+  de: wollen
+  en: to want
+  lemma: wollen
+  conjugation_class: modal
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0184
+  type: verb
+  de: zahlen
+  en: to pay
+  lemma: zahlen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0185
+  type: verb
+  de: zeigen
+  en: to show
+  lemma: zeigen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0186
+  type: verb
+  de: ziehen
+  en: to pull, move
+  lemma: ziehen
+  conjugation_class: strong
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0187
+  type: verb
+  de: zuordnen
+  en: to assign, allocate, attribut
+  lemma: zuordnen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0188
+  type: verb
+  de: zusammenstellen
+  en: to compile, assemble
+  lemma: zusammenstellen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0189
+  type: verb
+  de: öffnen
+  en: to open
+  lemma: öffnen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0190
+  type: verb
+  de: übernachten
+  en: to stay overnight
+  lemma: übernachten
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+- item_id: A1-V-0191
+  type: verb
+  de: überweisen
+  en: to transfer (money)
+  lemma: überweisen
+  conjugation_class: regular
+  seen_in_course: false
+  notes: ''
+  source: cefr_a1_core
+
+
+

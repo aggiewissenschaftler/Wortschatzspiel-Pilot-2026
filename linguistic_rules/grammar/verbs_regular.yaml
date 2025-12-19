@@ -7,6 +7,7 @@ source_ppt:
 
 description: >
   Regular present tense verb conjugation patterns in German (CEFR A1).
+  This module defines conjugation rules only; verb inventories live in the lexicon.
 
 tense: "present"
 
@@ -23,7 +24,7 @@ spelling_rules:
     description: >
       Verbs ending in -t or -d insert -e before du/er endings.
     example:
-      lemma: "arbeiten"
+      infinitive: "arbeiten"
       du: "arbeitest"
       er_sie_es: "arbeitet"
 
@@ -31,21 +32,18 @@ spelling_rules:
     description: >
       Verbs ending in -s, -ß, or -z drop the 's' in du-form.
     example:
-      lemma: "tanzen"
+      infinitive: "tanzen"
       du: "tanzt"
 
-examples:
-  note: "Verb inventory lives in linguistic_rules/lexicon/verbs.yaml. This file defines patterns only."
-  sample_lemmas:
-    - "machen"
-    - "lernen"
-    - "arbeiten"
+notes:
+  inventory: > 
+    Verb inventory lives in linguistic_rules/lexicon/verbs.yaml.
+    This file defines conjugation patterns only.
 
 common_errors:
-  - error: "du machst"
-    note: "correct baseline example"
   - error: "du arbeitst"
     correction: "du arbeitest"
+    note: "verbs ending in -t/-d insert -e before -st/-t endings"
 
 pedagogical_notes:
   - Regular verbs establish baseline conjugation patterns.
@@ -54,3 +52,4 @@ pedagogical_notes:
 computational_notes:
   - Regular verbs can be generated algorithmically.
   - Serves as default conjugation model.
+
