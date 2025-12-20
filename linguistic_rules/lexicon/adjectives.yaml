@@ -2,354 +2,397 @@ schema: lexical_schema_v1
 language: de
 cefr_level: A1
 source: cefr_a1_core
+last_updated: '2025-12-19'
 items:
-- lemma: alt
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0001
+  type: adjective
+  de: alt
+  en: old
+  lemma: alt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: aufgeführt
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0002
+  type: adjective
+  de: aufgeführt
+  en: performed
+  lemma: aufgeführt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: ausländisch
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0003
+  type: adjective
+  de: ausländisch
+  en: foreign
+  lemma: ausländisch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: beruflich
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0004
+  type: adjective
+  de: beruflich
+  en: occupational
+  lemma: beruflich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: beschrieben
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0005
+  type: adjective
+  de: beschrieben
+  en: described
+  lemma: beschrieben
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: blau
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0006
+  type: adjective
+  de: blau
+  en: blue
+  lemma: blau
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: dritter
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0007
+  type: adjective
+  de: dritter
+  en: third
+  lemma: dritter
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: eigen
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0008
+  type: adjective
+  de: eigen
+  en: own (dedicated)
+  lemma: eigen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: einfach
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0009
+  type: adjective
+  de: einfach
+  en: simple
+  lemma: einfach
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: eingerückt
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0010
+  type: adjective
+  de: eingerückt
+  en: indented, meshed
+  lemma: eingerückt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: elementar
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0011
+  type: adjective
+  de: elementar
+  en: elementary
+  lemma: elementar
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: erster
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0012
+  type: adjective
+  de: erster
+  en: first, best
+  lemma: erster
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: europäisch
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0013
+  type: adjective
+  de: europäisch
+  en: european
+  lemma: europäisch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: folgend
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0014
+  type: adjective
+  de: folgend
+  en: following
+  lemma: folgend
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: freundlich
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0015
+  type: adjective
+  de: freundlich
+  en: friendly
+  lemma: freundlich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: geehrt
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0016
+  type: adjective
+  de: geehrt
+  en: dignified
+  lemma: geehrt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: gefordert
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0017
+  type: adjective
+  de: gefordert
+  en: prerequisite
+  lemma: gefordert
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: geschrieben
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0018
+  type: adjective
+  de: geschrieben
+  en: scribble
+  lemma: geschrieben
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: gesprochen
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0019
+  type: adjective
+  de: gesprochen
+  en: conversational
+  lemma: gesprochen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: gleich
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0020
+  type: adjective
+  de: gleich
+  en: equal
+  lemma: gleich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: groß
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0021
+  type: adjective
+  de: groß
+  en: big
+  lemma: groß
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: gut
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0022
+  type: adjective
+  de: gut
+  en: good
+  lemma: gut
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: günstig
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0023
+  type: adjective
+  de: günstig
+  en: favorable
+  lemma: günstig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: idiomatisch
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0024
+  type: adjective
+  de: idiomatisch
+  en: idiomatic
+  lemma: idiomatisch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: klein
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0025
+  type: adjective
+  de: klein
+  en: small
+  lemma: klein
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kulturell
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0026
+  type: adjective
+  de: kulturell
+  en: cultural
+  lemma: kulturell
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kurz
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0027
+  type: adjective
+  de: kurz
+  en: brief
+  lemma: kurz
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: letzter
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0028
+  type: adjective
+  de: letzter
+  en: last
+  lemma: letzter
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: lexikalisch
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0029
+  type: adjective
+  de: lexikalisch
+  en: lexical
+  lemma: lexikalisch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: liegend
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0030
+  type: adjective
+  de: liegend
+  en: prone
+  lemma: liegend
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: linker
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0031
+  type: adjective
+  de: linker
+  en: left-hand
+  lemma: linker
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: neu
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0032
+  type: adjective
+  de: neu
+  en: new
+  lemma: neu
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: notwendig
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0033
+  type: adjective
+  de: notwendig
+  en: necessarz
+  lemma: notwendig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: nächster
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0034
+  type: adjective
+  de: nächster
+  en: proximate
+  lemma: nächster
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: persönliche
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0035
+  type: adjective
+  de: persönliche
+  en: personal
+  lemma: persönliche
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: privat
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0036
+  type: adjective
+  de: privat
+  en: private
+  lemma: privat
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: rechter
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0037
+  type: adjective
+  de: rechter
+  en: right-hand
+  lemma: rechter
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: rquezn
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0038
+  type: adjective
+  de: ruhig
+  en: quite
+  lemma: ruhig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: ruhig
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0039
+  type: adjective
+  de: schlecht
+  en: bad
+  lemma: schlecht
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schlecht
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0040
+  type: adjective
+  de: schwer
+  en: difficult
+  lemma: schwer
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schwer
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0041
+  type: adjective
+  de: schön
+  en: nice
+  lemma: schön
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schön
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0042
+  type: adjective
+  de: technisch
+  en: technical
+  lemma: technisch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: technisch
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0043
+  type: adjective
+  de: vierter
+  en: fourth
+  lemma: vierter
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: vierter
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0044
+  type: adjective
+  de: vorliegend
+  en: present, on hand
+  lemma: vorliegend
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: vorliegend
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0045
+  type: adjective
+  de: wichtig
+  en: important
+  lemma: wichtig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wichtig
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0046
+  type: adjective
+  de: zentral
+  en: central
+  lemma: zentral
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zentral
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0047
+  type: adjective
+  de: zweiter
+  en: second
+  lemma: zweiter
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zweiter
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0048
+  type: adjective
+  de: öffentlich
+  en: public
+  lemma: öffentlich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: öffentlich
-  category: adjective
-  gender: ''
-  notes: ''
+- item_id: A1-ADJ-0049
+  type: adjective
+  de: österreichisch
+  en: Austrian
+  lemma: österreichisch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: österreichisch
-  category: adjective
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
