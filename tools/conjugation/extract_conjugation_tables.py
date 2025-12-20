@@ -40,7 +40,7 @@ def group_by_ppt_slide(rows: List[dict]) -> Dict[Tuple[str, str], List[str]]:
     for r in rows:
         ppt = r.get("ppt_file", "")
         slide = r.get("slide_number", "")
-        t = (r.get("norm_text") or "").strip()
+        t = (r.get("source_text") or r.get("token") or "").strip()
         if not ppt or not slide or not t:
             continue
         grouped.setdefault((ppt, slide), []).append(t)
