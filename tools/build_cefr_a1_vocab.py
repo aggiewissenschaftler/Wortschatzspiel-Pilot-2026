@@ -138,6 +138,67 @@ def load_cefr_list(cefr_path: Path) -> List[VocabItem]:
     if not cefr_path.exists():
         raise FileNotFoundError(f"CEFR list not found: {cefr_path}")
 
+    # NEW: allow YAML CEFR lists (source-of-truth) as well as CSV
+    if cefr_path.suffix.lower() in [".yaml", ".yml"]:
+        data = yaml.safe_load(cefr_path.read_text(encoding="utf-8")) or {}
+        raw_items = data.get("items", [])
+        items: List[VocabItem] = []
+
+        for it in raw_items:
+            if not isinstance(it, dict):
+                continue
+            raw_lemma = (it.get("lemma") or it.get("text") or it.get("word") or "").strip()
+            if not raw_lemma:
+                continue
+
+            raw_cat = (it.get("category") or it.get("pos") or it.get("type") or "").strip()
+            raw_gender = (it.get("gender") or it.get("genus") or "").strip()
+            raw_notes = (it.get("notes") or it.get("note") or "").strip()
+
+            cat = norm_key(raw_cat)
+            if not cat:
+                cat = guess_category_basic(raw_lemma)
+
+            cat_map = {
+                "det": "article",
+                "artikel": "article",
+                "n": "noun",
+                "noun": "noun",
+                "subst": "noun",
+                "verb": "verb",
+                "v": "verb",
+                "adj": "adjective",
+                "adjektiv": "adjective",
+                "adv": "adverb",
+                "pron": "pronoun",
+                "prep": "preposition",
+                "konj": "conjunction",
+                "part": "particle",
+                "num": "numeral",
+            }
+            cat = cat_map.get(cat, cat)
+            if cat not in CANON_CATS:
+                cat = "other"
+
+            items.append(VocabItem(
+                lemma=raw_lemma,
+                category=cat,
+                gender=raw_gender,
+                notes=raw_notes,
+                cefr="A1",
+                seen_in_course=False,
+                source="cefr_a1",
+            ))
+
+        if not items:
+            raise ValueError(f"CEFR YAML produced 0 items. Check file format: {cefr_path}")
+
+        log.info("Loaded CEFR items (YAML): %d", len(items))
+        return items
+
+
+
+
     delim = detect_delimiter(cefr_path)
     items: List[VocabItem] = []
 
