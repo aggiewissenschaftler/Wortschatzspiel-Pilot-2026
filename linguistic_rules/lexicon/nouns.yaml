@@ -3,4658 +3,4558 @@ language: de
 cefr_level: A1
 source: cefr_a1_core
 items:
-- lemma: abend
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: abfahrt
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: abflug
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: absender
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: achtung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: adresse
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: alter
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anfang
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: angabe
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: angebot
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ankunft
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anmeldung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anrede
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anruf
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anrufbeantworter
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ansag
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ansage
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anschluss
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anspruchsniveau
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: antwort
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: antwortboge
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anzeige
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: apartment
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: apfel
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: apfelsaft
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: apotheke
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: appetit
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: april
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arbeit
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arbeiter
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arbeitsfassung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arbeitsplatz
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arm
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arzt
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: association
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ation
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aufgabe
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aufgenom
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aufgenomma
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auflage
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auftrag
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aufzug
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auge
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausbildung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausdruck
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausflug
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausgabe
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausgang
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auskunft
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausland
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auslandsvertretung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausländer
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausländerin
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aussage
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aussehen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aussteigen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auswahl
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausweis
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auszug
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: auto
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: autobahn
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: automat
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bahn
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bahnhof
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bahnhofstraße
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bahnsteig
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: balkon
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: banane
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bank
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bauch
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: baum
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beamter
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beamtin
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beantworter
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bedeutung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beherr
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bein
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beispielsätz
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bekannte
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bekannter
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bereich
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: berghaus
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beruf
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bestandteil
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: besuch
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bett
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bewohner
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bewältigung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: beziehung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bier
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bild
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bildung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: birne
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bleistift
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: blick
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: blume
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bogen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: breite
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: brief
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: briefmarke
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: broschüre
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: brot
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bruder
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: brötchen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: buch
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: buchladen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: buchstabe
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bundesministerium
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bundesrepublik
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bus
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: butter
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bäckerei
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: büro
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: caf
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: cd
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: celsius
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: cent
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: chef
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: chefin
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: computer
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dame
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: danke
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deut
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deutsche
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deutschkurs
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deutschlehrerin
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deutschprüfung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dezember
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dienstag
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dienstleistung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: disco
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: disko
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: doktor
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dom
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: donnerstag
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: doppelzimmer
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dorf
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: drucker
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: durchsage
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: durst
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dusche
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: duschen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: e-mail
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ecke
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ehe
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ehefrau
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ehemann
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ei
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eingang
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einkaufen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einladung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einrichtung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eintrag
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eintritt
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eintrittskarte
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einzelzimmer
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eltern
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: empfänger
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ende
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: entschuldigen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: entschuldigung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ergebnis
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erwachsene
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erziehung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: euro
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: europäer
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahren
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahrer
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahrkarte
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahrrad
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahrt
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: familie
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: familienname
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: familiennamen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: familienstand
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: farbe
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fax
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: februar
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fehler
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: feier
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: feierabend
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: feiertag
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fenster
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fernsehen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: festigung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: feuer
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fieber
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: film
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: finne
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: firma
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fisch
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: flasche
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fleisch
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: flughafen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: flugzeug
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: form
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: formular
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: foto
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frage
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: französisch
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frau
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: freitag
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: freizeit
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fremdsprache
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frequenzkriterie
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: freund
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0001
+  type: noun
+  de: Abend
+  en: evening
+  lemma: abend
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: freundin
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frühjahr
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frühling
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frühstück
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fuß
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fußball
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fähigkeit
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fährst
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: führung
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: füllen
-  category: noun
-  gender: ''
-  notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: garten
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0002
+  type: noun
+  de: Abfahrt
+  en: departure
+  lemma: abfahrt
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gast
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gebrauchsartikel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0003
+  type: noun
+  de: Abflug
+  en: departure
+  lemma: abflug
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: geburtsdatum
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: geburtsjahr
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0004
+  type: noun
+  de: Absender
+  en: sender
+  lemma: absender
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: geburtsort
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: geburtstag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0005
+  type: noun
+  de: Achtung
+  en: attention
+  lemma: achtung
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gefallen
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: geld
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0006
+  type: noun
+  de: Adresse
+  en: address
+  lemma: adresse
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gemüse
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gepäck
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0007
+  type: noun
+  de: Alter
+  en: age
+  lemma: alter
+  gender: n
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: geschenk
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: geschlecht
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0008
+  type: noun
+  de: Anfang
+  en: beginning
+  lemma: anfang
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: geschwister
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: geschäft
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0009
+  type: noun
+  de: Angabe
+  en: information
+  lemma: angabe
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gespräch
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: getränk
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0010
+  type: noun
+  de: Angebot
+  en: offer
+  lemma: angebot
+  gender: n
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gewicht
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gewohnheit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0011
+  type: noun
+  de: Ankunft
+  en: arrival
+  lemma: ankunft
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: glaboniat
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: glas
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0012
+  type: noun
+  de: Anmeldung
+  en: registration
+  lemma: anmeldung
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gleis
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: glück
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0013
+  type: noun
+  de: Anrede
+  en: salutation
+  lemma: anrede
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: glückwunsch
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gmbh
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0014
+  type: noun
+  de: Anruf
+  en: phone call
+  lemma: anruf
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: grad
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gramm
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0015
+  type: noun
+  de: Anrufbeantworter
+  en: answering machine
+  lemma: anrufbeantworter
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: großelter
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: großmutter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0016
+  type: noun
+  de: Ansage
+  en: announcement
+  lemma: ansage
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: großvater
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: grundbaustein
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0017
+  type: noun
+  de: Anschluss
+  en: connection, link, joining
+  lemma: anschluss
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: grundlage
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: grundstock
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0018
+  type: noun
+  de: Anspruchsniveau
+  en: aspiration, standard
+  lemma: anspruchsniveau
+  gender: n
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gruppe
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gruß
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0019
+  type: noun
+  de: Antwort
+  en: answer
+  lemma: antwort
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: größe
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: grüße
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0020
+  type: noun
+  de: antwortbogen
+  en: answer sheet
+  lemma: antwortbogen
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gute
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: haar
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0021
+  type: noun
+  de: Anzeige
+  en: advertisement, display, report
+  lemma: anzeige
+  gender: f
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: halbpension
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: halle
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0022
+  type: noun
+  de: Apartment
+  en: apartment / flat
+  lemma: apartment
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: haltestelle
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0023
+  type: noun
+  de: Apfel
+  en: apple
+  lemma: apfel
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hand
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: handbuch
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0024
+  type: noun
+  de: Apfelsaft
+  en: apple juice
+  lemma: apfelsaft
+  gender: m
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: handy
-  category: noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: haupt
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0025
+  type: noun
+  de: Apotheke
+  en: pharmacy
+  lemma: apotheke
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: haus
-  category: noun
-  gender: ''
+- item_id: A1-N-0026
+  type: noun
+  de: Appetit
+  en: appetite
+  lemma: appetit
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0027
+  type: noun
+  de: April
+  en: April
+  lemma: april
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hausaufgabe
-  category: noun
-  gender: ''
+- item_id: A1-N-0028
+  type: noun
+  de: Arbeit
+  en: work
+  lemma: arbeit
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0029
+  type: noun
+  de: Arbeiter
+  en: work
+  lemma: arbeiter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hausfrau
-  category: noun
-  gender: ''
+- item_id: A1-N-0030
+  type: noun
+  de: Arbeitsfassung
+  en: work
+  lemma: arbeitsfassung
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0031
+  type: noun
+  de: Arbeitsplatz
+  en: workplace
+  lemma: arbeitsplatz
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: haushalt
-  category: noun
-  gender: ''
+- item_id: A1-N-0032
+  type: noun
+  de: Arm
+  en: arm
+  lemma: arm
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0033
+  type: noun
+  de: Arzt
+  en: doctor
+  lemma: arzt
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hausmann
-  category: noun
-  gender: ''
+- item_id: A1-N-0034
+  type: noun
+  de: Association
+  en: association
+  lemma: association
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0035
+  type: noun
+  de: Aufgabe
+  en: task
+  lemma: aufgabe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hausnummer
-  category: noun
-  gender: ''
+- item_id: A1-N-0036
+  type: noun
+  de: Auflage
+  en: edition, circulation, layer, condition
+  lemma: auflage
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0037
+  type: noun
+  de: Auftrag
+  en: order (for goods), task, mission
+  lemma: auftrag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: haustür
-  category: noun
-  gender: ''
+- item_id: A1-N-0038
+  type: noun
+  de: Aufzug
+  en: train
+  lemma: aufzug
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0039
+  type: noun
+  de: Auge
+  en: eye
+  lemma: auge
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: heimat
-  category: noun
-  gender: ''
+- item_id: A1-N-0040
+  type: noun
+  de: Ausbildung
+  en: vocational training, apprenticeship
+  lemma: ausbildung
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0041
+  type: noun
+  de: Ausdruck
+  en: expression, printout
+  lemma: ausdruck
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: herbst
-  category: noun
-  gender: ''
+- item_id: A1-N-0042
+  type: noun
+  de: Ausflug
+  en: flight
+  lemma: ausflug
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0043
+  type: noun
+  de: Ausgabe
+  en: edition, expense, distribution
+  lemma: ausgabe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: herd
-  category: noun
-  gender: ''
+- item_id: A1-N-0044
+  type: noun
+  de: Ausgang
+  en: exit, outing, sabatical, outcome, result
+  lemma: ausgang
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0045
+  type: noun
+  de: Auskunft
+  en: information, inquiry desk
+  lemma: auskunft
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: herkunft
-  category: noun
-  gender: ''
+- item_id: A1-N-0046
+  type: noun
+  de: Ausland
+  en: country
+  lemma: ausland
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0047
+  type: noun
+  de: Auslandsvertretung
+  en: country
+  lemma: auslandsvertretung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (high confidence)
   source: cefr_a1_core
-- lemma: herr
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0048
+  type: noun
+  de: Ausländer
+  en: foreigner (male)
+  lemma: ausländer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: herzlich
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0049
+  type: noun
+  de: Ausländerin
+  en: foreigner (female)
+  lemma: ausländerin
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: hilfe
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0050
+  type: noun
+  de: Aussage
+  en: statement
+  lemma: aussage
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: himmelsrichtung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0051
+  type: noun
+  de: Aussehen
+  en: appearance
+  lemma: aussehen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: hin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0052
+  type: noun
+  de: Auswahl
+  en: selection / choice
+  lemma: auswahl
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: hobby
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0053
+  type: noun
+  de: Ausweis
+  en: ID card / identification
+  lemma: ausweis
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: hochzeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0054
+  type: noun
+  de: Auszug
+  en: train
+  lemma: auszug
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hotel
-  category: noun
-  gender: ''
+- item_id: A1-N-0055
+  type: noun
+  de: Auto
+  en: car
+  lemma: auto
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0056
+  type: noun
+  de: Autobahn
+  en: car train
+  lemma: autobahn
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hund
-  category: noun
-  gender: ''
+- item_id: A1-N-0057
+  type: noun
+  de: Automat
+  en: car
+  lemma: automat
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0058
+  type: noun
+  de: Bahn
+  en: train
+  lemma: bahn
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hunger
-  category: noun
-  gender: ''
+- item_id: A1-N-0059
+  type: noun
+  de: Bahnhof
+  en: train station
+  lemma: bahnhof
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0060
+  type: noun
+  de: Bahnhofstraße
+  en: train station street
+  lemma: bahnhofstraße
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hähnchen
-  category: noun
-  gender: ''
+- item_id: A1-N-0061
+  type: noun
+  de: Bahnsteig
+  en: train
+  lemma: bahnsteig
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0062
+  type: noun
+  de: Balkon
+  en: balcony
+  lemma: balkon
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: hälfte
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0063
+  type: noun
+  de: Banane
+  en: banana
+  lemma: banane
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hören
-  category: noun
-  gender: ''
+- item_id: A1-N-0064
+  type: noun
+  de: Bank
+  en: bank
+  lemma: bank
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0065
+  type: noun
+  de: Bauch
+  en: belly / stomach
+  lemma: bauch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ice
-  category: noun
-  gender: ''
+- item_id: A1-N-0066
+  type: noun
+  de: Baum
+  en: tree
+  lemma: baum
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0067
+  type: noun
+  de: Beamter
+  en: civil servant / public official (male)
+  lemma: beamter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: information
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0068
+  type: noun
+  de: Beamtin
+  en: civil servant / public official (female)
+  lemma: beamtin
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: interesse
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0069
+  type: noun
+  de: Beantworter
+  en: answering machine / responder (usually Anrufbeantworter)
+  lemma: beantworter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: interessent
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0070
+  type: noun
+  de: Bedeutung
+  en: meaning
+  lemma: bedeutung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: internet
-  category: noun
-  gender: ''
+- item_id: A1-N-0071
+  type: noun
+  de: Bein
+  en: leg
+  lemma: bein
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0072
+  type: noun
+  de: Bekannte
+  en: acquaintance (female)
+  lemma: bekannte
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: inventar
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0073
+  type: noun
+  de: Bekannter
+  en: acquaintance (male)
+  lemma: bekannter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: inventarlist
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0074
+  type: noun
+  de: Bereich
+  en: area / field / domain
+  lemma: bereich
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: jacke
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0075
+  type: noun
+  de: Berghaus
+  en: house
+  lemma: berghaus
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: jahr
-  category: noun
-  gender: ''
+- item_id: A1-N-0076
+  type: noun
+  de: Beruf
+  en: profession
+  lemma: beruf
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0077
+  type: noun
+  de: Bestandteil
+  en: component / part
+  lemma: bestandteil
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: jahreszeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0078
+  type: noun
+  de: Besuch
+  en: visit
+  lemma: besuch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: januar
-  category: noun
-  gender: ''
+- item_id: A1-N-0079
+  type: noun
+  de: Bett
+  en: bed
+  lemma: bett
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0080
+  type: noun
+  de: Bewohner
+  en: inhabitant / resident (male)
+  lemma: bewohner
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: japaner
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0081
+  type: noun
+  de: Bewältigung
+  en: coping, mastering, overcoming
+  lemma: bewältigung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: job
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0082
+  type: noun
+  de: Beziehung
+  en: relationship
+  lemma: beziehung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: jugendliche
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0083
+  type: noun
+  de: Bier
+  en: beer
+  lemma: bier
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: juli
-  category: noun
-  gender: ''
+- item_id: A1-N-0084
+  type: noun
+  de: Bild
+  en: picture
+  lemma: bild
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0085
+  type: noun
+  de: Bildung
+  en: education
+  lemma: bildung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: junge
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0086
+  type: noun
+  de: Birne
+  en: pear; also bulb
+  lemma: birne
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: juni
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0087
+  type: noun
+  de: Bleistift
+  en: pencil
+  lemma: bleistift
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kaffee
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0088
+  type: noun
+  de: Blick
+  en: look / glance / view
+  lemma: blick
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kannbeschreibung
-  category: noun
-  gender: ''
+- item_id: A1-N-0089
+  type: noun
+  de: Blume
+  en: flower
+  lemma: blume
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0090
+  type: noun
+  de: Bogen
+  en: sheet (of paper), bow, arch
+  lemma: bogen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kannst
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0091
+  type: noun
+  de: Breite
+  en: width
+  lemma: breite
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: karte
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0092
+  type: noun
+  de: Brief
+  en: letter
+  lemma: brief
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kartoffel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0093
+  type: noun
+  de: Briefmarke
+  en: postage stamp
+  lemma: briefmarke
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kasse
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0094
+  type: noun
+  de: Broschüre
+  en: brochure / leaflet
+  lemma: broschüre
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kategorie
-  category: noun
-  gender: ''
+- item_id: A1-N-0095
+  type: noun
+  de: Brot
+  en: bread
+  lemma: brot
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0096
+  type: noun
+  de: Bruder
+  en: brother
+  lemma: bruder
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kaufhaus
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0097
+  type: noun
+  de: Brötchen
+  en: bread roll
+  lemma: brötchen
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kaufst
-  category: noun
-  gender: ''
+- item_id: A1-N-0098
+  type: noun
+  de: Buch
+  en: book
+  lemma: buch
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0099
+  type: noun
+  de: Buchladen
+  en: book
+  lemma: buchladen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kilo
-  category: noun
-  gender: ''
+- item_id: A1-N-0100
+  type: noun
+  de: Buchstabe
+  en: book
+  lemma: buchstabe
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0101
+  type: noun
+  de: Bundesministerium
+  en: federal ministry
+  lemma: bundesministerium
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kilometer
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0102
+  type: noun
+  de: Bundesrepublik
+  en: federal republic
+  lemma: bundesrepublik
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kind
-  category: noun
-  gender: ''
+- item_id: A1-N-0103
+  type: noun
+  de: Bus
+  en: bus
+  lemma: bus
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0104
+  type: noun
+  de: Butter
+  en: butter
+  lemma: butter
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kinderbetreuung
-  category: noun
-  gender: ''
+- item_id: A1-N-0105
+  type: noun
+  de: Bäckerei
+  en: bakery
+  lemma: bäckerei
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0106
+  type: noun
+  de: Büro
+  en: office
+  lemma: büro
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kinderbett
-  category: noun
-  gender: ''
+- item_id: A1-N-0107
+  type: noun
+  de: Café
+  en: cafe
+  lemma: café
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0108
+  type: noun
+  de: Cd
+  en: CD (compact disc)
+  lemma: cd
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kindergarten
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0109
+  type: noun
+  de: Celsius
+  en: Celsius
+  lemma: celsius
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kino
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0110
+  type: noun
+  de: Cent
+  en: cent
+  lemma: cent
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kiosk
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0111
+  type: noun
+  de: Chef
+  en: boss
+  lemma: chef
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: klasse
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0112
+  type: noun
+  de: Chefin
+  en: boss (female)
+  lemma: chefin
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: klassenzimmer
-  category: noun
-  gender: ''
+- item_id: A1-N-0113
+  type: noun
+  de: Computer
+  en: computer
+  lemma: computer
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0114
+  type: noun
+  de: Dame
+  en: lady
+  lemma: dame
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kleidung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0115
+  type: noun
+  de: Deutsche
+  en: German (person, feminine; also plural “Germans”)
+  lemma: deutsche
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: klima
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0116
+  type: noun
+  de: Deutschkurs
+  en: German course
+  lemma: deutschkurs
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: koffer
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0117
+  type: noun
+  de: Deutschlehrerin
+  en: female German teacher
+  lemma: deutschlehrerin
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kollege
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0118
+  type: noun
+  de: Deutschprüfung
+  en: German exam
+  lemma: deutschprüfung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kollegin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0119
+  type: noun
+  de: Dezember
+  en: December
+  lemma: dezember
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: kommunikation
-  category: noun
-  gender: ''
+- item_id: A1-N-0120
+  type: noun
+  de: Dienstag
+  en: Tuesday
+  lemma: dienstag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0121
+  type: noun
+  de: Dienstleistung
+  en: service
+  lemma: dienstleistung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kompendie
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0122
+  type: noun
+  de: Disco
+  en: disco / nightclub
+  lemma: disco
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: konferenz
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0123
+  type: noun
+  de: Disko
+  en: disco / nightclub
+  lemma: disko
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: konto
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0124
+  type: noun
+  de: Doktor
+  en: doctor
+  lemma: doktor
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kopf
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0125
+  type: noun
+  de: Dom
+  en: cathedral
+  lemma: dom
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kredit
-  category: noun
-  gender: ''
+- item_id: A1-N-0126
+  type: noun
+  de: Donnerstag
+  en: Thursday
+  lemma: donnerstag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0127
+  type: noun
+  de: Doppelzimmer
+  en: room
+  lemma: doppelzimmer
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kreuze
-  category: noun
-  gender: ''
+- item_id: A1-N-0128
+  type: noun
+  de: Dorf
+  en: village
+  lemma: dorf
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0129
+  type: noun
+  de: Drucker
+  en: printer (device; also job)
+  lemma: drucker
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kuchen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0130
+  type: noun
+  de: Dung
+  en: dung / manure
+  lemma: dung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kugelschreiber
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0131
+  type: noun
+  de: Durchsage
+  en: announcement (over loudspeaker, etc.)
+  lemma: durchsage
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kultusminister
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0132
+  type: noun
+  de: Durst
+  en: thirst
+  lemma: durst
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kunde
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0133
+  type: noun
+  de: Dusche
+  en: shower
+  lemma: dusche
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kundin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0134
+  type: noun
+  de: E-mail
+  en: e-mail
+  lemma: e-mail
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kurs
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0135
+  type: noun
+  de: Ecke
+  en: corner
+  lemma: ecke
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kurstag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0136
+  type: noun
+  de: Ehe
+  en: marriage
+  lemma: ehe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: käse
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0137
+  type: noun
+  de: Ehefrau
+  en: woman
+  lemma: ehefrau
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: können
-  category: noun
-  gender: ''
+- item_id: A1-N-0138
+  type: noun
+  de: Ehemann
+  en: man
+  lemma: ehemann
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0139
+  type: noun
+  de: Ei
+  en: egg
+  lemma: ei
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: küche
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0140
+  type: noun
+  de: Eingang
+  en: entrance
+  lemma: eingang
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: kühlschrank
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0141
+  type: noun
+  de: Einladung
+  en: invitation
+  lemma: einladung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: laden
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0142
+  type: noun
+  de: Einrichtung
+  en: furnishing; institution; facility
+  lemma: einrichtung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: land
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0143
+  type: noun
+  de: Eintrag
+  en: entry (in a list, form, diary, etc.)
+  lemma: eintrag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lastkraftwage
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0144
+  type: noun
+  de: Eintritt
+  en: entry, admission
+  lemma: eintritt
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: leben
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0145
+  type: noun
+  de: Eintrittskarte
+  en: card
+  lemma: eintrittskarte
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: lebensmittel
-  category: noun
-  gender: ''
+- item_id: A1-N-0146
+  type: noun
+  de: Einzelzimmer
+  en: room
+  lemma: einzelzimmer
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0147
+  type: noun
+  de: Eltern
+  en: parents
+  lemma: eltern
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lehrer
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0148
+  type: noun
+  de: Empfänger
+  en: recipient, addressee
+  lemma: empfänger
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lehrerin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0149
+  type: noun
+  de: Ende
+  en: end
+  lemma: ende
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lehrmaterial
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0150
+  type: noun
+  de: Entschuldigung
+  en: apology; excuse
+  lemma: entschuldigung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: leid
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0151
+  type: noun
+  de: Ergebnis
+  en: result
+  lemma: ergebnis
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lektüre
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0152
+  type: noun
+  de: Erwachsene
+  en: adult
+  lemma: erwachsene
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lernen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0153
+  type: noun
+  de: Erziehung
+  en: upbringing, education
+  lemma: erziehung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lernende
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0154
+  type: noun
+  de: Euro
+  en: euro
+  lemma: euro
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lernenden
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0155
+  type: noun
+  de: Europäer
+  en: European (person, masculine)
+  lemma: europäer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lernzielbestimmung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0156
+  type: noun
+  de: Fahrer
+  en: driver
+  lemma: fahrer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lesetext
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0157
+  type: noun
+  de: Fahrkarte
+  en: card
+  lemma: fahrkarte
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: leute
-  category: noun
-  gender: ''
+- item_id: A1-N-0158
+  type: noun
+  de: Fahrrad
+  en: bicycle
+  lemma: fahrrad
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0159
+  type: noun
+  de: Fahrt
+  en: trip / journey / ride
+  lemma: fahrt
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: level
-  category: noun
-  gender: ''
+- item_id: A1-N-0160
+  type: noun
+  de: Familie
+  en: family
+  lemma: familie
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0161
+  type: noun
+  de: Familienname
+  en: family name
+  lemma: familienname
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: licht
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0162
+  type: noun
+  de: Familiennamen
+  en: family name
+  lemma: familiennamen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: liebe
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0163
+  type: noun
+  de: Familienstand
+  en: family
+  lemma: familienstand
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: lieblings-cd
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0164
+  type: noun
+  de: Farbe
+  en: color
+  lemma: farbe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lieblingsfilm
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0165
+  type: noun
+  de: Fax
+  en: fax
+  lemma: fax
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lieblingsgetränk
-  category: noun
-  gender: ''
+- item_id: A1-N-0166
+  type: noun
+  de: Februar
+  en: February
+  lemma: februar
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0167
+  type: noun
+  de: Fehler
+  en: mistake / error
+  lemma: fehler
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lieblingslied
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0168
+  type: noun
+  de: Feier
+  en: celebration, party
+  lemma: feier
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lied
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0169
+  type: noun
+  de: Feierabend
+  en: time after work / end of the working day
+  lemma: feierabend
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: linke
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0170
+  type: noun
+  de: Feiertag
+  en: day
+  lemma: feiertag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: liste
-  category: noun
-  gender: ''
+- item_id: A1-N-0171
+  type: noun
+  de: Fenster
+  en: window
+  lemma: fenster
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0172
+  type: noun
+  de: Festigung
+  en: consolidation, strengthening
+  lemma: festigung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: liter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0173
+  type: noun
+  de: Feuer
+  en: fire
+  lemma: feuer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: literatur
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0174
+  type: noun
+  de: Fieber
+  en: fever
+  lemma: fieber
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lkw
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0175
+  type: noun
+  de: Film
+  en: film / movie
+  lemma: film
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lokal
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0176
+  type: noun
+  de: Finne
+  en: Finn (person from Finland)
+  lemma: finne
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: lokale
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0177
+  type: noun
+  de: Firma
+  en: company / firm
+  lemma: firma
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ländernam
-  category: noun
-  gender: ''
+- item_id: A1-N-0178
+  type: noun
+  de: Fisch
+  en: fish
+  lemma: fisch
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0179
+  type: noun
+  de: Flasche
+  en: bottle
+  lemma: flasche
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mahlzeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0180
+  type: noun
+  de: Fleisch
+  en: meat
+  lemma: fleisch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: mai
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0181
+  type: noun
+  de: Flughafen
+  en: flight
+  lemma: flughafen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: mann
-  category: noun
-  gender: ''
+- item_id: A1-N-0182
+  type: noun
+  de: Flugzeug
+  en: flight
+  lemma: flugzeug
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0183
+  type: noun
+  de: Form
+  en: form / shape
+  lemma: form
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: maschine
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0184
+  type: noun
+  de: Formular
+  en: form (document)
+  lemma: formular
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: maß
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0185
+  type: noun
+  de: Foto
+  en: photo / photograph
+  lemma: foto
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: medikament
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0186
+  type: noun
+  de: Frage
+  en: question
+  lemma: frage
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: meer
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0187
+  type: noun
+  de: Französisch
+  en: French (language)
+  lemma: französisch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mensch
-  category: noun
-  gender: ''
+- item_id: A1-N-0188
+  type: noun
+  de: Frau
+  en: woman
+  lemma: frau
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0189
+  type: noun
+  de: Freitag
+  en: Friday
+  lemma: freitag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: messeplatz
-  category: noun
-  gender: ''
+- item_id: A1-N-0190
+  type: noun
+  de: Freizeit
+  en: time
+  lemma: freizeit
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0191
+  type: noun
+  de: Fremdsprache
+  en: foreign language
+  lemma: fremdsprache
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: meter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0192
+  type: noun
+  de: frequenzkriterium
+  en: frequency criterion
+  lemma: frequenzkriterium
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mexikaner
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0193
+  type: noun
+  de: Freund
+  en: friend
+  lemma: freund
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: mexikanerin
-  category: noun
-  gender: ''
+- item_id: A1-N-0194
+  type: noun
+  de: Freundin
+  en: friend
+  lemma: freundin
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0195
+  type: noun
+  de: Frühjahr
+  en: year
+  lemma: frühjahr
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: miete
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0196
+  type: noun
+  de: Frühling
+  en: spring (season)
+  lemma: frühling
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mietverhältnis
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0197
+  type: noun
+  de: Frühstück
+  en: breakfast
+  lemma: frühstück
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: milch
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0198
+  type: noun
+  de: Fuß
+  en: foot
+  lemma: fuß
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: milliarde
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0199
+  type: noun
+  de: Fußball
+  en: football / soccer
+  lemma: fußball
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: million
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0200
+  type: noun
+  de: Fähigkeit
+  en: ability / skill
+  lemma: fähigkeit
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: minute
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0201
+  type: noun
+  de: Führung
+  en: leadership; guided tour; management
+  lemma: führung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mittag
-  category: noun
-  gender: ''
+- item_id: A1-N-0202
+  type: noun
+  de: Garten
+  en: garden
+  lemma: garten
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0203
+  type: noun
+  de: Gast
+  en: guest
+  lemma: gast
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mittagspause
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0204
+  type: noun
+  de: Gebrauchsartikel
+  en: consumer goods, everyday article
+  lemma: gebrauchsartikel
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mitte
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0205
+  type: noun
+  de: Geburtsdatum
+  en: date of birth
+  lemma: geburtsdatum
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mittel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0206
+  type: noun
+  de: Geburtsjahr
+  en: year
+  lemma: geburtsjahr
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: mittwoch
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0207
+  type: noun
+  de: Geburtsort
+  en: place of birth
+  lemma: geburtsort
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: moment
-  category: noun
-  gender: ''
+- item_id: A1-N-0208
+  type: noun
+  de: Geburtstag
+  en: day
+  lemma: geburtstag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0209
+  type: noun
+  de: Gefallen
+  en: favor; liking
+  lemma: gefallen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: monat
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0210
+  type: noun
+  de: Geld
+  en: money
+  lemma: geld
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: monatsname
-  category: noun
-  gender: ''
+- item_id: A1-N-0211
+  type: noun
+  de: Gemüse
+  en: vegetables
+  lemma: gemüse
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0212
+  type: noun
+  de: Gepäck
+  en: luggage / baggage
+  lemma: gepäck
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: montag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0213
+  type: noun
+  de: Geschenk
+  en: present / gift
+  lemma: geschenk
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mund
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0214
+  type: noun
+  de: Geschlecht
+  en: gender; sex
+  lemma: geschlecht
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: museum
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0215
+  type: noun
+  de: Geschwister
+  en: siblings
+  lemma: geschwister
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mutter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0216
+  type: noun
+  de: Geschäft
+  en: shop; business
+  lemma: geschäft
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: mädchen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0217
+  type: noun
+  de: Gespräch
+  en: conversation
+  lemma: gespräch
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: märz
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0218
+  type: noun
+  de: Getränk
+  en: drink / beverage
+  lemma: getränk
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: möbel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0219
+  type: noun
+  de: Gewicht
+  en: weight
+  lemma: gewicht
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: möchten
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0220
+  type: noun
+  de: Gewohnheit
+  en: habit
+  lemma: gewohnheit
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nachmittag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0221
+  type: noun
+  de: Glas
+  en: glass
+  lemma: glas
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nacht
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0222
+  type: noun
+  de: Gleis
+  en: track / platform (railway)
+  lemma: gleis
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nachweis
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0223
+  type: noun
+  de: Glück
+  en: luck; happiness
+  lemma: glück
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nahrungsmittel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0224
+  type: noun
+  de: Glückwunsch
+  en: congratulations
+  lemma: glückwunsch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: name
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0225
+  type: noun
+  de: Gmbh
+  en: GmbH (limited liability company)
+  lemma: gmbh
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nationalität
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0226
+  type: noun
+  de: Grad
+  en: bike
+  lemma: grad
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: nebeneintrag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0227
+  type: noun
+  de: Gramm
+  en: gram
+  lemma: gramm
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nebeneinträge
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0228
+  type: noun
+  de: großeltern
+  en: grandparents
+  lemma: großeltern
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: neuankömmling
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0229
+  type: noun
+  de: Großmutter
+  en: mother
+  lemma: großmutter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: nikative
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0230
+  type: noun
+  de: Großvater
+  en: father
+  lemma: großvater
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: niveau
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0231
+  type: noun
+  de: Grundbaustein
+  en: basic building block
+  lemma: grundbaustein
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: niveaustuf
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0232
+  type: noun
+  de: Grundlage
+  en: basis / foundation
+  lemma: grundlage
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nomen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0233
+  type: noun
+  de: Grundstock
+  en: basic stock / foundation
+  lemma: grundstock
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: norddeutschen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0234
+  type: noun
+  de: Gruppe
+  en: group
+  lemma: gruppe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: norden
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0235
+  type: noun
+  de: Gruß
+  en: greeting
+  lemma: gruß
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: november
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0236
+  type: noun
+  de: Größe
+  en: size; height
+  lemma: größe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: nächsten
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0237
+  type: noun
+  de: Grüße
+  en: greetings
+  lemma: grüße
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: obst
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0238
+  type: noun
+  de: Gute
+  en: the good (as a noun; “good thing”)
+  lemma: gute
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: oktober
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0239
+  type: noun
+  de: Haar
+  en: hair
+  lemma: haar
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: opa
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0240
+  type: noun
+  de: Halbpension
+  en: half board
+  lemma: halbpension
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ordnung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0241
+  type: noun
+  de: Halle
+  en: hall
+  lemma: halle
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ort
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0242
+  type: noun
+  de: Haltestelle
+  en: stop (bus, tram, etc.)
+  lemma: haltestelle
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: osten
-  category: noun
-  gender: ''
+- item_id: A1-N-0243
+  type: noun
+  de: Hand
+  en: hand
+  lemma: hand
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0244
+  type: noun
+  de: Handbuch
+  en: hand book
+  lemma: handbuch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: papier
-  category: noun
-  gender: ''
+- item_id: A1-N-0245
+  type: noun
+  de: Handy
+  en: hand
+  lemma: handy
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0246
+  type: noun
+  de: Haupt
+  en: main part; head; chief part
+  lemma: haupt
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: park
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0247
+  type: noun
+  de: Haus
+  en: house
+  lemma: haus
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: partner
-  category: noun
-  gender: ''
+- item_id: A1-N-0248
+  type: noun
+  de: Hausaufgabe
+  en: homework
+  lemma: hausaufgabe
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0249
+  type: noun
+  de: Hausfrau
+  en: house woman
+  lemma: hausfrau
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: partnerin
-  category: noun
-  gender: ''
+- item_id: A1-N-0250
+  type: noun
+  de: Haushalt
+  en: house
+  lemma: haushalt
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0251
+  type: noun
+  de: Hausmann
+  en: house man
+  lemma: hausmann
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: party
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0252
+  type: noun
+  de: Hausnummer
+  en: house number
+  lemma: hausnummer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: pass
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0253
+  type: noun
+  de: Haustür
+  en: house door
+  lemma: haustür
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: pause
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0254
+  type: noun
+  de: Heimat
+  en: home(land)
+  lemma: heimat
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: perlmann-balm
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0255
+  type: noun
+  de: Herbst
+  en: autumn / fall
+  lemma: herbst
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: person
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0256
+  type: noun
+  de: Herd
+  en: stove / cooker
+  lemma: herd
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: pflanze
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0257
+  type: noun
+  de: Herkunft
+  en: origin
+  lemma: herkunft
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: pfund
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0258
+  type: noun
+  de: Herr
+  en: Mr.; gentleman
+  lemma: herr
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: plan
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0259
+  type: noun
+  de: Herzlich
+  en: cordiality; warm feeling
+  lemma: herzlich
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: platz
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0260
+  type: noun
+  de: Hilfe
+  en: help
+  lemma: hilfe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: pluralforme
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0261
+  type: noun
+  de: Himmelsrichtung
+  en: cardinal direction
+  lemma: himmelsrichtung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: polizei
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0262
+  type: noun
+  de: Hobby
+  en: hobby
+  lemma: hobby
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: post
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0263
+  type: noun
+  de: Hochzeit
+  en: time
+  lemma: hochzeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: postleitzahl
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0264
+  type: noun
+  de: Hotel
+  en: hotel
+  lemma: hotel
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: praktikum
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0265
+  type: noun
+  de: Hund
+  en: dog
+  lemma: hund
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: praxis
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0266
+  type: noun
+  de: Hunger
+  en: hunger
+  lemma: hunger
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: preis
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0267
+  type: noun
+  de: Hähnchen
+  en: chicken (meat)
+  lemma: hähnchen
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: presse
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0268
+  type: noun
+  de: Hälfte
+  en: half
+  lemma: hälfte
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: problem
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0269
+  type: noun
+  de: Hören
+  en: listening / hearing
+  lemma: hören
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: profil
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0270
+  type: noun
+  de: eis
+  en: ice; ice cream
+  lemma: eis
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: prospekt
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0271
+  type: noun
+  de: Information
+  en: information
+  lemma: information
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: prozent
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0272
+  type: noun
+  de: Interesse
+  en: interest
+  lemma: interesse
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: prüfung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0273
+  type: noun
+  de: Interessent
+  en: interested person / prospective customer
+  lemma: interessent
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: prüfungsauf
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0274
+  type: noun
+  de: Internet
+  en: internet
+  lemma: internet
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: prüfungsverfahren
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0275
+  type: noun
+  de: Inventar
+  en: inventory
+  lemma: inventar
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: prüfungsziel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0276
+  type: noun
+  de: inventarliste
+  en: inventory list
+  lemma: inventarliste
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: publikation
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0277
+  type: noun
+  de: Jacke
+  en: jacket
+  lemma: jacke
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: quadratmeter
-  category: noun
-  gender: ''
+- item_id: A1-N-0278
+  type: noun
+  de: Jahr
+  en: year
+  lemma: jahr
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0279
+  type: noun
+  de: Jahreszeit
+  en: year time
+  lemma: jahreszeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: rad
-  category: noun
-  gender: ''
+- item_id: A1-N-0280
+  type: noun
+  de: Januar
+  en: January
+  lemma: januar
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0281
+  type: noun
+  de: Japaner
+  en: Japanese (person, masculine)
+  lemma: japaner
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: radio
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0282
+  type: noun
+  de: Job
+  en: job
+  lemma: job
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: rahmen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0283
+  type: noun
+  de: Jugendliche
+  en: young person / teenager
+  lemma: jugendliche
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: rat
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0284
+  type: noun
+  de: Juli
+  en: July
+  lemma: juli
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: rauchen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0285
+  type: noun
+  de: Junge
+  en: boy
+  lemma: junge
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: raum
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0286
+  type: noun
+  de: Juni
+  en: June
+  lemma: juni
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: rausch
-  category: noun
-  gender: ''
+- item_id: A1-N-0287
+  type: noun
+  de: Kaffee
+  en: coffee
+  lemma: kaffee
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0288
+  type: noun
+  de: Kannbeschreibung
+  en: can-do descriptor (CEFR)
+  lemma: kannbeschreibung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: rechnung
-  category: noun
-  gender: ''
+- item_id: A1-N-0289
+  type: noun
+  de: Karte
+  en: card
+  lemma: karte
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0290
+  type: noun
+  de: Kartoffel
+  en: potato
+  lemma: kartoffel
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: referenz
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0291
+  type: noun
+  de: Kasse
+  en: cash desk / checkout / till
+  lemma: kasse
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: referenzrahmen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0292
+  type: noun
+  de: Kategorie
+  en: category
+  lemma: kategorie
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: referenzrahmens
-  category: noun
-  gender: ''
+- item_id: A1-N-0293
+  type: noun
+  de: Kaufhaus
+  en: house
+  lemma: kaufhaus
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0294
+  type: noun
+  de: Kilo
+  en: kilo / kilogram
+  lemma: kilo
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: regen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0295
+  type: noun
+  de: Kilometer
+  en: kilometre / kilometer
+  lemma: kilometer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: reis
-  category: noun
-  gender: ''
+- item_id: A1-N-0296
+  type: noun
+  de: Kind
+  en: child
+  lemma: kind
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0297
+  type: noun
+  de: Kinderbetreuung
+  en: child
+  lemma: kinderbetreuung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (high confidence)
   source: cefr_a1_core
-- lemma: reise
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0298
+  type: noun
+  de: Kinderbett
+  en: child bed
+  lemma: kinderbett
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: reisebüro
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0299
+  type: noun
+  de: Kindergarten
+  en: child garden
+  lemma: kindergarten
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: reiseführer
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0300
+  type: noun
+  de: Kino
+  en: cinema / movie theater
+  lemma: kino
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: reparatur
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0301
+  type: noun
+  de: Kiosk
+  en: kiosk / newsstand
+  lemma: kiosk
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: restaurant
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0302
+  type: noun
+  de: Klasse
+  en: class
+  lemma: klasse
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: rezeption
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0303
+  type: noun
+  de: Klassenzimmer
+  en: room
+  lemma: klassenzimmer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: richtung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0304
+  type: noun
+  de: Kleidung
+  en: clothing
+  lemma: kleidung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ruf
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0305
+  type: noun
+  de: Klima
+  en: climate
+  lemma: klima
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: s-bahn
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0306
+  type: noun
+  de: Koffer
+  en: suitcase
+  lemma: koffer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: saft
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0307
+  type: noun
+  de: Kollege
+  en: colleague (male)
+  lemma: kollege
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: salat
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0308
+  type: noun
+  de: Kollegin
+  en: colleague (female)
+  lemma: kollegin
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: salz
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0309
+  type: noun
+  de: Kommunikation
+  en: communication
+  lemma: kommunikation
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: samstag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0310
+  type: noun
+  de: kompendium
+  en: compendium
+  lemma: kompendium
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: satz
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0311
+  type: noun
+  de: Konferenz
+  en: conference
+  lemma: konferenz
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schalter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0312
+  type: noun
+  de: Konto
+  en: account
+  lemma: konto
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schicken
-  category: noun
-  gender: ''
+- item_id: A1-N-0313
+  type: noun
+  de: Kopf
+  en: head
+  lemma: kopf
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0314
+  type: noun
+  de: Kredit
+  en: credit / loan
+  lemma: kredit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schild
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0315
+  type: noun
+  de: Kreuze
+  en: crosses
+  lemma: kreuze
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schinken
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0316
+  type: noun
+  de: Kuchen
+  en: cake
+  lemma: kuchen
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schluss
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0317
+  type: noun
+  de: Kugelschreiber
+  en: ballpoint pen
+  lemma: kugelschreiber
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schlüssel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0318
+  type: noun
+  de: Kultusminister
+  en: minister of education/culture
+  lemma: kultusminister
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schrank
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0319
+  type: noun
+  de: Kunde
+  en: customer / client (male)
+  lemma: kunde
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schreiben
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0320
+  type: noun
+  de: Kundin
+  en: customer / client (female)
+  lemma: kundin
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schuh
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0321
+  type: noun
+  de: Kurs
+  en: course
+  lemma: kurs
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schule
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0322
+  type: noun
+  de: Kurstag
+  en: day
+  lemma: kurstag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: schwarze
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0323
+  type: noun
+  de: Käse
+  en: cheese
+  lemma: käse
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: schwester
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0324
+  type: noun
+  de: Können
+  en: ability / skill
+  lemma: können
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schwimmbad
-  category: noun
-  gender: ''
+- item_id: A1-N-0325
+  type: noun
+  de: Küche
+  en: kitchen
+  lemma: küche
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0326
+  type: noun
+  de: Kühlschrank
+  en: refrigerator / fridge
+  lemma: kühlschrank
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schöne
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0327
+  type: noun
+  de: Laden
+  en: shop, store
+  lemma: laden
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schüler
-  category: noun
-  gender: ''
+- item_id: A1-N-0328
+  type: noun
+  de: Land
+  en: country
+  lemma: land
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0329
+  type: noun
+  de: lastkraftwagen
+  en: lorry / truck
+  lemma: lastkraftwagen
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: schülerin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0330
+  type: noun
+  de: Leben
+  en: life
+  lemma: leben
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sechsstufig
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0331
+  type: noun
+  de: Lebensmittel
+  en: foodstuffs / groceries
+  lemma: lebensmittel
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: see
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0332
+  type: noun
+  de: Lehrer
+  en: teacher (male)
+  lemma: lehrer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sehenswürdigkeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0333
+  type: noun
+  de: Lehrerin
+  en: teacher (female)
+  lemma: lehrerin
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: seid
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0334
+  type: noun
+  de: Lehrmaterial
+  en: teaching material(s)
+  lemma: lehrmaterial
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sekunde
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0335
+  type: noun
+  de: Leid
+  en: suffering / sorrow
+  lemma: leid
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: september
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0336
+  type: noun
+  de: Lektüre
+  en: door
+  lemma: lektüre
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: sinn
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0337
+  type: noun
+  de: Lernen
+  en: learning
+  lemma: lernen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sofa
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0338
+  type: noun
+  de: Lernende
+  en: learner
+  lemma: lernende
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sohn
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0339
+  type: noun
+  de: Lernenden
+  en: learners (participants who are learning)
+  lemma: lernenden
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sommer
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0340
+  type: noun
+  de: Lernzielbestimmung
+  en: definition of learning objectives; learning-objective specification
+  lemma: lernzielbestimmung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sonnabend
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0341
+  type: noun
+  de: Lesetext
+  en: reading text; reading passage
+  lemma: lesetext
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sonne
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0342
+  type: noun
+  de: Leute
+  en: people
+  lemma: leute
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sonntag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0343
+  type: noun
+  de: Level
+  en: level
+  lemma: level
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: spanier
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0344
+  type: noun
+  de: Licht
+  en: light
+  lemma: licht
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: speise
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0345
+  type: noun
+  de: Liebe
+  en: love
+  lemma: liebe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: speisekarte
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0346
+  type: noun
+  de: Lieblings-cd
+  en: favourite CD
+  lemma: lieblings-cd
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: spiel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0347
+  type: noun
+  de: Lieblingsfilm
+  en: favourite film; favourite movie
+  lemma: lieblingsfilm
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: spielen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0348
+  type: noun
+  de: Lieblingsgetränk
+  en: favourite drink; favourite beverage
+  lemma: lieblingsgetränk
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sport
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0349
+  type: noun
+  de: Lieblingslied
+  en: favourite song
+  lemma: lieblingslied
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sportschuh
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0350
+  type: noun
+  de: Liter
+  en: litre; liter
+  lemma: liter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sportverein
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0351
+  type: noun
+  de: Mahlzeit
+  en: time
+  lemma: mahlzeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: sprachbeherrschung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0352
+  type: noun
+  de: Mai
+  en: May
+  lemma: mai
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: sprachkompetenz
-  category: noun
-  gender: ''
+- item_id: A1-N-0353
+  type: noun
+  de: Mann
+  en: man
+  lemma: mann
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0354
+  type: noun
+  de: Maß
+  en: measure; measurement; size
+  lemma: maß
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: sprachkurse
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0355
+  type: noun
+  de: Messeplatz
+  en: place
+  lemma: messeplatz
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: sprachniveau
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0356
+  type: noun
+  de: Milch
+  en: milk
+  lemma: milch
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: sprachprüfung
-  category: noun
-  gender: ''
+- item_id: A1-N-0357
+  type: noun
+  de: Mittag
+  en: day
+  lemma: mittag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0358
+  type: noun
+  de: Mittagspause
+  en: day
+  lemma: mittagspause
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: sprechen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0359
+  type: noun
+  de: Mitte
+  en: middle; centre; center
+  lemma: mitte
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: staatsangehörigkeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0360
+  type: noun
+  de: Mittwoch
+  en: Wednesday
+  lemma: mittwoch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: stadt
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0361
+  type: noun
+  de: Monat
+  en: month
+  lemma: monat
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: stadtplan
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0362
+  type: noun
+  de: Monatsname
+  en: name
+  lemma: monatsname
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: start
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0363
+  type: noun
+  de: Montag
+  en: Monday
+  lemma: montag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: stelle
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0364
+  type: noun
+  de: Mund
+  en: mouth
+  lemma: mund
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: stock
-  category: noun
-  gender: ''
+- item_id: A1-N-0365
+  type: noun
+  de: Mutter
+  en: mother
+  lemma: mutter
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0366
+  type: noun
+  de: März
+  en: March
+  lemma: märz
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: straße
-  category: noun
-  gender: ''
+- item_id: A1-N-0367
+  type: noun
+  de: Nachmittag
+  en: afternoon
+  lemma: nachmittag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0368
+  type: noun
+  de: Nacht
+  en: night
+  lemma: nacht
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: straßenbahn
-  category: noun
-  gender: ''
+- item_id: A1-N-0369
+  type: noun
+  de: Name
+  en: name
+  lemma: name
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0370
+  type: noun
+  de: November
+  en: November
+  lemma: november
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: student
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0371
+  type: noun
+  de: Obst
+  en: fruit
+  lemma: obst
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: studentin
-  category: noun
-  gender: ''
+- item_id: A1-N-0372
+  type: noun
+  de: Oktober
+  en: October
+  lemma: oktober
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0373
+  type: noun
+  de: Ordnung
+  en: order; tidiness
+  lemma: ordnung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: studium
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0374
+  type: noun
+  de: Ort
+  en: place / location
+  lemma: ort
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: stufe
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0375
+  type: noun
+  de: Osten
+  en: east
+  lemma: osten
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: stunde
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0376
+  type: noun
+  de: Papier
+  en: paper
+  lemma: papier
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ständig
-  category: noun
-  gender: ''
+- item_id: A1-N-0377
+  type: noun
+  de: Park
+  en: park
+  lemma: park
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0378
+  type: noun
+  de: Partner
+  en: partner (male)
+  lemma: partner
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: stück
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0379
+  type: noun
+  de: Partnerin
+  en: partner (female)
+  lemma: partnerin
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: supermarkt
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0380
+  type: noun
+  de: Party
+  en: party
+  lemma: party
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: system
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0381
+  type: noun
+  de: Pass
+  en: passport
+  lemma: pass
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: szeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0382
+  type: noun
+  de: Pause
+  en: break / pause
+  lemma: pause
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: süden
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0383
+  type: noun
+  de: Perlmann-balm
+  en: man
+  lemma: perlmann-balm
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: tag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0384
+  type: noun
+  de: Person
+  en: person
+  lemma: person
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tagesablauf
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0385
+  type: noun
+  de: Pflanze
+  en: plant
+  lemma: pflanze
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tageszeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0386
+  type: noun
+  de: Pfund
+  en: pound
+  lemma: pfund
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tanzen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0387
+  type: noun
+  de: Plan
+  en: plan
+  lemma: plan
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tasche
-  category: noun
-  gender: ''
+- item_id: A1-N-0388
+  type: noun
+  de: Platz
+  en: place; square; seat; space
+  lemma: platz
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0389
+  type: noun
+  de: pluralform
+  en: plural form
+  lemma: pluralform
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tasse
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0390
+  type: noun
+  de: Polizei
+  en: police
+  lemma: polizei
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: taxi
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0391
+  type: noun
+  de: Post
+  en: post / mail; post office
+  lemma: post
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tee
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0392
+  type: noun
+  de: Postleitzahl
+  en: postcode / ZIP code
+  lemma: postleitzahl
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: teil
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0393
+  type: noun
+  de: Praktikum
+  en: internship / practical training
+  lemma: praktikum
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: telefon
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0394
+  type: noun
+  de: Praxis
+  en: practice; doctor’s office; practical experience
+  lemma: praxis
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: telefonanschluss
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0395
+  type: noun
+  de: Preis
+  en: price; prize
+  lemma: preis
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: telekommunikation
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0396
+  type: noun
+  de: Presse
+  en: press (media)
+  lemma: presse
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: termin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0397
+  type: noun
+  de: Problem
+  en: problem
+  lemma: problem
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: test
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0398
+  type: noun
+  de: Profil
+  en: profile
+  lemma: profil
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: testbeschrei
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0399
+  type: noun
+  de: Prospekt
+  en: leaflet / brochure
+  lemma: prospekt
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: text
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0400
+  type: noun
+  de: Prozent
+  en: percent / percentage
+  lemma: prozent
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: threshold-level
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0401
+  type: noun
+  de: Prüfung
+  en: exam / test
+  lemma: prüfung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ticket
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0402
+  type: noun
+  de: Prüfungsverfahren
+  en: examination procedure
+  lemma: prüfungsverfahren
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tier
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0403
+  type: noun
+  de: Prüfungsziel
+  en: examination objective / exam goal
+  lemma: prüfungsziel
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tion
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0404
+  type: noun
+  de: Publikation
+  en: publication
+  lemma: publikation
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tisch
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0405
+  type: noun
+  de: Quadratmeter
+  en: square metre / square meter
+  lemma: quadratmeter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tochter
-  category: noun
-  gender: ''
+- item_id: A1-N-0406
+  type: noun
+  de: Rad
+  en: bike
+  lemma: rad
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0407
+  type: noun
+  de: Radio
+  en: bike
+  lemma: radio
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: toilette
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0408
+  type: noun
+  de: Rahmen
+  en: frame; framework
+  lemma: rahmen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tomate
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0409
+  type: noun
+  de: Rat
+  en: advice; council
+  lemma: rat
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tomatensaft
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0410
+  type: noun
+  de: Rauchen
+  en: smoking
+  lemma: rauchen
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: treppe
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0411
+  type: noun
+  de: Raum
+  en: room; space
+  lemma: raum
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: trinken
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0412
+  type: noun
+  de: Rausch
+  en: intoxication / high
+  lemma: rausch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: tür
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0413
+  type: noun
+  de: Rechnung
+  en: bill / invoice
+  lemma: rechnung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: türke
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0414
+  type: noun
+  de: Referenz
+  en: reference
+  lemma: referenz
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: türkin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0415
+  type: noun
+  de: Referenzrahmen
+  en: reference framework
+  lemma: referenzrahmen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: uhr
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0416
+  type: noun
+  de: Regen
+  en: rain
+  lemma: regen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: uhrzeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0417
+  type: noun
+  de: Reise
+  en: trip / journey
+  lemma: reise
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: umwelt
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0418
+  type: noun
+  de: Reisebüro
+  en: travel agency
+  lemma: reisebüro
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: unterhaltung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0419
+  type: noun
+  de: Reiseführer
+  en: travel guide; guidebook; tour guide (person)
+  lemma: reiseführer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: unterkunft
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0420
+  type: noun
+  de: Reparatur
+  en: repair
+  lemma: reparatur
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: unterricht
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0421
+  type: noun
+  de: Restaurant
+  en: restaurant
+  lemma: restaurant
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: unterschrift
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0422
+  type: noun
+  de: Rezeption
+  en: reception (desk)
+  lemma: rezeption
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: urlaub
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0423
+  type: noun
+  de: Richtung
+  en: direction
+  lemma: richtung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: vater
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0424
+  type: noun
+  de: Ruf
+  en: reputation; call
+  lemma: ruf
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: verein
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0425
+  type: noun
+  de: S-bahn
+  en: train
+  lemma: s-bahn
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: verfügung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0426
+  type: noun
+  de: Saft
+  en: juice
+  lemma: saft
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: verkehr
-  category: noun
-  gender: ''
+- item_id: A1-N-0427
+  type: noun
+  de: Salat
+  en: salad
+  lemma: salat
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0428
+  type: noun
+  de: Salz
+  en: salt
+  lemma: salz
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: verkäufer
-  category: noun
-  gender: ''
+- item_id: A1-N-0429
+  type: noun
+  de: Samstag
+  en: Saturday
+  lemma: samstag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0430
+  type: noun
+  de: Satz
+  en: sentence; set
+  lemma: satz
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: verkäuferin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0431
+  type: noun
+  de: Schalter
+  en: counter (service desk); switch
+  lemma: schalter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: vermieter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0432
+  type: noun
+  de: Schild
+  en: sign; shield
+  lemma: schild
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: verständnis
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0433
+  type: noun
+  de: Schinken
+  en: ham
+  lemma: schinken
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: verwandte
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0434
+  type: noun
+  de: Schluss
+  en: end; conclusion
+  lemma: schluss
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: verwendung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0435
+  type: noun
+  de: Schlüssel
+  en: key
+  lemma: schlüssel
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: vierte
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0436
+  type: noun
+  de: Schrank
+  en: cupboard / closet / wardrobe
+  lemma: schrank
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: viertel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0437
+  type: noun
+  de: Schreiben
+  en: letter / writing
+  lemma: schreiben
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: volkshochschulverbands
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0438
+  type: noun
+  de: Schuh
+  en: shoe
+  lemma: schuh
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: vollpension
-  category: noun
-  gender: ''
+- item_id: A1-N-0439
+  type: noun
+  de: Schule
+  en: school
+  lemma: schule
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0440
+  type: noun
+  de: Schwester
+  en: sister
+  lemma: schwester
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: vormittag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0441
+  type: noun
+  de: Schwimmbad
+  en: bathroom
+  lemma: schwimmbad
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: vorname
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0442
+  type: noun
+  de: Schüler
+  en: pupil / school student (male)
+  lemma: schüler
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: vorsicht
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0443
+  type: noun
+  de: Sekunde
+  en: second (unit of time)
+  lemma: sekunde
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: vorwahl
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0444
+  type: noun
+  de: September
+  en: September
+  lemma: september
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: wandern
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0445
+  type: noun
+  de: Sinn
+  en: sense; meaning; purpose
+  lemma: sinn
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: waschmaschine
-  category: noun
-  gender: ''
+- item_id: A1-N-0446
+  type: noun
+  de: Sohn
+  en: son
+  lemma: sohn
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0447
+  type: noun
+  de: Sonnabend
+  en: Saturday
+  lemma: sonnabend
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wasser
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0448
+  type: noun
+  de: Sonne
+  en: sun
+  lemma: sonne
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: waystage
-  category: noun
-  gender: ''
+- item_id: A1-N-0449
+  type: noun
+  de: Sonntag
+  en: Sunday
+  lemma: sonntag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0450
+  type: noun
+  de: Speisekarte
+  en: card
+  lemma: speisekarte
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: weibliche
-  category: noun
-  gender: ''
+- item_id: A1-N-0451
+  type: noun
+  de: Stadt
+  en: city
+  lemma: stadt
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0452
+  type: noun
+  de: Stadtplan
+  en: city
+  lemma: stadtplan
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wein
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0453
+  type: noun
+  de: Stelle
+  en: place; position; job
+  lemma: stelle
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: weiterbildungs-test
-  category: noun
-  gender: ''
+- item_id: A1-N-0454
+  type: noun
+  de: Straße
+  en: street
+  lemma: straße
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0455
+  type: noun
+  de: Straßenbahn
+  en: street train
+  lemma: straßenbahn
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: weißbrot
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0456
+  type: noun
+  de: System
+  en: system
+  lemma: system
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: welt
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0457
+  type: noun
+  de: Szeit
+  en: time
+  lemma: szeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wertenschlag
-  category: noun
-  gender: ''
+- item_id: A1-N-0458
+  type: noun
+  de: Tag
+  en: day
+  lemma: tag
+  gender: m
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0459
+  type: noun
+  de: Tagesablauf
+  en: day
+  lemma: tagesablauf
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: westen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0460
+  type: noun
+  de: Tageszeit
+  en: day time
+  lemma: tageszeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wetter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0461
+  type: noun
+  de: Tee
+  en: tea
+  lemma: tee
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: wiederhören
-  category: noun
-  gender: ''
+- item_id: A1-N-0462
+  type: noun
+  de: Telefon
+  en: telephone
+  lemma: telefon
+  gender: n
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0463
+  type: noun
+  de: Telefonanschluss
+  en: telephone
+  lemma: telefonanschluss
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wiedersehen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0464
+  type: noun
+  de: Tier
+  en: animal
+  lemma: tier
+  gender: n
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: wiilst
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0465
+  type: noun
+  de: Tisch
+  en: table
+  lemma: tisch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wind
-  category: noun
-  gender: ''
+- item_id: A1-N-0466
+  type: noun
+  de: Tochter
+  en: daughter
+  lemma: tochter
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0467
+  type: noun
+  de: Tomatensaft
+  en: juice
+  lemma: tomatensaft
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: winter
-  category: noun
-  gender: ''
+- item_id: A1-N-0468
+  type: noun
+  de: Tür
+  en: door
+  lemma: tür
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0469
+  type: noun
+  de: Türke
+  en: door
+  lemma: türke
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: wissenschaft
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0470
+  type: noun
+  de: Türkin
+  en: door
+  lemma: türkin
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: woche
-  category: noun
-  gender: ''
+- item_id: A1-N-0471
+  type: noun
+  de: Uhr
+  en: clock
+  lemma: uhr
+  gender: f
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-N-0472
+  type: noun
+  de: Uhrzeit
+  en: time of day; clock time
+  lemma: uhrzeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wochenende
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0473
+  type: noun
+  de: Vater
+  en: father
+  lemma: vater
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: wochentag
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0474
+  type: noun
+  de: Verkehr
+  en: traffic
+  lemma: verkehr
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: wochentage
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0475
+  type: noun
+  de: Vormittag
+  en: day
+  lemma: vormittag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wohnen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0476
+  type: noun
+  de: Vorname
+  en: first name; given name
+  lemma: vorname
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: wohnung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0477
+  type: noun
+  de: Wasser
+  en: water
+  lemma: wasser
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: wohnungswechsel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0478
+  type: noun
+  de: Waystage
+  en: day
+  lemma: waystage
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (high confidence)
   source: cefr_a1_core
-- lemma: wort
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0479
+  type: noun
+  de: Wein
+  en: wine
+  lemma: wein
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wortbildung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0480
+  type: noun
+  de: Weißbrot
+  en: bread
+  lemma: weißbrot
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wortgruppe
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0481
+  type: noun
+  de: Wochentag
+  en: day
+  lemma: wochentag
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: wortgruppenlist
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0482
+  type: noun
+  de: Wochentage
+  en: day
+  lemma: wochentage
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (high confidence)
   source: cefr_a1_core
-- lemma: währung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0483
+  type: noun
+  de: Wortgruppe
+  en: word group; phrase
+  lemma: wortgruppe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: wörterbuch
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0484
+  type: noun
+  de: Währung
+  en: currency
+  lemma: währung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zahl
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0485
+  type: noun
+  de: Wörterbuch
+  en: book
+  lemma: wörterbuch
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: zeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0486
+  type: noun
+  de: Zahl
+  en: number; figure
+  lemma: zahl
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zeitangabe
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0487
+  type: noun
+  de: Zeit
+  en: time
+  lemma: zeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: zeitmaße
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0488
+  type: noun
+  de: Zeitangabe
+  en: time
+  lemma: zeitangabe
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: zeitung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0489
+  type: noun
+  de: Zeitmaße
+  en: time
+  lemma: zeitmaße
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: zentimeter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0490
+  type: noun
+  de: Zeitung
+  en: time
+  lemma: zeitung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (high confidence)
   source: cefr_a1_core
-- lemma: zertifikat
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0491
+  type: noun
+  de: Zentimeter
+  en: centimetre; centimeter
+  lemma: zentimeter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zigarette
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0492
+  type: noun
+  de: Zertifikat
+  en: certificate
+  lemma: zertifikat
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zimmer
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0493
+  type: noun
+  de: Zigarette
+  en: cigarette
+  lemma: zigarette
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zimmerschlüssel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0494
+  type: noun
+  de: Zimmer
+  en: room
+  lemma: zimmer
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: zoll
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0495
+  type: noun
+  de: Zimmerschlüssel
+  en: room
+  lemma: zimmerschlüssel
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (medium confidence)
   source: cefr_a1_core
-- lemma: zug
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0496
+  type: noun
+  de: Zoll
+  en: customs (border); inch (measurement)
+  lemma: zoll
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zurzeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0497
+  type: noun
+  de: Zug
+  en: train
+  lemma: zug
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: zusammenarbeit
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0498
+  type: noun
+  de: Zusammenarbeit
+  en: work
+  lemma: zusammenarbeit
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: zusammensetzung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0499
+  type: noun
+  de: Zusammensetzung
+  en: composition; compound (word)
+  lemma: zusammensetzung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zusammenstellung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0500
+  type: noun
+  de: Zusammenstellung
+  en: compilation; arrangement; collection
+  lemma: zusammenstellung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: zwölfter
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0501
+  type: noun
+  de: Zwölfter
+  en: twelfth (the twelfth)
+  lemma: zwölfter
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: äpfel
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0502
+  type: noun
+  de: Äpfel
+  en: apples
+  lemma: äpfel
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: ärztin
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0503
+  type: noun
+  de: Ärztin
+  en: doctor (female)
+  lemma: ärztin
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: INFERRED (low confidence)
   source: cefr_a1_core
-- lemma: öffnen
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0504
+  type: noun
+  de: Öffnen
+  en: opening (act of opening)
+  lemma: öffnen
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: öl
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0505
+  type: noun
+  de: Öl
+  en: oil
+  lemma: öl
+  gender: m
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
-- lemma: übernachtung
-  category: noun
-  gender: ''
-  notes: ''
+- item_id: A1-N-0506
+  type: noun
+  de: Übernachtung
+  en: overnight stay; overnight accommodation
+  lemma: übernachtung
+  gender: f
   seen_in_course: false
-  course_examples: ''
+  notes: (auto-filled)
   source: cefr_a1_core
+last_updated: '2025-12-21'
