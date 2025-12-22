@@ -3,1277 +3,1459 @@ language: de
 cefr_level: A1
 source: cefr_a1_core
 items:
-- lemma: abend
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0001
+  type: adverb
+  de: abend
+  en: TODO
+  lemma: abend
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aktiv
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: allein
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0002
+  type: adverb
+  de: aktiv
+  en: TODO
+  lemma: aktiv
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: also
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: alt
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0003
+  type: adverb
+  de: allein
+  en: TODO
+  lemma: allein
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ander
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: anders
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0004
+  type: adverb
+  de: also
+  en: TODO
+  lemma: also
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: arbeitslos
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: auch
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0005
+  type: adverb
+  de: alt
+  en: TODO
+  lemma: alt
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ausländisch
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: automatisch
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0006
+  type: adverb
+  de: ander
+  en: TODO
+  lemma: ander
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: außerdem
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: bald
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0007
+  type: adverb
+  de: anders
+  en: TODO
+  lemma: anders
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bar
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: beispielsweise
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0008
+  type: adverb
+  de: arbeitslos
+  en: TODO
+  lemma: arbeitslos
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bekannt
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: billig
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0009
+  type: adverb
+  de: auch
+  en: TODO
+  lemma: auch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bisschen
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: bitte
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0010
+  type: adverb
+  de: ausländisch
+  en: TODO
+  lemma: ausländisch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bitter
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: blau
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0011
+  type: adverb
+  de: automatisch
+  en: TODO
+  lemma: automatisch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: breit
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: böse
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0012
+  type: adverb
+  de: außerdem
+  en: TODO
+  lemma: außerdem
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: circa
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: da
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0013
+  type: adverb
+  de: bald
+  en: TODO
+  lemma: bald
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dabei
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: daneben
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0014
+  type: adverb
+  de: bar
+  en: TODO
+  lemma: bar
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dann
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: daran
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0015
+  type: adverb
+  de: beispielsweise
+  en: TODO
+  lemma: beispielsweise
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: darunter
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: dazu
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0016
+  type: adverb
+  de: bekannt
+  en: TODO
+  lemma: bekannt
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deshalb
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: didaktisch
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0017
+  type: adverb
+  de: billig
+  en: TODO
+  lemma: billig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dort
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: dorthin
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0018
+  type: adverb
+  de: bisschen
+  en: TODO
+  lemma: bisschen
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: draußen
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: drück
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0019
+  type: adverb
+  de: bitte
+  en: TODO
+  lemma: bitte
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eignen
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: eilig
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0020
+  type: adverb
+  de: bitter
+  en: TODO
+  lemma: bitter
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einfach
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: einmal
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0021
+  type: adverb
+  de: blau
+  en: TODO
+  lemma: blau
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einundzwanzig
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: erschließbar
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0022
+  type: adverb
+  de: breit
+  en: TODO
+  lemma: breit
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erst
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: erstmals
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0023
+  type: adverb
+  de: böse
+  en: TODO
+  lemma: böse
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: erziehungs
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: etwa
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0024
+  type: adverb
+  de: circa
+  en: TODO
+  lemma: circa
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: europäisch
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: falsch
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0025
+  type: adverb
+  de: da
+  en: TODO
+  lemma: da
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fertig
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: finnisch
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0026
+  type: adverb
+  de: dabei
+  en: TODO
+  lemma: dabei
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fliegst
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: frei
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0027
+  type: adverb
+  de: daneben
+  en: TODO
+  lemma: daneben
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: freitags
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: fremd
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0028
+  type: adverb
+  de: dann
+  en: TODO
+  lemma: dann
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: früh
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ganz
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0029
+  type: adverb
+  de: daran
+  en: TODO
+  lemma: daran
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gelb
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gemeinsamer
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0030
+  type: adverb
+  de: darunter
+  en: TODO
+  lemma: darunter
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gerade
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: geradeaus
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0031
+  type: adverb
+  de: dazu
+  en: TODO
+  lemma: dazu
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gern
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gerne
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0032
+  type: adverb
+  de: deshalb
+  en: TODO
+  lemma: deshalb
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gestern
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gib
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0033
+  type: adverb
+  de: didaktisch
+  en: TODO
+  lemma: didaktisch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gleich
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: glücklich
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0034
+  type: adverb
+  de: dort
+  en: TODO
+  lemma: dort
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: grau
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: groß
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0035
+  type: adverb
+  de: dorthin
+  en: TODO
+  lemma: dorthin
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: grün
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gut
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0036
+  type: adverb
+  de: draußen
+  en: TODO
+  lemma: draußen
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: gültig
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: günstig
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0037
+  type: adverb
+  de: drück
+  en: TODO
+  lemma: drück
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: halb
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: hell
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0038
+  type: adverb
+  de: eignen
+  en: TODO
+  lemma: eignen
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: her
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: heran
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0039
+  type: adverb
+  de: eilig
+  en: TODO
+  lemma: eilig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: herzlich
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: heute
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0040
+  type: adverb
+  de: einfach
+  en: TODO
+  lemma: einfach
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hier
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: hin
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0041
+  type: adverb
+  de: einmal
+  en: TODO
+  lemma: einmal
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hingegen
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: hinten
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0042
+  type: adverb
+  de: einundzwanzig
+  en: TODO
+  lemma: einundzwanzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hoch
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: häufig
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0043
+  type: adverb
+  de: erschließbar
+  en: TODO
+  lemma: erschließbar
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: immer
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: interessiert
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0044
+  type: adverb
+  de: erst
+  en: TODO
+  lemma: erst
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: international
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ja
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0045
+  type: adverb
+  de: erstmals
+  en: TODO
+  lemma: erstmals
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: jetzt
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: jung
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0046
+  type: adverb
+  de: erziehungs
+  en: TODO
+  lemma: erziehungs
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kalt
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: kaputt
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0047
+  type: adverb
+  de: etwa
+  en: TODO
+  lemma: etwa
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: klar
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: klein
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0048
+  type: adverb
+  de: europäisch
+  en: TODO
+  lemma: europäisch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: komm
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: krank
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0049
+  type: adverb
+  de: falsch
+  en: TODO
+  lemma: falsch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kulturell
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: kurz
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0050
+  type: adverb
+  de: fertig
+  en: TODO
+  lemma: fertig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lang
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: lange
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0051
+  type: adverb
+  de: finnisch
+  en: TODO
+  lemma: finnisch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: langsam
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ledig
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0052
+  type: adverb
+  de: fliegst
+  en: TODO
+  lemma: fliegst
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: leicht
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: leider
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0053
+  type: adverb
+  de: frei
+  en: TODO
+  lemma: frei
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: leise
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: letzt
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0054
+  type: adverb
+  de: freitags
+  en: TODO
+  lemma: freitags
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lieb
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: links
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0055
+  type: adverb
+  de: fremd
+  en: TODO
+  lemma: fremd
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: lustig
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: magst
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0056
+  type: adverb
+  de: früh
+  en: TODO
+  lemma: früh
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mal
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: mehr
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0057
+  type: adverb
+  de: ganz
+  en: TODO
+  lemma: ganz
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: meist
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: meistens
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0058
+  type: adverb
+  de: gelb
+  en: TODO
+  lemma: gelb
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mexikanisch
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: modern
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0059
+  type: adverb
+  de: gemeinsamer
+  en: TODO
+  lemma: gemeinsamer
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: morgen
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: morgens
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0060
+  type: adverb
+  de: gerade
+  en: TODO
+  lemma: gerade
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: männlich
-  category: adverb
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: möglich
-  category: adverb
-  gender: ''
-  notes: ''
+- item_id: A1-ADV-0061
+  type: adverb
+  de: geradeaus
+  en: TODO
+  lemma: geradeaus
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: müde
-  category: adverb
-  gender: ''
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0062
+  type: adverb
+  de: gern
+  en: TODO
+  lemma: gern
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: neu
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0063
+  type: adverb
+  de: gerne
+  en: TODO
+  lemma: gerne
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0064
+  type: adverb
+  de: gestern
+  en: TODO
+  lemma: gestern
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: neunzehnhundertneunundneunzig
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0065
+  type: adverb
+  de: gib
+  en: TODO
+  lemma: gib
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0066
+  type: adverb
+  de: gleich
+  en: TODO
+  lemma: gleich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: nie
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0067
+  type: adverb
+  de: glücklich
+  en: TODO
+  lemma: glücklich
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0068
+  type: adverb
+  de: grau
+  en: TODO
+  lemma: grau
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: nimm
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0069
+  type: adverb
+  de: groß
+  en: TODO
+  lemma: groß
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0070
+  type: adverb
+  de: grün
+  en: TODO
+  lemma: grün
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: noch
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0071
+  type: adverb
+  de: gut
+  en: TODO
+  lemma: gut
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0072
+  type: adverb
+  de: gültig
+  en: TODO
+  lemma: gültig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: normal
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0073
+  type: adverb
+  de: günstig
+  en: TODO
+  lemma: günstig
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0074
+  type: adverb
+  de: halb
+  en: TODO
+  lemma: halb
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: nur
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0075
+  type: adverb
+  de: hell
+  en: TODO
+  lemma: hell
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0076
+  type: adverb
+  de: her
+  en: TODO
+  lemma: her
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: nächst
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0077
+  type: adverb
+  de: heran
+  en: TODO
+  lemma: heran
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0078
+  type: adverb
+  de: herzlich
+  en: TODO
+  lemma: herzlich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: oben
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0079
+  type: adverb
+  de: heute
+  en: TODO
+  lemma: heute
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0080
+  type: adverb
+  de: hier
+  en: TODO
+  lemma: hier
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: oft
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0081
+  type: adverb
+  de: hin
+  en: TODO
+  lemma: hin
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0082
+  type: adverb
+  de: hingegen
+  en: TODO
+  lemma: hingegen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: passiv
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0083
+  type: adverb
+  de: hinten
+  en: TODO
+  lemma: hinten
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0084
+  type: adverb
+  de: hoch
+  en: TODO
+  lemma: hoch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: pünktlich
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0085
+  type: adverb
+  de: häufig
+  en: TODO
+  lemma: häufig
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0086
+  type: adverb
+  de: immer
+  en: TODO
+  lemma: immer
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: raus
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0087
+  type: adverb
+  de: interessiert
+  en: TODO
+  lemma: interessiert
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0088
+  type: adverb
+  de: international
+  en: TODO
+  lemma: international
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: rechts
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0089
+  type: adverb
+  de: ja
+  en: TODO
+  lemma: ja
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0090
+  type: adverb
+  de: jetzt
+  en: TODO
+  lemma: jetzt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: relevant
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0091
+  type: adverb
+  de: jung
+  en: TODO
+  lemma: jung
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0092
+  type: adverb
+  de: kalt
+  en: TODO
+  lemma: kalt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: richtig
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0093
+  type: adverb
+  de: kaputt
+  en: TODO
+  lemma: kaputt
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0094
+  type: adverb
+  de: klar
+  en: TODO
+  lemma: klar
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: rot
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0095
+  type: adverb
+  de: klein
+  en: TODO
+  lemma: klein
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0096
+  type: adverb
+  de: komm
+  en: TODO
+  lemma: komm
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: ruhig
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0097
+  type: adverb
+  de: krank
+  en: TODO
+  lemma: krank
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0098
+  type: adverb
+  de: kulturell
+  en: TODO
+  lemma: kulturell
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: russisch
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0099
+  type: adverb
+  de: kurz
+  en: TODO
+  lemma: kurz
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0100
+  type: adverb
+  de: lang
+  en: TODO
+  lemma: lang
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: samstags
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0101
+  type: adverb
+  de: lange
+  en: TODO
+  lemma: lange
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0102
+  type: adverb
+  de: langsam
+  en: TODO
+  lemma: langsam
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schlecht
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0103
+  type: adverb
+  de: ledig
+  en: TODO
+  lemma: ledig
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0104
+  type: adverb
+  de: leicht
+  en: TODO
+  lemma: leicht
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schmecken
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0105
+  type: adverb
+  de: leider
+  en: TODO
+  lemma: leider
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0106
+  type: adverb
+  de: leise
+  en: TODO
+  lemma: leise
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schnell
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0107
+  type: adverb
+  de: letzt
+  en: TODO
+  lemma: letzt
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0108
+  type: adverb
+  de: lieb
+  en: TODO
+  lemma: lieb
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schon
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0109
+  type: adverb
+  de: links
+  en: TODO
+  lemma: links
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0110
+  type: adverb
+  de: lustig
+  en: TODO
+  lemma: lustig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schwarz
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0111
+  type: adverb
+  de: magst
+  en: TODO
+  lemma: magst
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0112
+  type: adverb
+  de: mal
+  en: TODO
+  lemma: mal
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schwer
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0113
+  type: adverb
+  de: mehr
+  en: TODO
+  lemma: mehr
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0114
+  type: adverb
+  de: meist
+  en: TODO
+  lemma: meist
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schön
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0115
+  type: adverb
+  de: meistens
+  en: TODO
+  lemma: meistens
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0116
+  type: adverb
+  de: mexikanisch
+  en: TODO
+  lemma: mexikanisch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: sehr
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0117
+  type: adverb
+  de: modern
+  en: TODO
+  lemma: modern
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0118
+  type: adverb
+  de: morgen
+  en: TODO
+  lemma: morgen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: selbstständig
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0119
+  type: adverb
+  de: morgens
+  en: TODO
+  lemma: morgens
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0120
+  type: adverb
+  de: männlich
+  en: TODO
+  lemma: männlich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: sinntragend
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0121
+  type: adverb
+  de: möglich
+  en: TODO
+  lemma: möglich
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0122
+  type: adverb
+  de: müde
+  en: TODO
+  lemma: müde
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: so
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0123
+  type: adverb
+  de: neu
+  en: TODO
+  lemma: neu
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0124
+  type: adverb
+  de: neunzehnhundertneunundneunzig
+  en: TODO
+  lemma: neunzehnhundertneunundneunzig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: sofort
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0125
+  type: adverb
+  de: nie
+  en: TODO
+  lemma: nie
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0126
+  type: adverb
+  de: nimm
+  en: TODO
+  lemma: nimm
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: spät
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0127
+  type: adverb
+  de: noch
+  en: TODO
+  lemma: noch
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0128
+  type: adverb
+  de: normal
+  en: TODO
+  lemma: normal
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: stell
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0129
+  type: adverb
+  de: nur
+  en: TODO
+  lemma: nur
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0130
+  type: adverb
+  de: nächst
+  en: TODO
+  lemma: nächst
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: telc
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0131
+  type: adverb
+  de: oben
+  en: TODO
+  lemma: oben
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0132
+  type: adverb
+  de: oft
+  en: TODO
+  lemma: oft
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: teuer
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0133
+  type: adverb
+  de: passiv
+  en: TODO
+  lemma: passiv
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0134
+  type: adverb
+  de: pünktlich
+  en: TODO
+  lemma: pünktlich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: tot
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0135
+  type: adverb
+  de: raus
+  en: TODO
+  lemma: raus
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0136
+  type: adverb
+  de: rechts
+  en: TODO
+  lemma: rechts
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: türkisch
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0137
+  type: adverb
+  de: relevant
+  en: TODO
+  lemma: relevant
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0138
+  type: adverb
+  de: richtig
+  en: TODO
+  lemma: richtig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: unerlässlich
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0139
+  type: adverb
+  de: rot
+  en: TODO
+  lemma: rot
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0140
+  type: adverb
+  de: ruhig
+  en: TODO
+  lemma: ruhig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: unten
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0141
+  type: adverb
+  de: russisch
+  en: TODO
+  lemma: russisch
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0142
+  type: adverb
+  de: samstags
+  en: TODO
+  lemma: samstags
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: vielleicht
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0143
+  type: adverb
+  de: schlecht
+  en: TODO
+  lemma: schlecht
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0144
+  type: adverb
+  de: schmecken
+  en: TODO
+  lemma: schmecken
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: warum
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0145
+  type: adverb
+  de: schnell
+  en: TODO
+  lemma: schnell
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0146
+  type: adverb
+  de: schon
+  en: TODO
+  lemma: schon
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: weg
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0147
+  type: adverb
+  de: schwarz
+  en: TODO
+  lemma: schwarz
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0148
+  type: adverb
+  de: schwer
+  en: TODO
+  lemma: schwer
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: weh
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0149
+  type: adverb
+  de: schön
+  en: TODO
+  lemma: schön
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0150
+  type: adverb
+  de: sehr
+  en: TODO
+  lemma: sehr
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: weiblich
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0151
+  type: adverb
+  de: selbstständig
+  en: TODO
+  lemma: selbstständig
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0152
+  type: adverb
+  de: sinntragend
+  en: TODO
+  lemma: sinntragend
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: weit
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0153
+  type: adverb
+  de: so
+  en: TODO
+  lemma: so
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0154
+  type: adverb
+  de: sofort
+  en: TODO
+  lemma: sofort
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: weiter
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0155
+  type: adverb
+  de: spät
+  en: TODO
+  lemma: spät
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0156
+  type: adverb
+  de: stell
+  en: TODO
+  lemma: stell
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: welcher
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0157
+  type: adverb
+  de: telc
+  en: TODO
+  lemma: telc
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0158
+  type: adverb
+  de: teuer
+  en: TODO
+  lemma: teuer
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wem
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0159
+  type: adverb
+  de: tot
+  en: TODO
+  lemma: tot
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0160
+  type: adverb
+  de: türkisch
+  en: TODO
+  lemma: türkisch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wichtig
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0161
+  type: adverb
+  de: unerlässlich
+  en: TODO
+  lemma: unerlässlich
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0162
+  type: adverb
+  de: unten
+  en: TODO
+  lemma: unten
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wie
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0163
+  type: adverb
+  de: vielleicht
+  en: TODO
+  lemma: vielleicht
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0164
+  type: adverb
+  de: warum
+  en: TODO
+  lemma: warum
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: willkommen
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0165
+  type: adverb
+  de: weg
+  en: TODO
+  lemma: weg
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0166
+  type: adverb
+  de: weh
+  en: TODO
+  lemma: weh
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wohin
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0167
+  type: adverb
+  de: weiblich
+  en: TODO
+  lemma: weiblich
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0168
+  type: adverb
+  de: weit
+  en: TODO
+  lemma: weit
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wunderbar
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0169
+  type: adverb
+  de: weiter
+  en: TODO
+  lemma: weiter
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0170
+  type: adverb
+  de: welcher
+  en: TODO
+  lemma: welcher
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zufrieden
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0171
+  type: adverb
+  de: wem
+  en: TODO
+  lemma: wem
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0172
+  type: adverb
+  de: wichtig
+  en: TODO
+  lemma: wichtig
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zugrunde
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0173
+  type: adverb
+  de: wie
+  en: TODO
+  lemma: wie
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0174
+  type: adverb
+  de: willkommen
+  en: TODO
+  lemma: willkommen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zunächst
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0175
+  type: adverb
+  de: wohin
+  en: TODO
+  lemma: wohin
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0176
+  type: adverb
+  de: wunderbar
+  en: TODO
+  lemma: wunderbar
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zurück
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0177
+  type: adverb
+  de: zufrieden
+  en: TODO
+  lemma: zufrieden
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0178
+  type: adverb
+  de: zugrunde
+  en: TODO
+  lemma: zugrunde
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zusammen
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0179
+  type: adverb
+  de: zunächst
+  en: TODO
+  lemma: zunächst
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0180
+  type: adverb
+  de: zurück
+  en: TODO
+  lemma: zurück
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zusätzlich
-  category: adverb
-  gender: ''
+- item_id: A1-ADV-0181
+  type: adverb
+  de: zusammen
+  en: TODO
+  lemma: zusammen
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-ADV-0182
+  type: adverb
+  de: zusätzlich
+  en: TODO
+  lemma: zusätzlich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
