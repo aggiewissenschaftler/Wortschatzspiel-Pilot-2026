@@ -1,263 +1,442 @@
-schema_version: '0.1'
-rule_type: numbers_time
+schema: lexical_schema_v1
 language: de
-description: A1 numbers/time tokens
+cefr_level: A1
+source: cefr_a1_core
 items:
-- lex_id: A1-NT-0001
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 15
-  text: '1743'
-- lex_id: A1-NT-0002
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 15
-  text: '1994'
-- lex_id: A1-NT-0003
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 15
-  text: '2008'
-- lex_id: A1-NT-0004
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 15
-  text: '2022'
-- lex_id: A1-NT-0005
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 56
-  text: abends
-- lex_id: A1-NT-0006
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: am Abend
-- lex_id: A1-NT-0007
-  sources:
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 15
-  text: Am Abend
-- lex_id: A1-NT-0008
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 4
-  text: am Dienstag
-- lex_id: A1-NT-0009
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: am Montag
-- lex_id: A1-NT-0010
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: am Morgen
-- lex_id: A1-NT-0011
-  sources:
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 14
-  text: Am Morgen
-- lex_id: A1-NT-0012
-  sources:
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 18
-  text: Am Morgen lernt er
-- lex_id: A1-NT-0013
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: am Wochenende
-- lex_id: A1-NT-0014
-  sources:
-  - ppt: First words.pptx
-    slide: 24
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 17
-  text: das Jahr
-- lex_id: A1-NT-0015
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 51
-  text: das Wochenende
-- lex_id: A1-NT-0016
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 43
-  text: der Dienstag
-- lex_id: A1-NT-0017
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 45
-  text: der Donnerstag
-- lex_id: A1-NT-0018
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 46
-  text: der Freitag
-- lex_id: A1-NT-0019
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 44
-  text: der Mittwoch
-- lex_id: A1-NT-0020
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 42
-  text: der Montag
-- lex_id: A1-NT-0021
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 47
-  text: der Samstag
-- lex_id: A1-NT-0022
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 48
-  text: der Sonntag
-- lex_id: A1-NT-0023
-  sources:
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 15
-  text: der Tag
-- lex_id: A1-NT-0024
-  sources:
-  - ppt: First words.pptx
-    slide: 7
-  - ppt: Modul 2.a - 1.B Vocabulary PowerPoint.pptx
-    slide: 35
-  text: die Uhr
-- lex_id: A1-NT-0025
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 50
-  - ppt: First words.pptx
-    slide: 25
-  - ppt: Modul 1.b - 1.A (Part 2).pptx
-    slide: 18
-  text: die Woche
-- lex_id: A1-NT-0026
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 4
-  text: Es dreizehn Uhr fünfundvierzig
-- lex_id: A1-NT-0027
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 2
-  text: Es ist ein Uhr
-- lex_id: A1-NT-0028
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 4
-  text: Es ist fünfzehn Uhr
-- lex_id: A1-NT-0029
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 2
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 3
-  text: Es ist Mittag
-- lex_id: A1-NT-0030
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 2
-  text: Es ist zwei Uhr
-- lex_id: A1-NT-0031
-  sources:
-  - ppt: Modul 3.c - Time & Date.pptx
-    slide: 2
-  text: Es ist zwölf Uhr
-- lex_id: A1-NT-0032
-  sources:
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 12
-  text: gestern
-- lex_id: A1-NT-0033
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 10
-  text: heute
-- lex_id: A1-NT-0034
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: heute Abend (Nacht)
-- lex_id: A1-NT-0035
-  sources:
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 17
-  text: Heute lerne ich Deutsch.
-- lex_id: A1-NT-0036
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 11
-  text: morgen
-- lex_id: A1-NT-0037
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: morgen Abend (Nacht)
-- lex_id: A1-NT-0038
-  sources:
-  - ppt: Modul 2.e - Word order.pptx
-    slide: 18
-  text: Morgen arbeite ich nicht
-- lex_id: A1-NT-0039
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: morgen früh
-- lex_id: A1-NT-0040
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: morgen Nachmittag
-- lex_id: A1-NT-0041
-  sources:
-  - ppt: Modul 3.a - 2.A Vocabulary PowerPoint.pptx
-    slide: 54
-  text: morgens
-- lex_id: A1-NT-0042
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 2
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 5
-  text: nächste Woche
-- lex_id: A1-NT-0043
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 5
-  text: nächsten Freitag
-- lex_id: A1-NT-0044
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 5
-  text: nächsten Mittwoch
-- lex_id: A1-NT-0045
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 5
-  text: nächsten Montag
-- lex_id: A1-NT-0046
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 2
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 5
-  text: nächstes Jahr
-- lex_id: A1-NT-0047
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 5
-  text: nächstes Wochenende
-- lex_id: A1-NT-0048
-  sources:
-  - ppt: Module 4.c - Present as Future.pptx
-    slide: 3
-  text: übermorgen
+- item_id: A1-NT-0001
+  type: number_time
+  de: '1743'
+  en: TODO
+  lemma: '1743'
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0001", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 15}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0002
+  type: number_time
+  de: '1994'
+  en: TODO
+  lemma: '1994'
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0002", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 15}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0003
+  type: number_time
+  de: '2008'
+  en: TODO
+  lemma: '2008'
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0003", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 15}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0004
+  type: number_time
+  de: '2022'
+  en: TODO
+  lemma: '2022'
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0004", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 15}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0005
+  type: number_time
+  de: abends
+  en: TODO
+  lemma: abends
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0005", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 56}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0006
+  type: number_time
+  de: am Abend
+  en: TODO
+  lemma: am Abend
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0006", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0007
+  type: number_time
+  de: Am Abend
+  en: TODO
+  lemma: Am Abend
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0007", "sources": [{"ppt": "Modul 2.e - Word order.pptx",
+    "slide": 15}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0008
+  type: number_time
+  de: am Dienstag
+  en: TODO
+  lemma: am Dienstag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0008", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 4}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0009
+  type: number_time
+  de: am Montag
+  en: TODO
+  lemma: am Montag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0009", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0010
+  type: number_time
+  de: am Morgen
+  en: TODO
+  lemma: am Morgen
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0010", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0011
+  type: number_time
+  de: Am Morgen
+  en: TODO
+  lemma: Am Morgen
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0011", "sources": [{"ppt": "Modul 2.e - Word order.pptx",
+    "slide": 14}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0012
+  type: number_time
+  de: Am Morgen lernt er
+  en: TODO
+  lemma: Am Morgen lernt er
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0012", "sources": [{"ppt": "Modul 2.e - Word order.pptx",
+    "slide": 18}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0013
+  type: number_time
+  de: am Wochenende
+  en: TODO
+  lemma: am Wochenende
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0013", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0014
+  type: number_time
+  de: das Jahr
+  en: TODO
+  lemma: das Jahr
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0014", "sources": [{"ppt": "First words.pptx", "slide":
+    24}, {"ppt": "Modul 1.b - 1.A (Part 2).pptx", "slide": 17}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0015
+  type: number_time
+  de: das Wochenende
+  en: TODO
+  lemma: das Wochenende
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0015", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 51}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0016
+  type: number_time
+  de: der Dienstag
+  en: TODO
+  lemma: der Dienstag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0016", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 43}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0017
+  type: number_time
+  de: der Donnerstag
+  en: TODO
+  lemma: der Donnerstag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0017", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 45}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0018
+  type: number_time
+  de: der Freitag
+  en: TODO
+  lemma: der Freitag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0018", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 46}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0019
+  type: number_time
+  de: der Mittwoch
+  en: TODO
+  lemma: der Mittwoch
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0019", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 44}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0020
+  type: number_time
+  de: der Montag
+  en: TODO
+  lemma: der Montag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0020", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 42}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0021
+  type: number_time
+  de: der Samstag
+  en: TODO
+  lemma: der Samstag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0021", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 47}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0022
+  type: number_time
+  de: der Sonntag
+  en: TODO
+  lemma: der Sonntag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0022", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 48}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0023
+  type: number_time
+  de: der Tag
+  en: TODO
+  lemma: der Tag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0023", "sources": [{"ppt": "Modul 1.b - 1.A (Part
+    2).pptx", "slide": 15}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0024
+  type: number_time
+  de: die Uhr
+  en: TODO
+  lemma: die Uhr
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0024", "sources": [{"ppt": "First words.pptx", "slide":
+    7}, {"ppt": "Modul 2.a - 1.B Vocabulary PowerPoint.pptx", "slide": 35}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0025
+  type: number_time
+  de: die Woche
+  en: TODO
+  lemma: die Woche
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0025", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 50}, {"ppt": "First words.pptx", "slide": 25}, {"ppt":
+    "Modul 1.b - 1.A (Part 2).pptx", "slide": 18}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0026
+  type: number_time
+  de: Es dreizehn Uhr fünfundvierzig
+  en: TODO
+  lemma: Es dreizehn Uhr fünfundvierzig
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0026", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 4}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0027
+  type: number_time
+  de: Es ist ein Uhr
+  en: TODO
+  lemma: Es ist ein Uhr
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0027", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 2}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0028
+  type: number_time
+  de: Es ist fünfzehn Uhr
+  en: TODO
+  lemma: Es ist fünfzehn Uhr
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0028", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 4}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0029
+  type: number_time
+  de: Es ist Mittag
+  en: TODO
+  lemma: Es ist Mittag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0029", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 2}, {"ppt": "Modul 3.c - Time & Date.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0030
+  type: number_time
+  de: Es ist zwei Uhr
+  en: TODO
+  lemma: Es ist zwei Uhr
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0030", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 2}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0031
+  type: number_time
+  de: Es ist zwölf Uhr
+  en: TODO
+  lemma: Es ist zwölf Uhr
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0031", "sources": [{"ppt": "Modul 3.c - Time & Date.pptx",
+    "slide": 2}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0032
+  type: number_time
+  de: gestern
+  en: TODO
+  lemma: gestern
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0032", "sources": [{"ppt": "Modul 2.e - Word order.pptx",
+    "slide": 12}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0033
+  type: number_time
+  de: heute
+  en: TODO
+  lemma: heute
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0033", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}, {"ppt": "Modul 2.e - Word order.pptx", "slide":
+    10}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0034
+  type: number_time
+  de: heute Abend (Nacht)
+  en: TODO
+  lemma: heute Abend (Nacht)
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0034", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0035
+  type: number_time
+  de: Heute lerne ich Deutsch.
+  en: TODO
+  lemma: Heute lerne ich Deutsch.
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0035", "sources": [{"ppt": "Modul 2.e - Word order.pptx",
+    "slide": 17}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0036
+  type: number_time
+  de: morgen
+  en: TODO
+  lemma: morgen
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0036", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}, {"ppt": "Modul 2.e - Word order.pptx", "slide":
+    11}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0037
+  type: number_time
+  de: morgen Abend (Nacht)
+  en: TODO
+  lemma: morgen Abend (Nacht)
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0037", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0038
+  type: number_time
+  de: Morgen arbeite ich nicht
+  en: TODO
+  lemma: Morgen arbeite ich nicht
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0038", "sources": [{"ppt": "Modul 2.e - Word order.pptx",
+    "slide": 18}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0039
+  type: number_time
+  de: morgen früh
+  en: TODO
+  lemma: morgen früh
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0039", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0040
+  type: number_time
+  de: morgen Nachmittag
+  en: TODO
+  lemma: morgen Nachmittag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0040", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0041
+  type: number_time
+  de: morgens
+  en: TODO
+  lemma: morgens
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0041", "sources": [{"ppt": "Modul 3.a - 2.A Vocabulary
+    PowerPoint.pptx", "slide": 54}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0042
+  type: number_time
+  de: nächste Woche
+  en: TODO
+  lemma: nächste Woche
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0042", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 2}, {"ppt": "Module 4.c - Present as Future.pptx", "slide":
+    5}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0043
+  type: number_time
+  de: nächsten Freitag
+  en: TODO
+  lemma: nächsten Freitag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0043", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 5}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0044
+  type: number_time
+  de: nächsten Mittwoch
+  en: TODO
+  lemma: nächsten Mittwoch
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0044", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 5}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0045
+  type: number_time
+  de: nächsten Montag
+  en: TODO
+  lemma: nächsten Montag
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0045", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 5}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0046
+  type: number_time
+  de: nächstes Jahr
+  en: TODO
+  lemma: nächstes Jahr
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0046", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 2}, {"ppt": "Module 4.c - Present as Future.pptx", "slide":
+    5}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0047
+  type: number_time
+  de: nächstes Wochenende
+  en: TODO
+  lemma: nächstes Wochenende
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0047", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 5}]}'
+  source: numbers_time_sources
+- item_id: A1-NT-0048
+  type: number_time
+  de: übermorgen
+  en: TODO
+  lemma: übermorgen
+  seen_in_course: false
+  notes: 'PROV:{"lex_id": "A1-NT-0048", "sources": [{"ppt": "Module 4.c - Present
+    as Future.pptx", "slide": 3}]}'
+  source: numbers_time_sources
