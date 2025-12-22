@@ -2687,3 +2687,10 @@ items:
   sources:
   - ppt: Modul 2.b - Verb conjugations 1.pptx
     slide: 3
+lexicons:
+  verbs: verbs.yaml
+  adjectives: adjectives.yaml
+  nouns: nouns.yaml
+  adverbs: adverbs.yaml
+  others: others.yaml
+  numbers_time: numbers_time.yaml
