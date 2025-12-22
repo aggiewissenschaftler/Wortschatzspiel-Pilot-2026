@@ -3,2026 +3,2315 @@ language: de
 cefr_level: A1
 source: cefr_a1_core
 items:
-- lemma: all
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0001
+  type: other
+  de: all
+  en: TODO
+  lemma: all
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aller
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: dein
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0002
+  type: other
+  de: aller
+  en: TODO
+  lemma: aller
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deine
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: der
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0003
+  type: other
+  de: dein
+  en: TODO
+  lemma: dein
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dieser
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ein
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0004
+  type: other
+  de: deine
+  en: TODO
+  lemma: deine
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: euer
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ihr
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0005
+  type: other
+  de: der
+  en: TODO
+  lemma: der
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: jeder
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: kein
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0006
+  type: other
+  de: dieser
+  en: TODO
+  lemma: dieser
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mein
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: nen
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0007
+  type: other
+  de: ein
+  en: TODO
+  lemma: ein
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: paar
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: sein
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0008
+  type: other
+  de: euer
+  en: TODO
+  lemma: euer
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: solcher
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: unser
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0009
+  type: other
+  de: ihr
+  en: TODO
+  lemma: ihr
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: viel
-  category: article
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: welcher
-  category: article
-  gender: ''
-  notes: ''
+- item_id: A1-O-0010
+  type: other
+  de: jeder
+  en: TODO
+  lemma: jeder
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aber
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: bis
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0011
+  type: other
+  de: kein
+  en: TODO
+  lemma: kein
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: da
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: denn
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0012
+  type: other
+  de: mein
+  en: TODO
+  lemma: mein
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: doch
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: möchtest
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0013
+  type: other
+  de: nen
+  en: TODO
+  lemma: nen
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: noch
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: oder
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0014
+  type: other
+  de: paar
+  en: TODO
+  lemma: paar
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: plus
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: seit
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0015
+  type: other
+  de: sein
+  en: TODO
+  lemma: sein
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: um
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: und
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0016
+  type: other
+  de: solcher
+  en: TODO
+  lemma: solcher
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wann
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: warum
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0017
+  type: other
+  de: unser
+  en: TODO
+  lemma: unser
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wenn
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: wo
-  category: conjunction
-  gender: ''
-  notes: ''
+- item_id: A1-O-0018
+  type: other
+  de: viel
+  en: TODO
+  lemma: viel
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: woher
-  category: conjunction
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: acht
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0019
+  type: other
+  de: welcher
+  en: TODO
+  lemma: welcher
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: achtzehn
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: achtzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0020
+  type: other
+  de: aber
+  en: TODO
+  lemma: aber
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: drei
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: dreiundzwanzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0021
+  type: other
+  de: bis
+  en: TODO
+  lemma: bis
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dreizehn
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: dreißig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0022
+  type: other
+  de: da
+  en: TODO
+  lemma: da
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: elf
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: fünf
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0023
+  type: other
+  de: denn
+  en: TODO
+  lemma: denn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fünfzehn
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: fünfzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0024
+  type: other
+  de: doch
+  en: TODO
+  lemma: doch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hundert
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: neun
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0025
+  type: other
+  de: möchtest
+  en: TODO
+  lemma: möchtest
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: neunzehn
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: neunzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0026
+  type: other
+  de: noch
+  en: TODO
+  lemma: noch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: 'null'
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: sechs
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0027
+  type: other
+  de: oder
+  en: TODO
+  lemma: oder
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: sechzehn
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: sechzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0028
+  type: other
+  de: plus
+  en: TODO
+  lemma: plus
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: sieben
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: siebzehn
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0029
+  type: other
+  de: seit
+  en: TODO
+  lemma: seit
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: siebzig
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: tausend
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0030
+  type: other
+  de: um
+  en: TODO
+  lemma: um
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: vier
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: vierundzwanzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0031
+  type: other
+  de: und
+  en: TODO
+  lemma: und
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: vierzehn
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: vierzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0032
+  type: other
+  de: wann
+  en: TODO
+  lemma: wann
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zehn
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: zwanzig
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0033
+  type: other
+  de: warum
+  en: TODO
+  lemma: warum
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zwei
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: zweihundert
-  category: numeral
-  gender: ''
-  notes: ''
+- item_id: A1-O-0034
+  type: other
+  de: wenn
+  en: TODO
+  lemma: wenn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zwölf
-  category: numeral
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ja
-  category: particle
-  gender: ''
-  notes: ''
+- item_id: A1-O-0035
+  type: other
+  de: wo
+  en: TODO
+  lemma: wo
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: nein
-  category: particle
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: nicht
-  category: particle
-  gender: ''
-  notes: ''
+- item_id: A1-O-0036
+  type: other
+  de: woher
+  en: TODO
+  lemma: woher
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ab
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: als
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0037
+  type: other
+  de: acht
+  en: TODO
+  lemma: acht
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: an
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: auf
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0038
+  type: other
+  de: achtzehn
+  en: TODO
+  lemma: achtzehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: aus
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: bei
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0039
+  type: other
+  de: achtzig
+  en: TODO
+  lemma: achtzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dank
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: durch
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0040
+  type: other
+  de: drei
+  en: TODO
+  lemma: drei
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: für
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gegen
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0041
+  type: other
+  de: dreiundzwanzig
+  en: TODO
+  lemma: dreiundzwanzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hinsichtlich
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: in
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0042
+  type: other
+  de: dreizehn
+  en: TODO
+  lemma: dreizehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: innerhalb
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: laut
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0043
+  type: other
+  de: dreißig
+  en: TODO
+  lemma: dreißig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: minus
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: mit
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0044
+  type: other
+  de: elf
+  en: TODO
+  lemma: elf
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: nach
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: neben
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0045
+  type: other
+  de: fünf
+  en: TODO
+  lemma: fünf
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ohne
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: seit
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0046
+  type: other
+  de: fünfzehn
+  en: TODO
+  lemma: fünfzehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: um
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: unter
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0047
+  type: other
+  de: fünfzig
+  en: TODO
+  lemma: fünfzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: von
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: vor
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0048
+  type: other
+  de: hundert
+  en: TODO
+  lemma: hundert
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wie
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: zu
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0049
+  type: other
+  de: neun
+  en: TODO
+  lemma: neun
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: zwischen
-  category: preposition
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: über
-  category: preposition
-  gender: ''
-  notes: ''
+- item_id: A1-O-0050
+  type: other
+  de: neunzehn
+  en: TODO
+  lemma: neunzehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: alle
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: aller
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0051
+  type: other
+  de: neunzig
+  en: TODO
+  lemma: neunzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: anderer
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: beide
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0052
+  type: other
+  de: 'null'
+  en: TODO
+  lemma: 'null'
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dein
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: der
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0053
+  type: other
+  de: sechs
+  en: TODO
+  lemma: sechs
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dich
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: dieser
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0054
+  type: other
+  de: sechzehn
+  en: TODO
+  lemma: sechzehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: dir
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: du
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0055
+  type: other
+  de: sechzig
+  en: TODO
+  lemma: sechzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ein
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: einer
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0056
+  type: other
+  de: sieben
+  en: TODO
+  lemma: sieben
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: einzeln
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: er
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0057
+  type: other
+  de: siebzehn
+  en: TODO
+  lemma: siebzehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: es
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: etwas
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0058
+  type: other
+  de: siebzig
+  en: TODO
+  lemma: siebzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: euch
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ich
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0059
+  type: other
+  de: tausend
+  en: TODO
+  lemma: tausend
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ihm
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ihn
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0060
+  type: other
+  de: vier
+  en: TODO
+  lemma: vier
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ihnen
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ihr
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0061
+  type: other
+  de: vierundzwanzig
+  en: TODO
+  lemma: vierundzwanzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: kein
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: man
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0062
+  type: other
+  de: vierzehn
+  en: TODO
+  lemma: vierzehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mehrere
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: mein
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0063
+  type: other
+  de: vierzig
+  en: TODO
+  lemma: vierzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: meister
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: mich
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0064
+  type: other
+  de: zehn
+  en: TODO
+  lemma: zehn
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: mir
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: nichts
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0065
+  type: other
+  de: zwanzig
+  en: TODO
+  lemma: zwanzig
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: sich
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: sie
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0066
+  type: other
+  de: zwei
+  en: TODO
+  lemma: zwei
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: uns
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: viel
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0067
+  type: other
+  de: zweihundert
+  en: TODO
+  lemma: zweihundert
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: viele
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: vieler
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0068
+  type: other
+  de: zwölf
+  en: TODO
+  lemma: zwölf
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: was
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: welchen
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0069
+  type: other
+  de: ja
+  en: TODO
+  lemma: ja
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: welcher
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: wen
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0070
+  type: other
+  de: nein
+  en: TODO
+  lemma: nein
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wenig
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: weniger
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0071
+  type: other
+  de: nicht
+  en: TODO
+  lemma: nicht
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: wer
-  category: pronoun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: wir
-  category: pronoun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0072
+  type: other
+  de: ab
+  en: TODO
+  lemma: ab
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: adult
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: alexander
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0073
+  type: other
+  de: als
+  en: TODO
+  lemma: als
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ali
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: alltagskommuni
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0074
+  type: other
+  de: an
+  en: TODO
+  lemma: an
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: august
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ausländerbe
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0075
+  type: other
+  de: auf
+  en: TODO
+  lemma: auf
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: bad
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: bast
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0076
+  type: other
+  de: aus
+  en: TODO
+  lemma: aus
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: becker
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: below
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0077
+  type: other
+  de: bei
+  en: TODO
+  lemma: bei
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: berlin
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: best
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0078
+  type: other
+  de: dank
+  en: TODO
+  lemma: dank
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: brasilien
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: brauchst
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0079
+  type: other
+  de: durch
+  en: TODO
+  lemma: durch
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: braun
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: cambridge
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0080
+  type: other
+  de: für
+  en: TODO
+  lemma: für
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: charlotte
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: chen
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0081
+  type: other
+  de: gegen
+  en: TODO
+  lemma: gegen
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: chiemsee
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: china
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0082
+  type: other
+  de: hinsichtlich
+  en: TODO
+  lemma: hinsichtlich
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: claudia
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: conchi
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0083
+  type: other
+  de: in
+  en: TODO
+  lemma: in
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: deutschland
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: development
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0084
+  type: other
+  de: innerhalb
+  en: TODO
+  lemma: innerhalb
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: direktor
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: edk
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0085
+  type: other
+  de: laut
+  en: TODO
+  lemma: laut
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: ehegattennachzugs
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: ek
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0086
+  type: other
+  de: minus
+  en: TODO
+  lemma: minus
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eltville
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: essen
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0087
+  type: other
+  de: mit
+  en: TODO
+  lemma: mit
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: europa
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: europarat
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0088
+  type: other
+  de: nach
+  en: TODO
+  lemma: nach
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: europe
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: european
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0089
+  type: other
+  de: neben
+  en: TODO
+  lemma: neben
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: eva
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: everest
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0090
+  type: other
+  de: ohne
+  en: TODO
+  lemma: ohne
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fahr
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: felix
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0091
+  type: other
+  de: seit
+  en: TODO
+  lemma: seit
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: finnin
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: finnland
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0092
+  type: other
+  de: um
+  en: TODO
+  lemma: um
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: fitzpatrick
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: frankfurt
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0093
+  type: other
+  de: unter
+  en: TODO
+  lemma: unter
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: frankreich
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: garc
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0094
+  type: other
+  de: von
+  en: TODO
+  lemma: von
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: georgi
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: goethe-institut
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0095
+  type: other
+  de: vor
+  en: TODO
+  lemma: vor
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: goethe-zertifikat
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: gonz
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0096
+  type: other
+  de: wie
+  en: TODO
+  lemma: wie
   seen_in_course: false
-  course_examples: ''
-  source: cefr_a1_core
-- lemma: hallo
-  category: proper noun
-  gender: ''
   notes: ''
-  seen_in_course: false
-  course_examples: ''
   source: cefr_a1_core
-- lemma: hamburg
-  category: proper noun
-  gender: ''
-  notes: ''
+- item_id: A1-O-0097
+  type: other
+  de: zu
+  en: TODO
+  lemma: zu
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hans
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0098
+  type: other
+  de: zwischen
+  en: TODO
+  lemma: zwischen
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0099
+  type: other
+  de: über
+  en: TODO
+  lemma: über
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: heidelberg
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0100
+  type: other
+  de: alle
+  en: TODO
+  lemma: alle
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0101
+  type: other
+  de: aller
+  en: TODO
+  lemma: aller
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hele
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0102
+  type: other
+  de: anderer
+  en: TODO
+  lemma: anderer
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0103
+  type: other
+  de: beide
+  en: TODO
+  lemma: beide
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: helmut
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0104
+  type: other
+  de: dein
+  en: TODO
+  lemma: dein
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0105
+  type: other
+  de: der
+  en: TODO
+  lemma: der
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hg
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0106
+  type: other
+  de: dich
+  en: TODO
+  lemma: dich
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0107
+  type: other
+  de: dieser
+  en: TODO
+  lemma: dieser
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: huber
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0108
+  type: other
+  de: dir
+  en: TODO
+  lemma: dir
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0109
+  type: other
+  de: du
+  en: TODO
+  lemma: du
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: hundertein
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0110
+  type: other
+  de: ein
+  en: TODO
+  lemma: ein
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0111
+  type: other
+  de: einer
+  en: TODO
+  lemma: einer
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: inge
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0112
+  type: other
+  de: einzeln
+  en: TODO
+  lemma: einzeln
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0113
+  type: other
+  de: er
+  en: TODO
+  lemma: er
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: italien
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0114
+  type: other
+  de: es
+  en: TODO
+  lemma: es
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0115
+  type: other
+  de: etwas
+  en: TODO
+  lemma: etwas
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: japan
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0116
+  type: other
+  de: euch
+  en: TODO
+  lemma: euch
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0117
+  type: other
+  de: ich
+  en: TODO
+  lemma: ich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: jeans
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0118
+  type: other
+  de: ihm
+  en: TODO
+  lemma: ihm
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0119
+  type: other
+  de: ihn
+  en: TODO
+  lemma: ihn
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: jenny
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0120
+  type: other
+  de: ihnen
+  en: TODO
+  lemma: ihnen
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0121
+  type: other
+  de: ihr
+  en: TODO
+  lemma: ihr
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: john
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0122
+  type: other
+  de: kein
+  en: TODO
+  lemma: kein
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0123
+  type: other
+  de: man
+  en: TODO
+  lemma: man
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: judith
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0124
+  type: other
+  de: mehrere
+  en: TODO
+  lemma: mehrere
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0125
+  type: other
+  de: mein
+  en: TODO
+  lemma: mein
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kantonalen
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0126
+  type: other
+  de: meister
+  en: TODO
+  lemma: meister
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0127
+  type: other
+  de: mich
+  en: TODO
+  lemma: mich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: katharina
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0128
+  type: other
+  de: mir
+  en: TODO
+  lemma: mir
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0129
+  type: other
+  de: nichts
+  en: TODO
+  lemma: nichts
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: klaus
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0130
+  type: other
+  de: sich
+  en: TODO
+  lemma: sich
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0131
+  type: other
+  de: sie
+  en: TODO
+  lemma: sie
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: klein
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0132
+  type: other
+  de: uns
+  en: TODO
+  lemma: uns
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0133
+  type: other
+  de: viel
+  en: TODO
+  lemma: viel
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kmk
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0134
+  type: other
+  de: viele
+  en: TODO
+  lemma: viele
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0135
+  type: other
+  de: vieler
+  en: TODO
+  lemma: vieler
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kommst
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0136
+  type: other
+  de: was
+  en: TODO
+  lemma: was
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0137
+  type: other
+  de: welchen
+  en: TODO
+  lemma: welchen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kommu
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0138
+  type: other
+  de: welcher
+  en: TODO
+  lemma: welcher
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0139
+  type: other
+  de: wen
+  en: TODO
+  lemma: wen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kompetenzskala
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0140
+  type: other
+  de: wenig
+  en: TODO
+  lemma: wenig
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0141
+  type: other
+  de: weniger
+  en: TODO
+  lemma: weniger
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: komposita
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0142
+  type: other
+  de: wer
+  en: TODO
+  lemma: wer
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0143
+  type: other
+  de: wir
+  en: TODO
+  lemma: wir
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: kunz
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0144
+  type: other
+  de: adult
+  en: TODO
+  lemma: adult
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0145
+  type: other
+  de: alexander
+  en: TODO
+  lemma: alexander
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: köln
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0146
+  type: other
+  de: ali
+  en: TODO
+  lemma: ali
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0147
+  type: other
+  de: alltagskommuni
+  en: TODO
+  lemma: alltagskommuni
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: langen
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0148
+  type: other
+  de: august
+  en: TODO
+  lemma: august
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0149
+  type: other
+  de: ausländerbe
+  en: TODO
+  lemma: ausländerbe
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: langenscheidt
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0150
+  type: other
+  de: bad
+  en: TODO
+  lemma: bad
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0151
+  type: other
+  de: bast
+  en: TODO
+  lemma: bast
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: laura
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0152
+  type: other
+  de: becker
+  en: TODO
+  lemma: becker
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0153
+  type: other
+  de: below
+  en: TODO
+  lemma: below
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: ledig
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0154
+  type: other
+  de: berlin
+  en: TODO
+  lemma: berlin
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0155
+  type: other
+  de: best
+  en: TODO
+  lemma: best
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: lies
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0156
+  type: other
+  de: brasilien
+  en: TODO
+  lemma: brasilien
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0157
+  type: other
+  de: brauchst
+  en: TODO
+  lemma: brauchst
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: lukas
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0158
+  type: other
+  de: braun
+  en: TODO
+  lemma: braun
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0159
+  type: other
+  de: cambridge
+  en: TODO
+  lemma: cambridge
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: main
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0160
+  type: other
+  de: charlotte
+  en: TODO
+  lemma: charlotte
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0161
+  type: other
+  de: chen
+  en: TODO
+  lemma: chen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: mainz
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0162
+  type: other
+  de: chiemsee
+  en: TODO
+  lemma: chiemsee
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0163
+  type: other
+  de: china
+  en: TODO
+  lemma: china
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: mannheim
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0164
+  type: other
+  de: claudia
+  en: TODO
+  lemma: claudia
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0165
+  type: other
+  de: conchi
+  en: TODO
+  lemma: conchi
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: manuela
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0166
+  type: other
+  de: deutschland
+  en: TODO
+  lemma: deutschland
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0167
+  type: other
+  de: development
+  en: TODO
+  lemma: development
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: martin
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0168
+  type: other
+  de: direktor
+  en: TODO
+  lemma: direktor
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0169
+  type: other
+  de: edk
+  en: TODO
+  lemma: edk
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: meier
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0170
+  type: other
+  de: ehegattennachzugs
+  en: TODO
+  lemma: ehegattennachzugs
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0171
+  type: other
+  de: ek
+  en: TODO
+  lemma: ek
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: merten
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0172
+  type: other
+  de: eltville
+  en: TODO
+  lemma: eltville
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0173
+  type: other
+  de: essen
+  en: TODO
+  lemma: essen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: mexiko
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0174
+  type: other
+  de: europa
+  en: TODO
+  lemma: europa
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0175
+  type: other
+  de: europarat
+  en: TODO
+  lemma: europarat
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: michaela
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0176
+  type: other
+  de: europe
+  en: TODO
+  lemma: europe
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0177
+  type: other
+  de: european
+  en: TODO
+  lemma: european
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: mount
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0178
+  type: other
+  de: eva
+  en: TODO
+  lemma: eva
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0179
+  type: other
+  de: everest
+  en: TODO
+  lemma: everest
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: muttersprachli
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0180
+  type: other
+  de: fahr
+  en: TODO
+  lemma: fahr
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0181
+  type: other
+  de: felix
+  en: TODO
+  lemma: felix
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: müller
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0182
+  type: other
+  de: finnin
+  en: TODO
+  lemma: finnin
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0183
+  type: other
+  de: finnland
+  en: TODO
+  lemma: finnland
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: münchen
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0184
+  type: other
+  de: fitzpatrick
+  en: TODO
+  lemma: fitzpatrick
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0185
+  type: other
+  de: frankfurt
+  en: TODO
+  lemma: frankfurt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: natione
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0186
+  type: other
+  de: frankreich
+  en: TODO
+  lemma: frankreich
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0187
+  type: other
+  de: garc
+  en: TODO
+  lemma: garc
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: ober
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0188
+  type: other
+  de: georgi
+  en: TODO
+  lemma: georgi
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0189
+  type: other
+  de: goethe-institut
+  en: TODO
+  lemma: goethe-institut
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: of
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0190
+  type: other
+  de: goethe-zertifikat
+  en: TODO
+  lemma: goethe-zertifikat
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0191
+  type: other
+  de: gonz
+  en: TODO
+  lemma: gonz
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: offenbach
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0192
+  type: other
+  de: hallo
+  en: TODO
+  lemma: hallo
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0193
+  type: other
+  de: hamburg
+  en: TODO
+  lemma: hamburg
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: pamela
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0194
+  type: other
+  de: hans
+  en: TODO
+  lemma: hans
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0195
+  type: other
+  de: heidelberg
+  en: TODO
+  lemma: heidelberg
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: paul
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0196
+  type: other
+  de: hele
+  en: TODO
+  lemma: hele
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0197
+  type: other
+  de: helmut
+  en: TODO
+  lemma: helmut
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: peter
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0198
+  type: other
+  de: hg
+  en: TODO
+  lemma: hg
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0199
+  type: other
+  de: huber
+  en: TODO
+  lemma: huber
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: petra
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0200
+  type: other
+  de: hundertein
+  en: TODO
+  lemma: hundertein
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0201
+  type: other
+  de: inge
+  en: TODO
+  lemma: inge
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: picasso
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0202
+  type: other
+  de: italien
+  en: TODO
+  lemma: italien
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0203
+  type: other
+  de: japan
+  en: TODO
+  lemma: japan
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: polen
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0204
+  type: other
+  de: jeans
+  en: TODO
+  lemma: jeans
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0205
+  type: other
+  de: jenny
+  en: TODO
+  lemma: jenny
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: redewe
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0206
+  type: other
+  de: john
+  en: TODO
+  lemma: john
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0207
+  type: other
+  de: judith
+  en: TODO
+  lemma: judith
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: rhein
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0208
+  type: other
+  de: kantonalen
+  en: TODO
+  lemma: kantonalen
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0209
+  type: other
+  de: katharina
+  en: TODO
+  lemma: katharina
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: ricardo
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0210
+  type: other
+  de: klaus
+  en: TODO
+  lemma: klaus
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0211
+  type: other
+  de: klein
+  en: TODO
+  lemma: klein
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: rusch
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0212
+  type: other
+  de: kmk
+  en: TODO
+  lemma: kmk
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0213
+  type: other
+  de: kommst
+  en: TODO
+  lemma: kommst
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: rüdesheim
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0214
+  type: other
+  de: kommu
+  en: TODO
+  lemma: kommu
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0215
+  type: other
+  de: kompetenzskala
+  en: TODO
+  lemma: kompetenzskala
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: saarbrücken
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0216
+  type: other
+  de: komposita
+  en: TODO
+  lemma: komposita
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0217
+  type: other
+  de: kunz
+  en: TODO
+  lemma: kunz
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: scheidt
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0218
+  type: other
+  de: köln
+  en: TODO
+  lemma: köln
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0219
+  type: other
+  de: langen
+  en: TODO
+  lemma: langen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schillerstraße
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0220
+  type: other
+  de: langenscheidt
+  en: TODO
+  lemma: langenscheidt
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0221
+  type: other
+  de: laura
+  en: TODO
+  lemma: laura
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schinkenbrot
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0222
+  type: other
+  de: ledig
+  en: TODO
+  lemma: ledig
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0223
+  type: other
+  de: lies
+  en: TODO
+  lemma: lies
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schlafzimmer
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0224
+  type: other
+  de: lukas
+  en: TODO
+  lemma: lukas
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0225
+  type: other
+  de: main
+  en: TODO
+  lemma: main
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schmidt
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0226
+  type: other
+  de: mainz
+  en: TODO
+  lemma: mainz
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0227
+  type: other
+  de: mannheim
+  en: TODO
+  lemma: mannheim
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schmitt
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0228
+  type: other
+  de: manuela
+  en: TODO
+  lemma: manuela
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0229
+  type: other
+  de: martin
+  en: TODO
+  lemma: martin
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schmitz
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0230
+  type: other
+  de: meier
+  en: TODO
+  lemma: meier
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0231
+  type: other
+  de: merten
+  en: TODO
+  lemma: merten
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: schweiz
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0232
+  type: other
+  de: mexiko
+  en: TODO
+  lemma: mexiko
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0233
+  type: other
+  de: michaela
+  en: TODO
+  lemma: michaela
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: siemens
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0234
+  type: other
+  de: mount
+  en: TODO
+  lemma: mount
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0235
+  type: other
+  de: muttersprachli
+  en: TODO
+  lemma: muttersprachli
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: silvana
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0236
+  type: other
+  de: müller
+  en: TODO
+  lemma: müller
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0237
+  type: other
+  de: münchen
+  en: TODO
+  lemma: münchen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: sind
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0238
+  type: other
+  de: natione
+  en: TODO
+  lemma: natione
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0239
+  type: other
+  de: ober
+  en: TODO
+  lemma: ober
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: sohn
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0240
+  type: other
+  de: of
+  en: TODO
+  lemma: of
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0241
+  type: other
+  de: offenbach
+  en: TODO
+  lemma: offenbach
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: spanien
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0242
+  type: other
+  de: pamela
+  en: TODO
+  lemma: pamela
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0243
+  type: other
+  de: paul
+  en: TODO
+  lemma: paul
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: starnberger
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0244
+  type: other
+  de: peter
+  en: TODO
+  lemma: peter
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0245
+  type: other
+  de: petra
+  en: TODO
+  lemma: petra
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: strassburg
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0246
+  type: other
+  de: picasso
+  en: TODO
+  lemma: picasso
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0247
+  type: other
+  de: polen
+  en: TODO
+  lemma: polen
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: stuttgart
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0248
+  type: other
+  de: redewe
+  en: TODO
+  lemma: redewe
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0249
+  type: other
+  de: rhein
+  en: TODO
+  lemma: rhein
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: suchst
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0250
+  type: other
+  de: ricardo
+  en: TODO
+  lemma: ricardo
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0251
+  type: other
+  de: rusch
+  en: TODO
+  lemma: rusch
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: susanne
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0252
+  type: other
+  de: rüdesheim
+  en: TODO
+  lemma: rüdesheim
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0253
+  type: other
+  de: saarbrücken
+  en: TODO
+  lemma: saarbrücken
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: tester
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0254
+  type: other
+  de: scheidt
+  en: TODO
+  lemma: scheidt
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0255
+  type: other
+  de: schillerstraße
+  en: TODO
+  lemma: schillerstraße
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: thomas
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0256
+  type: other
+  de: schinkenbrot
+  en: TODO
+  lemma: schinkenbrot
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0257
+  type: other
+  de: schlafzimmer
+  en: TODO
+  lemma: schlafzimmer
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: tim
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0258
+  type: other
+  de: schmidt
+  en: TODO
+  lemma: schmidt
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0259
+  type: other
+  de: schmitt
+  en: TODO
+  lemma: schmitt
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: trim
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0260
+  type: other
+  de: schmitz
+  en: TODO
+  lemma: schmitz
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0261
+  type: other
+  de: schweiz
+  en: TODO
+  lemma: schweiz
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: tschüss
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0262
+  type: other
+  de: siemens
+  en: TODO
+  lemma: siemens
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0263
+  type: other
+  de: silvana
+  en: TODO
+  lemma: silvana
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: türkei
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0264
+  type: other
+  de: sind
+  en: TODO
+  lemma: sind
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0265
+  type: other
+  de: sohn
+  en: TODO
+  lemma: sohn
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: van
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0266
+  type: other
+  de: spanien
+  en: TODO
+  lemma: spanien
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0267
+  type: other
+  de: starnberger
+  en: TODO
+  lemma: starnberger
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: vergli
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0268
+  type: other
+  de: strassburg
+  en: TODO
+  lemma: strassburg
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0269
+  type: other
+  de: stuttgart
+  en: TODO
+  lemma: stuttgart
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: veronika
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0270
+  type: other
+  de: suchst
+  en: TODO
+  lemma: suchst
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0271
+  type: other
+  de: susanne
+  en: TODO
+  lemma: susanne
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: vs
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0272
+  type: other
+  de: tester
+  en: TODO
+  lemma: tester
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0273
+  type: other
+  de: thomas
+  en: TODO
+  lemma: thomas
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: watanabe
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0274
+  type: other
+  de: tim
+  en: TODO
+  lemma: tim
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0275
+  type: other
+  de: trim
+  en: TODO
+  lemma: trim
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wiesbaden
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0276
+  type: other
+  de: tschüss
+  en: TODO
+  lemma: tschüss
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0277
+  type: other
+  de: türkei
+  en: TODO
+  lemma: türkei
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: wohnst
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0278
+  type: other
+  de: van
+  en: TODO
+  lemma: van
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0279
+  type: other
+  de: vergli
+  en: TODO
+  lemma: vergli
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: yin
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0280
+  type: other
+  de: veronika
+  en: TODO
+  lemma: veronika
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0281
+  type: other
+  de: vs
+  en: TODO
+  lemma: vs
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zagreb
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0282
+  type: other
+  de: watanabe
+  en: TODO
+  lemma: watanabe
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0283
+  type: other
+  de: wiesbaden
+  en: TODO
+  lemma: wiesbaden
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: zweitausendvierzehn
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0284
+  type: other
+  de: wohnst
+  en: TODO
+  lemma: wohnst
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0285
+  type: other
+  de: yin
+  en: TODO
+  lemma: yin
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: ösd
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0286
+  type: other
+  de: zagreb
+  en: TODO
+  lemma: zagreb
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0287
+  type: other
+  de: zweitausendvierzehn
+  en: TODO
+  lemma: zweitausendvierzehn
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
-- lemma: österreich
-  category: proper noun
-  gender: ''
+- item_id: A1-O-0288
+  type: other
+  de: ösd
+  en: TODO
+  lemma: ösd
+  seen_in_course: false
   notes: ''
+  source: cefr_a1_core
+- item_id: A1-O-0289
+  type: other
+  de: österreich
+  en: TODO
+  lemma: österreich
   seen_in_course: false
-  course_examples: ''
+  notes: ''
   source: cefr_a1_core
